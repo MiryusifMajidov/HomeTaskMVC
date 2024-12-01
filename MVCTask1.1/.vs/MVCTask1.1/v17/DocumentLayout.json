@@ -1,0 +1,393 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\MVCTask1.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A8FF0EA-A9CF-4138-8D66-984F9EFE6880}|MVCTask1.1\\MVCTask1.1.csproj|c:\\users\\user\\source\\repos\\mvctask1.1\\mvctask1.1\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A8FF0EA-A9CF-4138-8D66-984F9EFE6880}|MVCTask1.1\\MVCTask1.1.csproj|solutionrelative:mvctask1.1\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A8FF0EA-A9CF-4138-8D66-984F9EFE6880}|MVCTask1.1\\MVCTask1.1.csproj|c:\\users\\user\\source\\repos\\mvctask1.1\\mvctask1.1\\controllers\\groupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A8FF0EA-A9CF-4138-8D66-984F9EFE6880}|MVCTask1.1\\MVCTask1.1.csproj|solutionrelative:mvctask1.1\\controllers\\groupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A8FF0EA-A9CF-4138-8D66-984F9EFE6880}|MVCTask1.1\\MVCTask1.1.csproj|c:\\users\\user\\source\\repos\\mvctask1.1\\mvctask1.1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2A8FF0EA-A9CF-4138-8D66-984F9EFE6880}|MVCTask1.1\\MVCTask1.1.csproj|solutionrelative:mvctask1.1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A8FF0EA-A9CF-4138-8D66-984F9EFE6880}|MVCTask1.1\\MVCTask1.1.csproj|c:\\users\\user\\source\\repos\\mvctask1.1\\mvctask1.1\\views\\teacher\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A8FF0EA-A9CF-4138-8D66-984F9EFE6880}|MVCTask1.1\\MVCTask1.1.csproj|solutionrelative:mvctask1.1\\views\\teacher\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A8FF0EA-A9CF-4138-8D66-984F9EFE6880}|MVCTask1.1\\MVCTask1.1.csproj|c:\\users\\user\\source\\repos\\mvctask1.1\\mvctask1.1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A8FF0EA-A9CF-4138-8D66-984F9EFE6880}|MVCTask1.1\\MVCTask1.1.csproj|solutionrelative:mvctask1.1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A8FF0EA-A9CF-4138-8D66-984F9EFE6880}|MVCTask1.1\\MVCTask1.1.csproj|c:\\users\\user\\source\\repos\\mvctask1.1\\mvctask1.1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A8FF0EA-A9CF-4138-8D66-984F9EFE6880}|MVCTask1.1\\MVCTask1.1.csproj|solutionrelative:mvctask1.1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A8FF0EA-A9CF-4138-8D66-984F9EFE6880}|MVCTask1.1\\MVCTask1.1.csproj|c:\\users\\user\\source\\repos\\mvctask1.1\\mvctask1.1\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A8FF0EA-A9CF-4138-8D66-984F9EFE6880}|MVCTask1.1\\MVCTask1.1.csproj|solutionrelative:mvctask1.1\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A8FF0EA-A9CF-4138-8D66-984F9EFE6880}|MVCTask1.1\\MVCTask1.1.csproj|c:\\users\\user\\source\\repos\\mvctask1.1\\mvctask1.1\\views\\group\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A8FF0EA-A9CF-4138-8D66-984F9EFE6880}|MVCTask1.1\\MVCTask1.1.csproj|solutionrelative:mvctask1.1\\views\\group\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A8FF0EA-A9CF-4138-8D66-984F9EFE6880}|MVCTask1.1\\MVCTask1.1.csproj|c:\\users\\user\\source\\repos\\mvctask1.1\\mvctask1.1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A8FF0EA-A9CF-4138-8D66-984F9EFE6880}|MVCTask1.1\\MVCTask1.1.csproj|solutionrelative:mvctask1.1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A8FF0EA-A9CF-4138-8D66-984F9EFE6880}|MVCTask1.1\\MVCTask1.1.csproj|c:\\users\\user\\source\\repos\\mvctask1.1\\mvctask1.1\\views\\group\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A8FF0EA-A9CF-4138-8D66-984F9EFE6880}|MVCTask1.1\\MVCTask1.1.csproj|solutionrelative:mvctask1.1\\views\\group\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A8FF0EA-A9CF-4138-8D66-984F9EFE6880}|MVCTask1.1\\MVCTask1.1.csproj|c:\\users\\user\\source\\repos\\mvctask1.1\\mvctask1.1\\data\\appdbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A8FF0EA-A9CF-4138-8D66-984F9EFE6880}|MVCTask1.1\\MVCTask1.1.csproj|solutionrelative:mvctask1.1\\data\\appdbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A8FF0EA-A9CF-4138-8D66-984F9EFE6880}|MVCTask1.1\\MVCTask1.1.csproj|c:\\users\\user\\source\\repos\\mvctask1.1\\mvctask1.1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A8FF0EA-A9CF-4138-8D66-984F9EFE6880}|MVCTask1.1\\MVCTask1.1.csproj|solutionrelative:mvctask1.1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A8FF0EA-A9CF-4138-8D66-984F9EFE6880}|MVCTask1.1\\MVCTask1.1.csproj|c:\\users\\user\\source\\repos\\mvctask1.1\\mvctask1.1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A8FF0EA-A9CF-4138-8D66-984F9EFE6880}|MVCTask1.1\\MVCTask1.1.csproj|solutionrelative:mvctask1.1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A8FF0EA-A9CF-4138-8D66-984F9EFE6880}|MVCTask1.1\\MVCTask1.1.csproj|c:\\users\\user\\source\\repos\\mvctask1.1\\mvctask1.1\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A8FF0EA-A9CF-4138-8D66-984F9EFE6880}|MVCTask1.1\\MVCTask1.1.csproj|solutionrelative:mvctask1.1\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A8FF0EA-A9CF-4138-8D66-984F9EFE6880}|MVCTask1.1\\MVCTask1.1.csproj|c:\\users\\user\\source\\repos\\mvctask1.1\\mvctask1.1\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A8FF0EA-A9CF-4138-8D66-984F9EFE6880}|MVCTask1.1\\MVCTask1.1.csproj|solutionrelative:mvctask1.1\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A8FF0EA-A9CF-4138-8D66-984F9EFE6880}|MVCTask1.1\\MVCTask1.1.csproj|c:\\users\\user\\source\\repos\\mvctask1.1\\mvctask1.1\\views\\teacher\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A8FF0EA-A9CF-4138-8D66-984F9EFE6880}|MVCTask1.1\\MVCTask1.1.csproj|solutionrelative:mvctask1.1\\views\\teacher\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A8FF0EA-A9CF-4138-8D66-984F9EFE6880}|MVCTask1.1\\MVCTask1.1.csproj|c:\\users\\user\\source\\repos\\mvctask1.1\\mvctask1.1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A8FF0EA-A9CF-4138-8D66-984F9EFE6880}|MVCTask1.1\\MVCTask1.1.csproj|solutionrelative:mvctask1.1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A8FF0EA-A9CF-4138-8D66-984F9EFE6880}|MVCTask1.1\\MVCTask1.1.csproj|c:\\users\\user\\source\\repos\\mvctask1.1\\mvctask1.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A8FF0EA-A9CF-4138-8D66-984F9EFE6880}|MVCTask1.1\\MVCTask1.1.csproj|solutionrelative:mvctask1.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A8FF0EA-A9CF-4138-8D66-984F9EFE6880}|MVCTask1.1\\MVCTask1.1.csproj|c:\\users\\user\\source\\repos\\mvctask1.1\\mvctask1.1\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A8FF0EA-A9CF-4138-8D66-984F9EFE6880}|MVCTask1.1\\MVCTask1.1.csproj|solutionrelative:mvctask1.1\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A8FF0EA-A9CF-4138-8D66-984F9EFE6880}|MVCTask1.1\\MVCTask1.1.csproj|c:\\users\\user\\source\\repos\\mvctask1.1\\mvctask1.1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2A8FF0EA-A9CF-4138-8D66-984F9EFE6880}|MVCTask1.1\\MVCTask1.1.csproj|solutionrelative:mvctask1.1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A8FF0EA-A9CF-4138-8D66-984F9EFE6880}|MVCTask1.1\\MVCTask1.1.csproj|c:\\users\\user\\source\\repos\\mvctask1.1\\mvctask1.1\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A8FF0EA-A9CF-4138-8D66-984F9EFE6880}|MVCTask1.1\\MVCTask1.1.csproj|solutionrelative:mvctask1.1\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A8FF0EA-A9CF-4138-8D66-984F9EFE6880}|MVCTask1.1\\MVCTask1.1.csproj|c:\\users\\user\\source\\repos\\mvctask1.1\\mvctask1.1\\migrations\\20241119213448_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A8FF0EA-A9CF-4138-8D66-984F9EFE6880}|MVCTask1.1\\MVCTask1.1.csproj|solutionrelative:mvctask1.1\\migrations\\20241119213448_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A8FF0EA-A9CF-4138-8D66-984F9EFE6880}|MVCTask1.1\\MVCTask1.1.csproj|c:\\users\\user\\source\\repos\\mvctask1.1\\mvctask1.1\\mvctask1.1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2A8FF0EA-A9CF-4138-8D66-984F9EFE6880}|MVCTask1.1\\MVCTask1.1.csproj|solutionrelative:mvctask1.1\\mvctask1.1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MVCTask1.1\\MVCTask1.1\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "MVCTask1.1\\Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MVCTask1.1\\MVCTask1.1\\Models\\Teacher.cs",
+              "RelativeToolTip": "MVCTask1.1\\Models\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T21:08:06.145Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MVCTask1.1\\MVCTask1.1\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MVCTask1.1\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MVCTask1.1\\MVCTask1.1\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MVCTask1.1\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T12:54:30.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MVCTask1.1\\MVCTask1.1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVCTask1.1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MVCTask1.1\\MVCTask1.1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVCTask1.1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T22:45:06.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MVCTask1.1\\MVCTask1.1\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MVCTask1.1\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MVCTask1.1\\MVCTask1.1\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MVCTask1.1\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-19T22:35:28.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MVCTask1.1\\MVCTask1.1\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "MVCTask1.1\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MVCTask1.1\\MVCTask1.1\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "MVCTask1.1\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAuwHQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T22:20:41.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MVCTask1.1\\MVCTask1.1\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVCTask1.1\\Views\\Student\\Create.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MVCTask1.1\\MVCTask1.1\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "MVCTask1.1\\Views\\Student\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T22:06:20.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MVCTask1.1\\MVCTask1.1\\Views\\Group\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVCTask1.1\\Views\\Group\\Create.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MVCTask1.1\\MVCTask1.1\\Views\\Group\\Create.cshtml",
+              "RelativeToolTip": "MVCTask1.1\\Views\\Group\\Create.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAQwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T22:05:46.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MVCTask1.1\\MVCTask1.1\\Views\\Teacher\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVCTask1.1\\Views\\Teacher\\Create.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MVCTask1.1\\MVCTask1.1\\Views\\Teacher\\Create.cshtml",
+              "RelativeToolTip": "MVCTask1.1\\Views\\Teacher\\Create.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T22:05:02.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MVCTask1.1\\MVCTask1.1\\Views\\Group\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCTask1.1\\Views\\Group\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MVCTask1.1\\MVCTask1.1\\Views\\Group\\Index.cshtml",
+              "RelativeToolTip": "MVCTask1.1\\Views\\Group\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T21:56:34.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MVCTask1.1\\MVCTask1.1\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCTask1.1\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MVCTask1.1\\MVCTask1.1\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "MVCTask1.1\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T21:48:22.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MVCTask1.1\\MVCTask1.1\\Views\\Teacher\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCTask1.1\\Views\\Teacher\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MVCTask1.1\\MVCTask1.1\\Views\\Teacher\\Index.cshtml",
+              "RelativeToolTip": "MVCTask1.1\\Views\\Teacher\\Index.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T21:47:46.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MVCTask1.1\\MVCTask1.1\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "MVCTask1.1\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MVCTask1.1\\MVCTask1.1\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "MVCTask1.1\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T21:46:34.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GroupController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MVCTask1.1\\MVCTask1.1\\Controllers\\GroupController.cs",
+              "RelativeDocumentMoniker": "MVCTask1.1\\Controllers\\GroupController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MVCTask1.1\\MVCTask1.1\\Controllers\\GroupController.cs",
+              "RelativeToolTip": "MVCTask1.1\\Controllers\\GroupController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwCwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T21:44:35.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TeacherController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MVCTask1.1\\MVCTask1.1\\Controllers\\TeacherController.cs",
+              "RelativeDocumentMoniker": "MVCTask1.1\\Controllers\\TeacherController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MVCTask1.1\\MVCTask1.1\\Controllers\\TeacherController.cs*",
+              "RelativeToolTip": "MVCTask1.1\\Controllers\\TeacherController.cs*",
+              "ViewState": "AgIAABQAAAAAAAAAAIAwwC8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T21:42:26.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20241119213448_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MVCTask1.1\\MVCTask1.1\\Migrations\\20241119213448_InitialCreate.cs",
+              "RelativeDocumentMoniker": "MVCTask1.1\\Migrations\\20241119213448_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MVCTask1.1\\MVCTask1.1\\Migrations\\20241119213448_InitialCreate.cs",
+              "RelativeToolTip": "MVCTask1.1\\Migrations\\20241119213448_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T21:34:49.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext .cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MVCTask1.1\\MVCTask1.1\\Data\\AppDbContext .cs",
+              "RelativeDocumentMoniker": "MVCTask1.1\\Data\\AppDbContext .cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MVCTask1.1\\MVCTask1.1\\Data\\AppDbContext .cs",
+              "RelativeToolTip": "MVCTask1.1\\Data\\AppDbContext .cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAuwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T21:14:14.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MVCTask1.1\\MVCTask1.1\\appsettings.json",
+              "RelativeDocumentMoniker": "MVCTask1.1\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MVCTask1.1\\MVCTask1.1\\appsettings.json",
+              "RelativeToolTip": "MVCTask1.1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-19T21:10:25.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MVCTask1.1\\MVCTask1.1\\Models\\Group.cs",
+              "RelativeDocumentMoniker": "MVCTask1.1\\Models\\Group.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MVCTask1.1\\MVCTask1.1\\Models\\Group.cs",
+              "RelativeToolTip": "MVCTask1.1\\Models\\Group.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T21:07:56.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MVCTask1.1\\MVCTask1.1\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "MVCTask1.1\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MVCTask1.1\\MVCTask1.1\\Models\\Student.cs",
+              "RelativeToolTip": "MVCTask1.1\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T21:07:48.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MVCTask1.1\\MVCTask1.1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCTask1.1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MVCTask1.1\\MVCTask1.1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MVCTask1.1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T21:01:57.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MVCTask1.1.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MVCTask1.1\\MVCTask1.1\\MVCTask1.1.csproj",
+              "RelativeDocumentMoniker": "MVCTask1.1\\MVCTask1.1.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MVCTask1.1\\MVCTask1.1\\MVCTask1.1.csproj",
+              "RelativeToolTip": "MVCTask1.1\\MVCTask1.1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-19T21:00:40.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MVCTask1.1\\MVCTask1.1\\Program.cs",
+              "RelativeDocumentMoniker": "MVCTask1.1\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MVCTask1.1\\MVCTask1.1\\Program.cs",
+              "RelativeToolTip": "MVCTask1.1\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAuwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T20:46:21.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MVCTask1.1\\MVCTask1.1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVCTask1.1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MVCTask1.1\\MVCTask1.1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVCTask1.1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T20:43:25.593Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

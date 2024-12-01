@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\MediClubNtire\MediClub.BL\bin\Debug\net8.0\MediClub.BL.deps.json
+C:\Users\User\source\repos\MediClubNtire\MediClub.BL\bin\Debug\net8.0\MediClub.BL.dll
+C:\Users\User\source\repos\MediClubNtire\MediClub.BL\bin\Debug\net8.0\MediClub.BL.pdb
+C:\Users\User\source\repos\MediClubNtire\MediClub.BL\obj\Debug\net8.0\MediClub.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\MediClubNtire\MediClub.BL\obj\Debug\net8.0\MediClub.BL.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MediClubNtire\MediClub.BL\obj\Debug\net8.0\MediClub.BL.AssemblyInfo.cs
+C:\Users\User\source\repos\MediClubNtire\MediClub.BL\obj\Debug\net8.0\MediClub.BL.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MediClubNtire\MediClub.BL\obj\Debug\net8.0\MediClub.BL.dll
+C:\Users\User\source\repos\MediClubNtire\MediClub.BL\obj\Debug\net8.0\refint\MediClub.BL.dll
+C:\Users\User\source\repos\MediClubNtire\MediClub.BL\obj\Debug\net8.0\MediClub.BL.pdb
+C:\Users\User\source\repos\MediClubNtire\MediClub.BL\obj\Debug\net8.0\ref\MediClub.BL.dll
+C:\Users\User\source\repos\MediClubNtire\MediClub.BL\obj\Debug\net8.0\MediClub.BL.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\MediClubNtire\MediClub.BL\bin\Debug\net8.0\MediClub.DAL.dll
+C:\Users\User\source\repos\MediClubNtire\MediClub.BL\bin\Debug\net8.0\MediClubModel.dll
+C:\Users\User\source\repos\MediClubNtire\MediClub.BL\bin\Debug\net8.0\MediClub.DAL.pdb
+C:\Users\User\source\repos\MediClubNtire\MediClub.BL\bin\Debug\net8.0\MediClubModel.pdb
+C:\Users\User\source\repos\MediClubNtire\MediClub.BL\obj\Debug\net8.0\MediClub.30F6DB26.Up2Date

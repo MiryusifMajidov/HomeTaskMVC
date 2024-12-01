@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\MediClubNtire\MediClubModel\bin\Debug\net8.0\MediClubModel.deps.json
+C:\Users\User\source\repos\MediClubNtire\MediClubModel\bin\Debug\net8.0\MediClubModel.dll
+C:\Users\User\source\repos\MediClubNtire\MediClubModel\bin\Debug\net8.0\MediClubModel.pdb
+C:\Users\User\source\repos\MediClubNtire\MediClubModel\obj\Debug\net8.0\MediClubModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\MediClubNtire\MediClubModel\obj\Debug\net8.0\MediClubModel.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MediClubNtire\MediClubModel\obj\Debug\net8.0\MediClubModel.AssemblyInfo.cs
+C:\Users\User\source\repos\MediClubNtire\MediClubModel\obj\Debug\net8.0\MediClubModel.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MediClubNtire\MediClubModel\obj\Debug\net8.0\MediClubModel.dll
+C:\Users\User\source\repos\MediClubNtire\MediClubModel\obj\Debug\net8.0\refint\MediClubModel.dll
+C:\Users\User\source\repos\MediClubNtire\MediClubModel\obj\Debug\net8.0\MediClubModel.pdb
+C:\Users\User\source\repos\MediClubNtire\MediClubModel\obj\Debug\net8.0\ref\MediClubModel.dll

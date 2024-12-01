@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\InanceNTire2\InanceDAL\bin\Debug\net8.0\InanceDAL.deps.json
+C:\Users\User\source\repos\InanceNTire2\InanceDAL\bin\Debug\net8.0\InanceDAL.runtimeconfig.json
+C:\Users\User\source\repos\InanceNTire2\InanceDAL\bin\Debug\net8.0\InanceDAL.dll
+C:\Users\User\source\repos\InanceNTire2\InanceDAL\bin\Debug\net8.0\InanceDAL.pdb
+C:\Users\User\source\repos\InanceNTire2\InanceDAL\bin\Debug\net8.0\InanceModels.dll
+C:\Users\User\source\repos\InanceNTire2\InanceDAL\bin\Debug\net8.0\InanceModels.pdb
+C:\Users\User\source\repos\InanceNTire2\InanceDAL\obj\Debug\net8.0\InanceDAL.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\InanceNTire2\InanceDAL\obj\Debug\net8.0\InanceDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\InanceNTire2\InanceDAL\obj\Debug\net8.0\InanceDAL.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\InanceNTire2\InanceDAL\obj\Debug\net8.0\InanceDAL.AssemblyInfo.cs
+C:\Users\User\source\repos\InanceNTire2\InanceDAL\obj\Debug\net8.0\InanceDAL.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\InanceNTire2\InanceDAL\obj\Debug\net8.0\InanceDAL.csproj.Up2Date
+C:\Users\User\source\repos\InanceNTire2\InanceDAL\obj\Debug\net8.0\InanceDAL.dll
+C:\Users\User\source\repos\InanceNTire2\InanceDAL\obj\Debug\net8.0\refint\InanceDAL.dll
+C:\Users\User\source\repos\InanceNTire2\InanceDAL\obj\Debug\net8.0\InanceDAL.pdb
+C:\Users\User\source\repos\InanceNTire2\InanceDAL\obj\Debug\net8.0\InanceDAL.genruntimeconfig.cache
+C:\Users\User\source\repos\InanceNTire2\InanceDAL\obj\Debug\net8.0\ref\InanceDAL.dll

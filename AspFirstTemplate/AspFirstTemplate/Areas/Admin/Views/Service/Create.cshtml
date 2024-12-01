@@ -1,0 +1,28 @@
+﻿@model Service
+
+<div class="container mt-5">
+    <h1 class="text-center mb-4">Add Service</h1>
+    <form method="POST" asp-action="Create" asp-controller="Service">
+        @Html.AntiForgeryToken()
+
+        <div class="mb-3">
+            <label asp-for="Title" class="form-label">Title</label>
+            <input type="text" class="form-control" asp-for="Title" placeholder="Enter title (e.g., Graphic Designer)" required>
+            <span asp-validation-for="Title" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="Description" class="form-label">Description</label>
+            <textarea class="form-control" asp-for="Description" rows="2" placeholder="Enter a short description" required></textarea>
+            <span asp-validation-for="Description" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="MainImageUrl" class="form-label">Image</label>
+            <input type="text" class="form-control" asp-for="MainImageUrl" placeholder="Enter image filename (e.g., image.jpg)" required>
+            <span asp-validation-for="MainImageUrl" class="text-danger"></span>
+        </div>
+
+        <button type="submit" class="btn btn-primary w-100">Əlavə et</button>
+    </form>
+</div>

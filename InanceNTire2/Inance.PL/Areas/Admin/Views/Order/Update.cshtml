@@ -1,0 +1,73 @@
+﻿@using InanceModels.DTOs;
+@model OrderUpdateDto;
+
+<div class="container mt-5">
+    <h1 class="text-center mb-4">Add Order</h1>
+    <form method="POST">
+
+
+        <div class="mb-3">
+            <label asp-for="ClientName" class="form-label">Client Name</label>
+            <input type="text" class="form-control" id="clientName" asp-for="ClientName" required>
+        </div>
+
+
+        <div class="mb-3">
+            <label asp-for="ClientSurname" class="form-label">Client Surname</label>
+            <input type="text" class="form-control" id="clientSurname" asp-for="ClientSurname" required>
+        </div>
+
+
+        <div class="mb-3">
+            <label asp-for="ClientPhoneNumber" class="form-label">Client Phone Number</label>
+            <input type="text" class="form-control" id="clientPhoneNumber" asp-for="ClientPhoneNumber" required>
+        </div>
+
+
+        <div class="mb-3">
+            <label asp-for="ClientEmail" class="form-label">Client Email</label>
+            <input type="email" class="form-control" id="clientEmail" asp-for="ClientEmail" required>
+        </div>
+
+
+        <div class="mb-3">
+            <label asp-for="Problem" class="form-label">Problem</label>
+            <textarea class="form-control" id="problem" asp-for="Problem" rows="3" required></textarea>
+        </div>
+
+
+        <div class="mb-3">
+            <label asp-for="ServiceId" class="form-label">Service</label>
+            <select class="form-select" id="serviceId" asp-for="ServiceId" required>
+                <option value="" disabled selected>Select a service</option>
+                @if (ViewBag.Service != null)
+                {
+                    foreach (var item in ViewBag.Service)
+                    {
+                        <option value="@item.Id">@item.Title</option>
+                    }
+                }
+
+            </select>
+        </div>
+
+
+        <div class="mb-3">
+        <label asp-for="MasterId" class="form-label">Master</label>
+        <select class="form-select" id="masterId" asp-for="MasterId" required>
+        <option value="" disabled selected>Select a master</option>
+            @if (ViewBag.Master != null)
+            {
+                foreach (var item in ViewBag.Master)
+                {
+                <option value="@item.Id">@item.Name</option>
+                }
+            }
+
+        </select>
+        </div>
+        
+
+        <button type="submit" class="btn btn-primary w-100">Add Order</button>
+    </form>
+</div>

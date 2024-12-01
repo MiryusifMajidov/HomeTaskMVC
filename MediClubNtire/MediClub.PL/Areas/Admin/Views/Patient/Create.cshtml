@@ -1,0 +1,36 @@
+﻿@model MediClubModel.DTOs.PatientDto
+
+<div class="container mt-5">
+    <h1 class="text-center mb-4">Add Patient</h1>
+    <form method="POST">
+
+        <div class="mb-3">
+            <label asp-for="Name" class="form-label">Name</label>
+            <input type="text" class="form-control" id="name" asp-for="Name" required>
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="Surname" class="form-label">Surname</label>
+            <input type="text" class="form-control" id="surname" asp-for="Surname" required>
+            <span asp-validation-for="Surname" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="Finkod" class="form-label">Finkod</label>
+            <input type="text" class="form-control" id="finkod" asp-for="Finkod" required>
+            <span asp-validation-for="Finkod" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="PhoneNumber" class="form-label">Phone Number</label>
+            <input type="text" class="form-control" id="phoneNumber" asp-for="PhoneNumber" required>
+            <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+        </div>
+
+       
+        <button type="submit" class="btn btn-primary w-100">Add Patient</button>
+    </form>
+</div>
+
+

@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\InanceNTire2\InanceBL\bin\Debug\net8.0\InanceBL.deps.json
+C:\Users\User\source\repos\InanceNTire2\InanceBL\bin\Debug\net8.0\InanceBL.dll
+C:\Users\User\source\repos\InanceNTire2\InanceBL\bin\Debug\net8.0\InanceBL.pdb
+C:\Users\User\source\repos\InanceNTire2\InanceBL\bin\Debug\net8.0\InanceDAL.dll
+C:\Users\User\source\repos\InanceNTire2\InanceBL\bin\Debug\net8.0\InanceModels.dll
+C:\Users\User\source\repos\InanceNTire2\InanceBL\bin\Debug\net8.0\InanceDAL.pdb
+C:\Users\User\source\repos\InanceNTire2\InanceBL\bin\Debug\net8.0\InanceModels.pdb
+C:\Users\User\source\repos\InanceNTire2\InanceBL\obj\Debug\net8.0\InanceBL.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\InanceNTire2\InanceBL\obj\Debug\net8.0\InanceBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\InanceNTire2\InanceBL\obj\Debug\net8.0\InanceBL.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\InanceNTire2\InanceBL\obj\Debug\net8.0\InanceBL.AssemblyInfo.cs
+C:\Users\User\source\repos\InanceNTire2\InanceBL\obj\Debug\net8.0\InanceBL.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\InanceNTire2\InanceBL\obj\Debug\net8.0\InanceBL.csproj.Up2Date
+C:\Users\User\source\repos\InanceNTire2\InanceBL\obj\Debug\net8.0\InanceBL.dll
+C:\Users\User\source\repos\InanceNTire2\InanceBL\obj\Debug\net8.0\refint\InanceBL.dll
+C:\Users\User\source\repos\InanceNTire2\InanceBL\obj\Debug\net8.0\InanceBL.pdb
+C:\Users\User\source\repos\InanceNTire2\InanceBL\obj\Debug\net8.0\ref\InanceBL.dll

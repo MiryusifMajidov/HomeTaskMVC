@@ -1,0 +1,65 @@
+﻿@using InanceModels.DTOs;
+@model MasterDto;
+
+<div class="container mt-5">
+    <h1 class="text-center mb-4">Add Master</h1>
+    <form method="POST">
+
+       
+        <div class="mb-3">
+            <label asp-for="Name" class="form-label">Name</label>
+            <input type="text" class="form-control" id="name" asp-for="Name">
+        </div>
+
+       
+        <div class="mb-3">
+            <label asp-for="Surname" class="form-label">Surname</label>
+            <input type="text" class="form-control" id="surname" asp-for="Surname">
+        </div>
+
+       
+        <div class="mb-3">
+            <label asp-for="Email" class="form-label">Email</label>
+            <input type="email" class="form-control" id="email" asp-for="Email">
+        </div>
+
+        
+        <div class="mb-3">
+            <label asp-for="PhoneNumber" class="form-label">Phone Number</label>
+            <input type="text" class="form-control" id="phoneNumber" asp-for="PhoneNumber">
+        </div>
+
+       
+        <div class="mb-3">
+            <label asp-for="Username" class="form-label">Username</label>
+            <input type="text" class="form-control" id="username" asp-for="Username">
+        </div>
+
+       
+        <div class="mb-3">
+            <label asp-for="ExperienceYear" class="form-label">Experience Year</label>
+            <input type="number" class="form-control" id="experienceYear" asp-for="ExperienceYear">
+        </div>
+
+        
+        <div class="mb-3">
+            <label asp-for="ServiceId" class="form-label">Service</label>
+
+            <select class="form-select" id="serviceId" asp-for="ServiceId" required>
+                <option value="" disabled selected>Select a service</option>
+                @if (ViewBag.Service != null)
+                {
+                    foreach (var item in ViewBag.Service)
+                    {
+                        <option value="@item.Id">@item.Title</option>
+                    }
+                }
+               
+               
+            </select>
+        </div>
+
+        <!-- Submit Button -->
+        <button type="submit" class="btn btn-primary w-100">Add Master</button>
+    </form>
+</div>

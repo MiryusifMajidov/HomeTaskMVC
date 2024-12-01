@@ -1,0 +1,833 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\II Novbe\\source\\repos\\UniqloMvc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\II Novbe\\source\\repos\\UniqloMvc\\UniqloDAL\\Migrations\\20241129145207_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UniqloDAL\\Migrations\\20241129145207_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D570B9-F920-40DF-9BE4-A62A317BBE15}|UniqloBL\\UniqloBL.csproj|c:\\users\\ii novbe\\source\\repos\\uniqlomvc\\uniqlobl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D570B9-F920-40DF-9BE4-A62A317BBE15}|UniqloBL\\UniqloBL.csproj|solutionrelative:uniqlobl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D570B9-F920-40DF-9BE4-A62A317BBE15}|UniqloBL\\UniqloMVC.csproj|c:\\users\\ii novbe\\source\\repos\\uniqlomvc\\uniqlobl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{44D570B9-F920-40DF-9BE4-A62A317BBE15}|UniqloBL\\UniqloMVC.csproj|solutionrelative:uniqlobl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF8B2C49-03EF-4D36-ABEE-3AED3F83C788}|UniqloDAL\\UniqloDAL.csproj|c:\\users\\ii novbe\\source\\repos\\uniqlomvc\\uniqlodal\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF8B2C49-03EF-4D36-ABEE-3AED3F83C788}|UniqloDAL\\UniqloDAL.csproj|solutionrelative:uniqlodal\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF8B2C49-03EF-4D36-ABEE-3AED3F83C788}|UniqloDAL\\UniqloDAL.csproj|c:\\users\\ii novbe\\source\\repos\\uniqlomvc\\uniqlodal\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF8B2C49-03EF-4D36-ABEE-3AED3F83C788}|UniqloDAL\\UniqloDAL.csproj|solutionrelative:uniqlodal\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF8B2C49-03EF-4D36-ABEE-3AED3F83C788}|UniqloDAL\\UniqloDAL.csproj|c:\\users\\ii novbe\\source\\repos\\uniqlomvc\\uniqlodal\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF8B2C49-03EF-4D36-ABEE-3AED3F83C788}|UniqloDAL\\UniqloDAL.csproj|solutionrelative:uniqlodal\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF8B2C49-03EF-4D36-ABEE-3AED3F83C788}|UniqloDAL\\UniqloDAL.csproj|c:\\users\\ii novbe\\source\\repos\\uniqlomvc\\uniqlodal\\uniqlodal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BF8B2C49-03EF-4D36-ABEE-3AED3F83C788}|UniqloDAL\\UniqloDAL.csproj|solutionrelative:uniqlodal\\uniqlodal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D570B9-F920-40DF-9BE4-A62A317BBE15}|UniqloBL\\UniqloBL.csproj|c:\\users\\ii novbe\\source\\repos\\uniqlomvc\\uniqlobl\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44D570B9-F920-40DF-9BE4-A62A317BBE15}|UniqloBL\\UniqloBL.csproj|solutionrelative:uniqlobl\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D570B9-F920-40DF-9BE4-A62A317BBE15}|UniqloBL\\UniqloMVC.csproj|c:\\users\\ii novbe\\source\\repos\\uniqlomvc\\uniqlobl\\uniqlomvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{44D570B9-F920-40DF-9BE4-A62A317BBE15}|UniqloBL\\UniqloMVC.csproj|solutionrelative:uniqlobl\\uniqlomvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F87856AB-E007-47C1-9FB1-7EB107B832E0}|UniqloBT\\UniqloBT.csproj|c:\\users\\ii novbe\\source\\repos\\uniqlomvc\\uniqlobt\\uniqlobt.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F87856AB-E007-47C1-9FB1-7EB107B832E0}|UniqloBT\\UniqloBT.csproj|solutionrelative:uniqlobt\\uniqlobt.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F87856AB-E007-47C1-9FB1-7EB107B832E0}|UniqloBT\\UniqloBT.csproj|c:\\users\\ii novbe\\source\\repos\\uniqlomvc\\uniqlobt\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F87856AB-E007-47C1-9FB1-7EB107B832E0}|UniqloBT\\UniqloBT.csproj|solutionrelative:uniqlobt\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF8B2C49-03EF-4D36-ABEE-3AED3F83C788}|UniqloDAL\\UniqloDAL.csproj|c:\\users\\ii novbe\\source\\repos\\uniqlomvc\\uniqlodal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF8B2C49-03EF-4D36-ABEE-3AED3F83C788}|UniqloDAL\\UniqloDAL.csproj|solutionrelative:uniqlodal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D570B9-F920-40DF-9BE4-A62A317BBE15}|UniqloBL\\UniqloBL.csproj|c:\\users\\ii novbe\\source\\repos\\uniqlomvc\\uniqlobl\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44D570B9-F920-40DF-9BE4-A62A317BBE15}|UniqloBL\\UniqloBL.csproj|solutionrelative:uniqlobl\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D570B9-F920-40DF-9BE4-A62A317BBE15}|UniqloBL\\UniqloBL.csproj|c:\\users\\ii novbe\\source\\repos\\uniqlomvc\\uniqlobl\\views\\wishlist\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44D570B9-F920-40DF-9BE4-A62A317BBE15}|UniqloBL\\UniqloBL.csproj|solutionrelative:uniqlobl\\views\\wishlist\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D570B9-F920-40DF-9BE4-A62A317BBE15}|UniqloBL\\UniqloBL.csproj|c:\\users\\ii novbe\\source\\repos\\uniqlomvc\\uniqlobl\\controllers\\wishlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D570B9-F920-40DF-9BE4-A62A317BBE15}|UniqloBL\\UniqloBL.csproj|solutionrelative:uniqlobl\\controllers\\wishlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\II Novbe\\Downloads\\uniqlo\\uniqlo\\wishlist.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D570B9-F920-40DF-9BE4-A62A317BBE15}|UniqloBL\\UniqloBL.csproj|c:\\users\\ii novbe\\source\\repos\\uniqlomvc\\uniqlobl\\views\\team\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44D570B9-F920-40DF-9BE4-A62A317BBE15}|UniqloBL\\UniqloBL.csproj|solutionrelative:uniqlobl\\views\\team\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D570B9-F920-40DF-9BE4-A62A317BBE15}|UniqloBL\\UniqloBL.csproj|c:\\users\\ii novbe\\source\\repos\\uniqlomvc\\uniqlobl\\controllers\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D570B9-F920-40DF-9BE4-A62A317BBE15}|UniqloBL\\UniqloBL.csproj|solutionrelative:uniqlobl\\controllers\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\II Novbe\\Downloads\\uniqlo\\uniqlo\\team.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D570B9-F920-40DF-9BE4-A62A317BBE15}|UniqloBL\\UniqloBL.csproj|c:\\users\\ii novbe\\source\\repos\\uniqlomvc\\uniqlobl\\views\\shop\\shopslider.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44D570B9-F920-40DF-9BE4-A62A317BBE15}|UniqloBL\\UniqloBL.csproj|solutionrelative:uniqlobl\\views\\shop\\shopslider.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\II Novbe\\Downloads\\uniqlo\\uniqlo\\shop-sidebar.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D570B9-F920-40DF-9BE4-A62A317BBE15}|UniqloBL\\UniqloBL.csproj|c:\\users\\ii novbe\\source\\repos\\uniqlomvc\\uniqlobl\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44D570B9-F920-40DF-9BE4-A62A317BBE15}|UniqloBL\\UniqloBL.csproj|solutionrelative:uniqlobl\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D570B9-F920-40DF-9BE4-A62A317BBE15}|UniqloBL\\UniqloBL.csproj|c:\\users\\ii novbe\\source\\repos\\uniqlomvc\\uniqlobl\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D570B9-F920-40DF-9BE4-A62A317BBE15}|UniqloBL\\UniqloBL.csproj|solutionrelative:uniqlobl\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\II Novbe\\Downloads\\uniqlo\\uniqlo\\shop.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D570B9-F920-40DF-9BE4-A62A317BBE15}|UniqloBL\\UniqloBL.csproj|c:\\users\\ii novbe\\source\\repos\\uniqlomvc\\uniqlobl\\views\\product\\productdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44D570B9-F920-40DF-9BE4-A62A317BBE15}|UniqloBL\\UniqloBL.csproj|solutionrelative:uniqlobl\\views\\product\\productdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D570B9-F920-40DF-9BE4-A62A317BBE15}|UniqloBL\\UniqloBL.csproj|c:\\users\\ii novbe\\source\\repos\\uniqlomvc\\uniqlobl\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D570B9-F920-40DF-9BE4-A62A317BBE15}|UniqloBL\\UniqloBL.csproj|solutionrelative:uniqlobl\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D570B9-F920-40DF-9BE4-A62A317BBE15}|UniqloBL\\UniqloBL.csproj|c:\\users\\ii novbe\\source\\repos\\uniqlomvc\\uniqlobl\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44D570B9-F920-40DF-9BE4-A62A317BBE15}|UniqloBL\\UniqloBL.csproj|solutionrelative:uniqlobl\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\II Novbe\\Downloads\\uniqlo\\uniqlo\\product-details.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D570B9-F920-40DF-9BE4-A62A317BBE15}|UniqloBL\\UniqloBL.csproj|c:\\users\\ii novbe\\source\\repos\\uniqlomvc\\uniqlobl\\views\\loginorregister\\loginregister.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44D570B9-F920-40DF-9BE4-A62A317BBE15}|UniqloBL\\UniqloBL.csproj|solutionrelative:uniqlobl\\views\\loginorregister\\loginregister.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D570B9-F920-40DF-9BE4-A62A317BBE15}|UniqloBL\\UniqloBL.csproj|c:\\users\\ii novbe\\source\\repos\\uniqlomvc\\uniqlobl\\controllers\\loginorregistercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D570B9-F920-40DF-9BE4-A62A317BBE15}|UniqloBL\\UniqloBL.csproj|solutionrelative:uniqlobl\\controllers\\loginorregistercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\II Novbe\\Downloads\\uniqlo\\uniqlo\\login-register.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D570B9-F920-40DF-9BE4-A62A317BBE15}|UniqloBL\\UniqloBL.csproj|c:\\users\\ii novbe\\source\\repos\\uniqlomvc\\uniqlobl\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44D570B9-F920-40DF-9BE4-A62A317BBE15}|UniqloBL\\UniqloBL.csproj|solutionrelative:uniqlobl\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D570B9-F920-40DF-9BE4-A62A317BBE15}|UniqloBL\\UniqloBL.csproj|c:\\users\\ii novbe\\source\\repos\\uniqlomvc\\uniqlobl\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D570B9-F920-40DF-9BE4-A62A317BBE15}|UniqloBL\\UniqloBL.csproj|solutionrelative:uniqlobl\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\II Novbe\\Downloads\\uniqlo\\uniqlo\\cart.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D570B9-F920-40DF-9BE4-A62A317BBE15}|UniqloBL\\UniqloBL.csproj|c:\\users\\ii novbe\\source\\repos\\uniqlomvc\\uniqlobl\\views\\checkout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44D570B9-F920-40DF-9BE4-A62A317BBE15}|UniqloBL\\UniqloBL.csproj|solutionrelative:uniqlobl\\views\\checkout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D570B9-F920-40DF-9BE4-A62A317BBE15}|UniqloBL\\UniqloBL.csproj|c:\\users\\ii novbe\\source\\repos\\uniqlomvc\\uniqlobl\\controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D570B9-F920-40DF-9BE4-A62A317BBE15}|UniqloBL\\UniqloBL.csproj|solutionrelative:uniqlobl\\controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D570B9-F920-40DF-9BE4-A62A317BBE15}|UniqloBL\\UniqloBL.csproj|c:\\users\\ii novbe\\source\\repos\\uniqlomvc\\uniqlobl\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D570B9-F920-40DF-9BE4-A62A317BBE15}|UniqloBL\\UniqloBL.csproj|solutionrelative:uniqlobl\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D570B9-F920-40DF-9BE4-A62A317BBE15}|UniqloBL\\UniqloBL.csproj|c:\\users\\ii novbe\\source\\repos\\uniqlomvc\\uniqlobl\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44D570B9-F920-40DF-9BE4-A62A317BBE15}|UniqloBL\\UniqloBL.csproj|solutionrelative:uniqlobl\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D570B9-F920-40DF-9BE4-A62A317BBE15}|UniqloBL\\UniqloBL.csproj|c:\\users\\ii novbe\\source\\repos\\uniqlomvc\\uniqlobl\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44D570B9-F920-40DF-9BE4-A62A317BBE15}|UniqloBL\\UniqloBL.csproj|solutionrelative:uniqlobl\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D570B9-F920-40DF-9BE4-A62A317BBE15}|UniqloBL\\UniqloBL.csproj|c:\\users\\ii novbe\\source\\repos\\uniqlomvc\\uniqlobl\\views\\blog\\blogdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44D570B9-F920-40DF-9BE4-A62A317BBE15}|UniqloBL\\UniqloBL.csproj|solutionrelative:uniqlobl\\views\\blog\\blogdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D570B9-F920-40DF-9BE4-A62A317BBE15}|UniqloBL\\UniqloBL.csproj|c:\\users\\ii novbe\\source\\repos\\uniqlomvc\\uniqlobl\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D570B9-F920-40DF-9BE4-A62A317BBE15}|UniqloBL\\UniqloBL.csproj|solutionrelative:uniqlobl\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D570B9-F920-40DF-9BE4-A62A317BBE15}|UniqloBL\\UniqloBL.csproj|c:\\users\\ii novbe\\source\\repos\\uniqlomvc\\uniqlobl\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D570B9-F920-40DF-9BE4-A62A317BBE15}|UniqloBL\\UniqloBL.csproj|solutionrelative:uniqlobl\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D570B9-F920-40DF-9BE4-A62A317BBE15}|UniqloBL\\UniqloBL.csproj|c:\\users\\ii novbe\\source\\repos\\uniqlomvc\\uniqlobl\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44D570B9-F920-40DF-9BE4-A62A317BBE15}|UniqloBL\\UniqloBL.csproj|solutionrelative:uniqlobl\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D570B9-F920-40DF-9BE4-A62A317BBE15}|UniqloBL\\UniqloBL.csproj|c:\\users\\ii novbe\\source\\repos\\uniqlomvc\\uniqlobl\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44D570B9-F920-40DF-9BE4-A62A317BBE15}|UniqloBL\\UniqloBL.csproj|solutionrelative:uniqlobl\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D570B9-F920-40DF-9BE4-A62A317BBE15}|UniqloBL\\UniqloBL.csproj|c:\\users\\ii novbe\\source\\repos\\uniqlomvc\\uniqlobl\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44D570B9-F920-40DF-9BE4-A62A317BBE15}|UniqloBL\\UniqloBL.csproj|solutionrelative:uniqlobl\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D570B9-F920-40DF-9BE4-A62A317BBE15}|UniqloBL\\UniqloBL.csproj|c:\\users\\ii novbe\\source\\repos\\uniqlomvc\\uniqlobl\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44D570B9-F920-40DF-9BE4-A62A317BBE15}|UniqloBL\\UniqloBL.csproj|solutionrelative:uniqlobl\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D570B9-F920-40DF-9BE4-A62A317BBE15}|UniqloBL\\UniqloBL.csproj|c:\\users\\ii novbe\\source\\repos\\uniqlomvc\\uniqlobl\\views\\shared\\header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44D570B9-F920-40DF-9BE4-A62A317BBE15}|UniqloBL\\UniqloBL.csproj|solutionrelative:uniqlobl\\views\\shared\\header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D570B9-F920-40DF-9BE4-A62A317BBE15}|UniqloBL\\UniqloBL.csproj|c:\\users\\ii novbe\\source\\repos\\uniqlomvc\\uniqlobl\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D570B9-F920-40DF-9BE4-A62A317BBE15}|UniqloBL\\UniqloBL.csproj|solutionrelative:uniqlobl\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20241129145207_first.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\UniqloMvc\\UniqloDAL\\Migrations\\20241129145207_first.cs",
+              "RelativeDocumentMoniker": "UniqloDAL\\Migrations\\20241129145207_first.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\UniqloMvc\\UniqloDAL\\Migrations\\20241129145207_first.cs",
+              "RelativeToolTip": "UniqloDAL\\Migrations\\20241129145207_first.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T14:52:07.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\UniqloMvc\\UniqloBL\\appsettings.json",
+              "RelativeDocumentMoniker": "UniqloBL\\appsettings.json",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\UniqloMvc\\UniqloBL\\appsettings.json",
+              "RelativeToolTip": "UniqloBL\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-29T14:47:43.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\UniqloMvc\\UniqloDAL\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "UniqloDAL\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\UniqloMvc\\UniqloDAL\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "UniqloDAL\\DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T14:43:01.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UniqloDAL",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\UniqloMvc\\UniqloDAL\\UniqloDAL.csproj",
+              "RelativeDocumentMoniker": "UniqloDAL\\UniqloDAL.csproj",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\UniqloMvc\\UniqloDAL\\UniqloDAL.csproj",
+              "RelativeToolTip": "UniqloDAL\\UniqloDAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-29T14:42:42.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\UniqloMvc\\UniqloDAL\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "UniqloDAL\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\UniqloMvc\\UniqloDAL\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "UniqloDAL\\Models\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T14:38:28.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UniqloBT",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\UniqloMvc\\UniqloBT\\UniqloBT.csproj",
+              "RelativeDocumentMoniker": "UniqloBT\\UniqloBT.csproj",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\UniqloMvc\\UniqloBT\\UniqloBT.csproj",
+              "RelativeToolTip": "UniqloBT\\UniqloBT.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-29T14:30:56.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Slider.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\UniqloMvc\\UniqloDAL\\Models\\Slider.cs",
+              "RelativeDocumentMoniker": "UniqloDAL\\Models\\Slider.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\UniqloMvc\\UniqloDAL\\Models\\Slider.cs",
+              "RelativeToolTip": "UniqloDAL\\Models\\Slider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T14:30:08.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\UniqloMvc\\UniqloBT\\Class1.cs",
+              "RelativeDocumentMoniker": "UniqloBT\\Class1.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\UniqloMvc\\UniqloBT\\Class1.cs",
+              "RelativeToolTip": "UniqloBT\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T14:28:55.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\UniqloMvc\\UniqloDAL\\Class1.cs",
+              "RelativeDocumentMoniker": "UniqloDAL\\Class1.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\UniqloMvc\\UniqloDAL\\Class1.cs",
+              "RelativeToolTip": "UniqloDAL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T14:25:50.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\UniqloMvc\\UniqloBL\\Views\\WishList\\Index.cshtml",
+              "RelativeDocumentMoniker": "UniqloBL\\Views\\WishList\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\UniqloMvc\\UniqloBL\\Views\\WishList\\Index.cshtml",
+              "RelativeToolTip": "UniqloBL\\Views\\WishList\\Index.cshtml",
+              "ViewState": "AgIAAMoAAAAAAAAAAAAiwNcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T14:19:48.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\UniqloMvc\\UniqloBL\\Program.cs",
+              "RelativeDocumentMoniker": "UniqloBL\\Program.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\UniqloMvc\\UniqloBL\\Program.cs",
+              "RelativeToolTip": "UniqloBL\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T13:51:32.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "wishlist.html",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Downloads\\uniqlo\\uniqlo\\wishlist.html",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\uniqlo\\uniqlo\\wishlist.html",
+              "ToolTip": "C:\\Users\\II Novbe\\Downloads\\uniqlo\\uniqlo\\wishlist.html",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\uniqlo\\uniqlo\\wishlist.html",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAALAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-29T14:19:10.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\UniqloMvc\\UniqloBL\\Views\\Team\\Index.cshtml",
+              "RelativeDocumentMoniker": "UniqloBL\\Views\\Team\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\UniqloMvc\\UniqloBL\\Views\\Team\\Index.cshtml",
+              "RelativeToolTip": "UniqloBL\\Views\\Team\\Index.cshtml",
+              "ViewState": "AgIAAFgBAAAAAAAAAAAiwIcBAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T14:18:58.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "team.html",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Downloads\\uniqlo\\uniqlo\\team.html",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\uniqlo\\uniqlo\\team.html",
+              "ToolTip": "C:\\Users\\II Novbe\\Downloads\\uniqlo\\uniqlo\\team.html",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\uniqlo\\uniqlo\\team.html",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAALAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-29T14:18:31.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ShopSlider.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\UniqloMvc\\UniqloBL\\Views\\Shop\\ShopSlider.cshtml",
+              "RelativeDocumentMoniker": "UniqloBL\\Views\\Shop\\ShopSlider.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\UniqloMvc\\UniqloBL\\Views\\Shop\\ShopSlider.cshtml",
+              "RelativeToolTip": "UniqloBL\\Views\\Shop\\ShopSlider.cshtml",
+              "ViewState": "AgIAAOgCAAAAAAAAAAAmwPUCAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T14:18:10.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "shop-sidebar.html",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Downloads\\uniqlo\\uniqlo\\shop-sidebar.html",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\uniqlo\\uniqlo\\shop-sidebar.html",
+              "ToolTip": "C:\\Users\\II Novbe\\Downloads\\uniqlo\\uniqlo\\shop-sidebar.html",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\uniqlo\\uniqlo\\shop-sidebar.html",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAADIBAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-29T14:17:39.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UniqloMVC.csproj",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\UniqloMvc\\UniqloBL\\UniqloMVC.csproj",
+              "RelativeDocumentMoniker": "UniqloBL\\UniqloMVC.csproj",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\UniqloMvc\\UniqloBL\\UniqloMVC.csproj",
+              "RelativeToolTip": "UniqloBL\\UniqloMVC.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-29T13:44:53.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\UniqloMvc\\UniqloBL\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "UniqloBL\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\UniqloMvc\\UniqloBL\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "UniqloBL\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAAJAAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T13:45:40.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\UniqloMvc\\UniqloBL\\Views\\Shop\\Index.cshtml",
+              "RelativeDocumentMoniker": "UniqloBL\\Views\\Shop\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\UniqloMvc\\UniqloBL\\Views\\Shop\\Index.cshtml",
+              "RelativeToolTip": "UniqloBL\\Views\\Shop\\Index.cshtml",
+              "ViewState": "AgIAAMMCAAAAAAAAAAAiwNMCAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T14:16:37.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "shop.html",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Downloads\\uniqlo\\uniqlo\\shop.html",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\uniqlo\\uniqlo\\shop.html",
+              "ToolTip": "C:\\Users\\II Novbe\\Downloads\\uniqlo\\uniqlo\\shop.html",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\uniqlo\\uniqlo\\shop.html",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAK8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-29T14:16:10.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\UniqloMvc\\UniqloBL\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "UniqloBL\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\UniqloMvc\\UniqloBL\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "UniqloBL\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T14:07:23.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProductDetail.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\UniqloMvc\\UniqloBL\\Views\\Product\\ProductDetail.cshtml",
+              "RelativeDocumentMoniker": "UniqloBL\\Views\\Product\\ProductDetail.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\UniqloMvc\\UniqloBL\\Views\\Product\\ProductDetail.cshtml",
+              "RelativeToolTip": "UniqloBL\\Views\\Product\\ProductDetail.cshtml",
+              "ViewState": "AgIAAKIBAAAAAAAAAAAmwMcBAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T14:14:26.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\UniqloMvc\\UniqloBL\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "UniqloBL\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\UniqloMvc\\UniqloBL\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "UniqloBL\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T14:13:58.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "product-details.html",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Downloads\\uniqlo\\uniqlo\\product-details.html",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\uniqlo\\uniqlo\\product-details.html",
+              "ToolTip": "C:\\Users\\II Novbe\\Downloads\\uniqlo\\uniqlo\\product-details.html",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\uniqlo\\uniqlo\\product-details.html",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAEcBAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-29T14:13:29.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WishListController.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\UniqloMvc\\UniqloBL\\Controllers\\WishListController.cs",
+              "RelativeDocumentMoniker": "UniqloBL\\Controllers\\WishListController.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\UniqloMvc\\UniqloBL\\Controllers\\WishListController.cs",
+              "RelativeToolTip": "UniqloBL\\Controllers\\WishListController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T14:03:57.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LoginRegister.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\UniqloMvc\\UniqloBL\\Views\\LoginOrRegister\\LoginRegister.cshtml",
+              "RelativeDocumentMoniker": "UniqloBL\\Views\\LoginOrRegister\\LoginRegister.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\UniqloMvc\\UniqloBL\\Views\\LoginOrRegister\\LoginRegister.cshtml",
+              "RelativeToolTip": "UniqloBL\\Views\\LoginOrRegister\\LoginRegister.cshtml",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAmwM4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T14:13:17.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TeamController.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\UniqloMvc\\UniqloBL\\Controllers\\TeamController.cs",
+              "RelativeDocumentMoniker": "UniqloBL\\Controllers\\TeamController.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\UniqloMvc\\UniqloBL\\Controllers\\TeamController.cs",
+              "RelativeToolTip": "UniqloBL\\Controllers\\TeamController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T14:03:13.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "login-register.html",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Downloads\\uniqlo\\uniqlo\\login-register.html",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\uniqlo\\uniqlo\\login-register.html",
+              "ToolTip": "C:\\Users\\II Novbe\\Downloads\\uniqlo\\uniqlo\\login-register.html",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\uniqlo\\uniqlo\\login-register.html",
+              "ViewState": "AgIAAK8BAAAAAAAAAAAAALAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-29T14:11:40.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\UniqloMvc\\UniqloBL\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "UniqloBL\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\UniqloMvc\\UniqloBL\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "UniqloBL\\Views\\Contact\\Index.cshtml",
+              "ViewState": "AgIAANkAAAAAAAAAAAAiwOwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T14:11:28.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "cart.html",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Downloads\\uniqlo\\uniqlo\\cart.html",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\uniqlo\\uniqlo\\cart.html",
+              "ToolTip": "C:\\Users\\II Novbe\\Downloads\\uniqlo\\uniqlo\\cart.html",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\uniqlo\\uniqlo\\cart.html",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAK8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-29T14:09:41.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\UniqloMvc\\UniqloBL\\Views\\Checkout\\Index.cshtml",
+              "RelativeDocumentMoniker": "UniqloBL\\Views\\Checkout\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\UniqloMvc\\UniqloBL\\Views\\Checkout\\Index.cshtml",
+              "RelativeToolTip": "UniqloBL\\Views\\Checkout\\Index.cshtml",
+              "ViewState": "AgIAAPQAAAAAAAAAAAAAAAABAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T14:08:35.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ShopController.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\UniqloMvc\\UniqloBL\\Controllers\\ShopController.cs",
+              "RelativeDocumentMoniker": "UniqloBL\\Controllers\\ShopController.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\UniqloMvc\\UniqloBL\\Controllers\\ShopController.cs",
+              "RelativeToolTip": "UniqloBL\\Controllers\\ShopController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T14:02:50.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\UniqloMvc\\UniqloBL\\Views\\Blog\\Index.cshtml",
+              "RelativeDocumentMoniker": "UniqloBL\\Views\\Blog\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\UniqloMvc\\UniqloBL\\Views\\Blog\\Index.cshtml",
+              "RelativeToolTip": "UniqloBL\\Views\\Blog\\Index.cshtml",
+              "ViewState": "AgIAAL8BAAAAAAAAAAAAAL8BAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T14:05:34.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\UniqloMvc\\UniqloBL\\Views\\About\\Index.cshtml",
+              "RelativeDocumentMoniker": "UniqloBL\\Views\\About\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\UniqloMvc\\UniqloBL\\Views\\About\\Index.cshtml",
+              "RelativeToolTip": "UniqloBL\\Views\\About\\Index.cshtml",
+              "ViewState": "AgIAAJsBAAAAAAAAAAAAAJsBAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T14:04:06.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\UniqloMvc\\UniqloBL\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "UniqloBL\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\UniqloMvc\\UniqloBL\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "UniqloBL\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T14:00:31.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "BlogDetail.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\UniqloMvc\\UniqloBL\\Views\\Blog\\BlogDetail.cshtml",
+              "RelativeDocumentMoniker": "UniqloBL\\Views\\Blog\\BlogDetail.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\UniqloMvc\\UniqloBL\\Views\\Blog\\BlogDetail.cshtml",
+              "RelativeToolTip": "UniqloBL\\Views\\Blog\\BlogDetail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHgBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T14:06:24.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "LoginOrRegisterController.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\UniqloMvc\\UniqloBL\\Controllers\\LoginOrRegisterController.cs",
+              "RelativeDocumentMoniker": "UniqloBL\\Controllers\\LoginOrRegisterController.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\UniqloMvc\\UniqloBL\\Controllers\\LoginOrRegisterController.cs",
+              "RelativeToolTip": "UniqloBL\\Controllers\\LoginOrRegisterController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T14:02:18.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\UniqloMvc\\UniqloBL\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "UniqloBL\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\UniqloMvc\\UniqloBL\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "UniqloBL\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T13:58:47.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\UniqloMvc\\UniqloBL\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "UniqloBL\\Controllers\\BlogController.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\UniqloMvc\\UniqloBL\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "UniqloBL\\Controllers\\BlogController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T13:55:36.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CheckoutController.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\UniqloMvc\\UniqloBL\\Controllers\\CheckoutController.cs",
+              "RelativeDocumentMoniker": "UniqloBL\\Controllers\\CheckoutController.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\UniqloMvc\\UniqloBL\\Controllers\\CheckoutController.cs",
+              "RelativeToolTip": "UniqloBL\\Controllers\\CheckoutController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T13:58:20.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\UniqloMvc\\UniqloBL\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "UniqloBL\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\UniqloMvc\\UniqloBL\\Controllers\\CartController.cs",
+              "RelativeToolTip": "UniqloBL\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T13:57:41.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\UniqloMvc\\UniqloBL\\Controllers\\AboutController.cs",
+              "RelativeDocumentMoniker": "UniqloBL\\Controllers\\AboutController.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\UniqloMvc\\UniqloBL\\Controllers\\AboutController.cs",
+              "RelativeToolTip": "UniqloBL\\Controllers\\AboutController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T13:55:19.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\UniqloMvc\\UniqloBL\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "UniqloBL\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\UniqloMvc\\UniqloBL\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "UniqloBL\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T13:51:00.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\UniqloMvc\\UniqloBL\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "UniqloBL\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\UniqloMvc\\UniqloBL\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "UniqloBL\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T13:50:51.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Footer.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\UniqloMvc\\UniqloBL\\Views\\Shared\\Footer.cshtml",
+              "RelativeDocumentMoniker": "UniqloBL\\Views\\Shared\\Footer.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\UniqloMvc\\UniqloBL\\Views\\Shared\\Footer.cshtml",
+              "RelativeToolTip": "UniqloBL\\Views\\Shared\\Footer.cshtml",
+              "ViewState": "AgIAADEAAAAAAAAAAAAmwFYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T13:49:30.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Header.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\UniqloMvc\\UniqloBL\\Views\\Shared\\Header.cshtml",
+              "RelativeDocumentMoniker": "UniqloBL\\Views\\Shared\\Header.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\UniqloMvc\\UniqloBL\\Views\\Shared\\Header.cshtml",
+              "RelativeToolTip": "UniqloBL\\Views\\Shared\\Header.cshtml",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAiwKsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T13:49:19.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\UniqloMvc\\UniqloBL\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "UniqloBL\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\UniqloMvc\\UniqloBL\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "UniqloBL\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAiwCIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T13:46:13.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\UniqloMvc\\UniqloBL\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "UniqloBL\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\UniqloMvc\\UniqloBL\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "UniqloBL\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T13:44:26.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

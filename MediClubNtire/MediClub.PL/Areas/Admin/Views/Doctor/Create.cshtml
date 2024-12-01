@@ -1,0 +1,35 @@
+﻿@model MediClubModel.DTOs.DoctorDto;
+
+<div class="container mt-5">
+    <h1 class="text-center mb-4">Add Doctor</h1>
+    <form method="POST">
+        <div class="mb-3">
+            <label asp-for="Name" class="form-label">Name</label>
+            <input type="text" class="form-control" id="name" asp-for="Name"  required>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="Surname" class="form-label">Surname</label>
+            <input type="text" class="form-control" id="surname" asp-for="Surname" required>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="Finkod" class="form-label">Finkod</label>
+            <input type="text" class="form-control" id="finkod" asp-for="Finkod" required>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="PhoneNumber" class="form-label">Phone Number</label>
+            <input type="text" class="form-control" id="phoneNumber" asp-for="PhoneNumber" required>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="Email" class="form-label">Email</label>
+            <input type="email" class="form-control" id="email" asp-for="Email" required>
+        </div>
+
+        
+
+        <button type="submit" class="btn btn-primary w-100">Add Doctor</button>
+    </form>
+</div>

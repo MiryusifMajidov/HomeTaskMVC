@@ -1,0 +1,46 @@
+﻿@model MediClubModel.DTOs.AppointmentDto
+
+<div class="container mt-5">
+    <h1 class="text-center mb-4">Add Appointment</h1>
+    <form method="POST">
+        <div class="mb-3">
+            <label asp-for="DoctorId" class="form-label">Doctor</label>
+            <select class="form-select" id="doctorId" asp-for="DoctorId" required>
+                <option value="" disabled selected>Select a doctor</option>
+                @if (ViewBag.Doctor != null)
+                {
+                    foreach (var doctor in ViewBag.Doctor)
+                    {
+                        <option value="@doctor.Id">@doctor.Name @doctor.Surname</option>
+                    }
+                }
+            </select>
+            <span asp-validation-for="DoctorId" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="PatientId" class="form-label">Patient</label>
+            <select class="form-select" id="patientId" asp-for="PatientId" required>
+                <option value="" disabled selected>Select a patient</option>
+                @if (ViewBag.Patient != null)
+                {
+                    foreach (var patient in ViewBag.Patient)
+                    {
+                        <option value="@patient.Id">@patient.Name @patient.Surname</option>
+                    }
+                }
+            </select>
+            <span asp-validation-for="PatientId" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="AppointmentDate" class="form-label">Appointment Date</label>
+            <input type="datetime-local" class="form-control" id="appointmentDate" asp-for="AppointmentDate" required>
+            <span asp-validation-for="AppointmentDate" class="text-danger"></span>
+
+        </div>
+
+       
+        <button type="submit" class="btn btn-primary w-100">Add Appointment</button>
+    </form>
+</div>

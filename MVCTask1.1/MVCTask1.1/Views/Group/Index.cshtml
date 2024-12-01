@@ -1,0 +1,30 @@
+﻿@model IEnumerable<MVCTask1._1.Models.Group>
+
+<div class="container mt-5">
+    <h1 class="mb-4">Qruplar</h1>
+    <div class="d-flex justify-content-end mb-3">
+        <a asp-controller="Group" asp-action="Create" class="btn btn-primary">
+            <i class="bi bi-plus-circle"></i> Yeni Qrup Əlavə Et
+        </a>
+    </div>
+
+    <table class="table table-striped table-hover">
+        <thead class="table-dark">
+            <tr>
+                <th scope="col">ID</th>
+                <th scope="col">Qrup Adı</th>
+                <th scope="col">Müəllim</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var group in Model)
+            {
+                <tr>
+                    <td>@group.Id</td>
+                    <td>@group.GroupName</td>
+                    <td>@group.Teacher?.Name</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

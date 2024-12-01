@@ -1,0 +1,48 @@
+﻿@model Work;
+<div class="container mt-5">
+    <h1 class="text-center mb-4">Add Work</h1>
+    <form method="POST">
+
+        <div class="mb-3">
+            <label asp-for="Title" class="form-label">Title</label>
+            <input type="text" class="form-control" id="title" asp-for="Title" placeholder="Enter title (e.g., Graphic Designer)" required>
+        </div>
+
+
+        <div class="mb-3">
+            <label asp-for="Description" class="form-label">Description</label>
+            <textarea class="form-control" id="description" asp-for="Description" rows="2" placeholder="Enter a short description" required></textarea>
+        </div>
+
+
+        <div class="mb-3">
+            <label asp-for="BigDescription" class="form-label">Big Description</label>
+            <textarea class="form-control" id="bigDescription" asp-for="BigDescription" rows="4" placeholder="Enter a detailed description" required></textarea>
+        </div>
+
+
+        <div class="mb-3">
+            <label asp-for="Image" class="form-label">Image</label>
+            <input type="text" class="form-control" id="image" asp-for="Image" placeholder="Enter image filename (e.g., image.jpg)" required>
+        </div>
+
+
+        <div class="mb-3">
+            <label asp-for="ServiceId" class="form-label">Category</label>
+            <select class="form-select" id="ServiceId" asp-for="ServiceId" required>
+                <option value="" disabled selected>Select a category</option>
+                @if(ViewBag.Service != null)
+                {
+                    foreach(var item in ViewBag.Service)
+                    {
+                        <option value="@item.Id">@item.Title</option>
+                    }
+                }
+              
+            </select>
+        </div>
+
+
+        <button type="submit" class="btn btn-primary w-100">Əlavə et</button>
+    </form>
+</div>

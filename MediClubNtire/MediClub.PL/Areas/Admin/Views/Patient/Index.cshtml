@@ -1,0 +1,90 @@
+﻿@model IEnumerable<MediClubModel.Models.Patient>
+
+<!-- Begin Page Content -->
+<div class="container-fluid">
+
+    <!-- Page Heading -->
+    <h1 class="h3 mb-2 text-gray-800">Tables</h1>
+    <p class="mb-4">
+        DataTables is a third-party plugin that is used to generate the demo table below.
+        For more information about DataTables, please visit the <a target="_blank"
+                                                                   href="https://datatables.net">official DataTables documentation</a>.
+    </p>
+    <a asp-area="Admin" asp-controller="Patient" asp-action="Create" class="btn btn-primary btn-icon-split" style="margin:20px 20px 20px 0">
+        <span class="icon text-white-50">
+            <i class="fas fa-arrow-right"></i>
+        </span>
+        <span class="text">Yeni Xəstə əlavə edin</span>
+    </a>
+
+    <!-- DataTales Example -->
+    <div class="card shadow mb-4">
+        <div class="card-header py-3">
+            <h6 class="m-0 font-weight-bold text-primary">Xəstə Cədvəli</h6>
+        </div>
+        <div class="card-body">
+            <div class="table-responsive">
+                <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                    <thead>
+                        <tr>
+                            <th>Name</th>
+                            <th>Surname</th>
+                            <th>Fincode</th>
+                            <th>PhoneNumber</th>
+                            <th>Username</th>
+                            <th>Status</th>
+                        </tr>
+                    </thead>
+                    <tfoot>
+                        <tr>
+                            <th>Name</th>
+                            <th>Surname</th>
+                            <th>Fincode</th>
+                            <th>PhoneNumber</th>
+                            <th>Username</th>
+                            <th>Status</th>
+                            <th></th>
+                        </tr>
+                    </tfoot>
+                    <tbody>
+                        @foreach (var patient in Model)
+                        {
+                            <tr>
+                                <td>@patient.Name</td>
+                                <td>@patient.Surname</td>
+                                <td>@patient.Finkod</td>
+                                <td>@patient.PhoneNumber</td>
+                                <td>@patient.Username</td>
+                                <td>
+                                    @if (patient.IsDeleted)
+                                    {
+                                        <span class="badge badge-danger">Deleted</span>
+                                    }
+                                    else
+                                    {
+                                        <span class="badge badge-success">Active</span>
+                                    }
+                                </td>
+                                <td style="justify-content: space-between">
+                                    <a asp-area="Admin" asp-controller="Patient" asp-action="Update" asp-route-id="@patient.Id"
+                                       class="btn btn-warning btn-circle" title="Edit">
+                                        <i class="fas fa-edit"></i>
+                                    </a>
+                                    <a asp-area="Admin" asp-controller="Patient" asp-action="Delete" asp-route-id="@patient.Id"
+                                       class="btn btn-danger btn-circle" title="Delete">
+                                        <i class="fas fa-trash"></i>
+                                    </a>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+
+                </table>
+
+            </div>
+        </div>
+    </div>
+
+</div>
+<!-- /.container-fluid -->
+<!-- End of Main Content -->

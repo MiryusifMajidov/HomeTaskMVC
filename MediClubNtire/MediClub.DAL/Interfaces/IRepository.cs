@@ -15,5 +15,7 @@ namespace MediClub.DAL.Interfaces
 		Task Update(T entity);
 		Task HardDelete(int id);
 		Task SoftDelete(int id);
-	}
+		Task<IEnumerable<T>> GetAppointmentsByDoctorAsync(int doctorId);
+
+    }
 }

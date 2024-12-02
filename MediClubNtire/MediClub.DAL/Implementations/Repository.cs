@@ -1,5 +1,6 @@
 ﻿using MediClub.DAL.DAL;
 using MediClub.DAL.Interfaces;
+using MediClubModel.Models;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -68,5 +69,18 @@ namespace MediClub.DAL.Implementations
 			_context.Set<T>().Update(entity);
 			await _context.SaveChangesAsync();
 		}
-	}
+
+
+        public async Task<IEnumerable<T>> GetAppointmentsByDoctorAsync(int doctorId)
+        {
+            return await _context.Set<T>()
+                .Where(a => EF.Property<int>(a, "DoctorId") == doctorId)
+                .ToListAsync();
+        }
+		
+
+
+
+
+    }
 }

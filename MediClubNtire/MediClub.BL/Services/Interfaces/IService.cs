@@ -14,6 +14,8 @@ namespace MediClub.BL.Services.Interfaces
 		Task UpdateAsync(T entity);
 		Task SoftDeleteAsync(int id);
 		Task HardDeleteAsync(int id);
-		
-	}
+		Task<IEnumerable<T>> GetAppointmentsByDoctorAsync(int doctorId);
+
+
+    }
 }

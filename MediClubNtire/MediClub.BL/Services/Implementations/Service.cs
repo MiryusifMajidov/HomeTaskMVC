@@ -28,7 +28,12 @@ namespace MediClub.BL.Services.Implementations
 			return await _repository.GetAll();
 		}
 
-		public async Task<T> GetByIdAsync(int id)
+        public async Task<IEnumerable<T>> GetAppointmentsByDoctorAsync(int doctorId)
+        {
+            return  await _repository.GetAppointmentsByDoctorAsync(doctorId);
+        }
+
+        public async Task<T> GetByIdAsync(int id)
 		{
 			return await _repository.GetById(id);
 		}

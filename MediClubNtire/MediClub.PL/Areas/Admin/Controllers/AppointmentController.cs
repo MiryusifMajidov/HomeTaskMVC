@@ -52,6 +52,15 @@ namespace MediClub.PL.Areas.Admin.Controllers
                 return View(appointmentDto);
             }
 
+           
+            var doctorAppointments = await _service.GetAppointmentsByDoctorAsync(appointmentDto.DoctorId);
+
+            if (doctorAppointments.Any(a =>a.AppointmentDate >= appointmentDto.AppointmentDate.AddMinutes(-30) && a.AppointmentDate <= appointmentDto.AppointmentDate.AddMinutes(30)))
+            {
+                ModelState.AddModelError("AppointmentDate", "Həkimin artıq bu saat ərzində təyinatı var.");
+                return View(appointmentDto);
+            }
+
             Appointment appointment = new Appointment
             {
                 DoctorId = appointmentDto.DoctorId,

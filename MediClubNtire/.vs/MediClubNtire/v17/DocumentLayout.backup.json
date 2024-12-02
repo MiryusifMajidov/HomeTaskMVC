@@ -7,24 +7,44 @@
       "RelativeMoniker": "D:0:0:{B3A420D0-0CC5-46EA-A497-92E4A53A3B49}|MediClub.PL\\MediClub.PL.csproj|solutionrelative:mediclub.pl\\areas\\admin\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3A420D0-0CC5-46EA-A497-92E4A53A3B49}|MediClub.PL\\MediClub.PL.csproj|c:\\users\\user\\source\\repos\\mediclubntire\\mediclub.pl\\areas\\admin\\views\\appointment\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B3A420D0-0CC5-46EA-A497-92E4A53A3B49}|MediClub.PL\\MediClub.PL.csproj|solutionrelative:mediclub.pl\\areas\\admin\\views\\appointment\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{22023406-B5D5-4278-86BD-94EFE4D72588}|MediClubModel\\MediClubModel.csproj|c:\\users\\user\\source\\repos\\mediclubntire\\mediclubmodel\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22023406-B5D5-4278-86BD-94EFE4D72588}|MediClubModel\\MediClubModel.csproj|solutionrelative:mediclubmodel\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3A420D0-0CC5-46EA-A497-92E4A53A3B49}|MediClub.PL\\MediClub.PL.csproj|c:\\users\\user\\source\\repos\\mediclubntire\\mediclub.pl\\areas\\admin\\views\\doctor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B3A420D0-0CC5-46EA-A497-92E4A53A3B49}|MediClub.PL\\MediClub.PL.csproj|solutionrelative:mediclub.pl\\areas\\admin\\views\\doctor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E921D7A7-E84C-41EB-B695-103D3C9FA96A}|MediClub.BL\\MediClub.BL.csproj|c:\\users\\user\\source\\repos\\mediclubntire\\mediclub.bl\\services\\implementations\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E921D7A7-E84C-41EB-B695-103D3C9FA96A}|MediClub.BL\\MediClub.BL.csproj|solutionrelative:mediclub.bl\\services\\implementations\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E921D7A7-E84C-41EB-B695-103D3C9FA96A}|MediClub.BL\\MediClub.BL.csproj|c:\\users\\user\\source\\repos\\mediclubntire\\mediclub.bl\\services\\interfaces\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E921D7A7-E84C-41EB-B695-103D3C9FA96A}|MediClub.BL\\MediClub.BL.csproj|solutionrelative:mediclub.bl\\services\\interfaces\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44685142-BB4F-48D9-BFC3-86FCA5CEA3D8}|MediClub.DAL\\MediClub.DAL.csproj|c:\\users\\user\\source\\repos\\mediclubntire\\mediclub.dal\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44685142-BB4F-48D9-BFC3-86FCA5CEA3D8}|MediClub.DAL\\MediClub.DAL.csproj|solutionrelative:mediclub.dal\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44685142-BB4F-48D9-BFC3-86FCA5CEA3D8}|MediClub.DAL\\MediClub.DAL.csproj|c:\\users\\user\\source\\repos\\mediclubntire\\mediclub.dal\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44685142-BB4F-48D9-BFC3-86FCA5CEA3D8}|MediClub.DAL\\MediClub.DAL.csproj|solutionrelative:mediclub.dal\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A420D0-0CC5-46EA-A497-92E4A53A3B49}|MediClub.PL\\MediClub.PL.csproj|c:\\users\\user\\source\\repos\\mediclubntire\\mediclub.pl\\areas\\admin\\views\\appointment\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3A420D0-0CC5-46EA-A497-92E4A53A3B49}|MediClub.PL\\MediClub.PL.csproj|solutionrelative:mediclub.pl\\areas\\admin\\views\\appointment\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B3A420D0-0CC5-46EA-A497-92E4A53A3B49}|MediClub.PL\\MediClub.PL.csproj|c:\\users\\user\\source\\repos\\mediclubntire\\mediclub.pl\\areas\\admin\\views\\appointment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B3A420D0-0CC5-46EA-A497-92E4A53A3B49}|MediClub.PL\\MediClub.PL.csproj|solutionrelative:mediclub.pl\\areas\\admin\\views\\appointment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22023406-B5D5-4278-86BD-94EFE4D72588}|MediClubModel\\MediClubModel.csproj|c:\\users\\user\\source\\repos\\mediclubntire\\mediclubmodel\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22023406-B5D5-4278-86BD-94EFE4D72588}|MediClubModel\\MediClubModel.csproj|solutionrelative:mediclubmodel\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B3A420D0-0CC5-46EA-A497-92E4A53A3B49}|MediClub.PL\\MediClub.PL.csproj|c:\\users\\user\\source\\repos\\mediclubntire\\mediclub.pl\\areas\\admin\\views\\patient\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3A420D0-0CC5-46EA-A497-92E4A53A3B49}|MediClub.PL\\MediClub.PL.csproj|solutionrelative:mediclub.pl\\areas\\admin\\views\\patient\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B3A420D0-0CC5-46EA-A497-92E4A53A3B49}|MediClub.PL\\MediClub.PL.csproj|c:\\users\\user\\source\\repos\\mediclubntire\\mediclub.pl\\areas\\admin\\views\\patient\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B3A420D0-0CC5-46EA-A497-92E4A53A3B49}|MediClub.PL\\MediClub.PL.csproj|solutionrelative:mediclub.pl\\areas\\admin\\views\\patient\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A420D0-0CC5-46EA-A497-92E4A53A3B49}|MediClub.PL\\MediClub.PL.csproj|c:\\users\\user\\source\\repos\\mediclubntire\\mediclub.pl\\areas\\admin\\views\\doctor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3A420D0-0CC5-46EA-A497-92E4A53A3B49}|MediClub.PL\\MediClub.PL.csproj|solutionrelative:mediclub.pl\\areas\\admin\\views\\doctor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B3A420D0-0CC5-46EA-A497-92E4A53A3B49}|MediClub.PL\\MediClub.PL.csproj|c:\\users\\user\\source\\repos\\mediclubntire\\mediclub.pl\\areas\\admin\\views\\doctor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -41,10 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B3A420D0-0CC5-46EA-A497-92E4A53A3B49}|MediClub.PL\\MediClub.PL.csproj|c:\\users\\user\\source\\repos\\mediclubntire\\mediclub.pl\\areas\\admin\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B3A420D0-0CC5-46EA-A497-92E4A53A3B49}|MediClub.PL\\MediClub.PL.csproj|solutionrelative:mediclub.pl\\areas\\admin\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3A420D0-0CC5-46EA-A497-92E4A53A3B49}|MediClub.PL\\MediClub.PL.csproj|c:\\users\\user\\source\\repos\\mediclubntire\\mediclub.pl\\areas\\admin\\views\\patient\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B3A420D0-0CC5-46EA-A497-92E4A53A3B49}|MediClub.PL\\MediClub.PL.csproj|solutionrelative:mediclub.pl\\areas\\admin\\views\\patient\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{22023406-B5D5-4278-86BD-94EFE4D72588}|MediClubModel\\MediClubModel.csproj|c:\\users\\user\\source\\repos\\mediclubntire\\mediclubmodel\\dtos\\patientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -69,14 +85,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B3A420D0-0CC5-46EA-A497-92E4A53A3B49}|MediClub.PL\\MediClub.PL.csproj|c:\\users\\user\\source\\repos\\mediclubntire\\mediclub.pl\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B3A420D0-0CC5-46EA-A497-92E4A53A3B49}|MediClub.PL\\MediClub.PL.csproj|solutionrelative:mediclub.pl\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E921D7A7-E84C-41EB-B695-103D3C9FA96A}|MediClub.BL\\MediClub.BL.csproj|c:\\users\\user\\source\\repos\\mediclubntire\\mediclub.bl\\services\\implementations\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E921D7A7-E84C-41EB-B695-103D3C9FA96A}|MediClub.BL\\MediClub.BL.csproj|solutionrelative:mediclub.bl\\services\\implementations\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44685142-BB4F-48D9-BFC3-86FCA5CEA3D8}|MediClub.DAL\\MediClub.DAL.csproj|c:\\users\\user\\source\\repos\\mediclubntire\\mediclub.dal\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44685142-BB4F-48D9-BFC3-86FCA5CEA3D8}|MediClub.DAL\\MediClub.DAL.csproj|solutionrelative:mediclub.dal\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -86,11 +94,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MediClubNtire\\MediClub.BL\\Services\\Interfaces\\IService.cs",
+              "RelativeDocumentMoniker": "MediClub.BL\\Services\\Interfaces\\IService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MediClubNtire\\MediClub.BL\\Services\\Interfaces\\IService.cs*",
+              "RelativeToolTip": "MediClub.BL\\Services\\Interfaces\\IService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T22:28:58.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MediClubNtire\\MediClub.DAL\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "MediClub.DAL\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MediClubNtire\\MediClub.DAL\\Interfaces\\IRepository.cs*",
+              "RelativeToolTip": "MediClub.DAL\\Interfaces\\IRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T22:25:08.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Appointment.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MediClubNtire\\MediClubModel\\Models\\Appointment.cs",
               "RelativeDocumentMoniker": "MediClubModel\\Models\\Appointment.cs",
@@ -103,7 +137,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MediClubNtire\\MediClub.PL\\Areas\\Admin\\Views\\Appointment\\Index.cshtml",
               "RelativeDocumentMoniker": "MediClub.PL\\Areas\\Admin\\Views\\Appointment\\Index.cshtml",
@@ -116,13 +150,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MediClubNtire\\MediClub.PL\\Areas\\Admin\\Views\\Appointment\\Create.cshtml",
               "RelativeDocumentMoniker": "MediClub.PL\\Areas\\Admin\\Views\\Appointment\\Create.cshtml",
               "ToolTip": "C:\\Users\\User\\source\\repos\\MediClubNtire\\MediClub.PL\\Areas\\Admin\\Views\\Appointment\\Create.cshtml",
               "RelativeToolTip": "MediClub.PL\\Areas\\Admin\\Views\\Appointment\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-01T20:35:18.644Z",
               "EditorCaption": ""
@@ -135,14 +169,14 @@
               "RelativeDocumentMoniker": "MediClub.PL\\Areas\\Admin\\Controllers\\AppointmentController.cs",
               "ToolTip": "C:\\Users\\User\\source\\repos\\MediClubNtire\\MediClub.PL\\Areas\\Admin\\Controllers\\AppointmentController.cs*",
               "RelativeToolTip": "MediClub.PL\\Areas\\Admin\\Controllers\\AppointmentController.cs*",
-              "ViewState": "AgIAADUAAAAAAAAAAAAowCcAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwDQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-01T20:28:46.694Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "AppointmentDto.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MediClubNtire\\MediClubModel\\DTOs\\AppointmentDto.cs",
               "RelativeDocumentMoniker": "MediClubModel\\DTOs\\AppointmentDto.cs",
@@ -150,12 +184,11 @@
               "RelativeToolTip": "MediClubModel\\DTOs\\AppointmentDto.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T20:28:11.867Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T20:28:11.867Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "PatientController.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MediClubNtire\\MediClub.PL\\Areas\\Admin\\Controllers\\PatientController.cs",
               "RelativeDocumentMoniker": "MediClub.PL\\Areas\\Admin\\Controllers\\PatientController.cs",
@@ -163,12 +196,11 @@
               "RelativeToolTip": "MediClub.PL\\Areas\\Admin\\Controllers\\PatientController.cs",
               "ViewState": "AgIAADEAAAAAAAAAAAAkwGUAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T19:53:59.333Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T19:53:59.333Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MediClubNtire\\MediClub.PL\\Areas\\Admin\\Views\\Patient\\Index.cshtml",
               "RelativeDocumentMoniker": "MediClub.PL\\Areas\\Admin\\Views\\Patient\\Index.cshtml",
@@ -176,38 +208,35 @@
               "RelativeToolTip": "MediClub.PL\\Areas\\Admin\\Views\\Patient\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-01T19:28:44.283Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T19:28:44.283Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "MediClub.BL",
+              "DocumentIndex": 18,
+              "Title": "MediClub.BL.csproj",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MediClubNtire\\MediClub.BL\\MediClub.BL.csproj",
               "RelativeDocumentMoniker": "MediClub.BL\\MediClub.BL.csproj",
               "ToolTip": "C:\\Users\\User\\source\\repos\\MediClubNtire\\MediClub.BL\\MediClub.BL.csproj",
               "RelativeToolTip": "MediClub.BL\\MediClub.BL.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-01T19:52:50.064Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T19:52:50.064Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 8,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MediClubNtire\\MediClub.PL\\Areas\\Admin\\Views\\Patient\\Create.cshtml",
               "RelativeDocumentMoniker": "MediClub.PL\\Areas\\Admin\\Views\\Patient\\Create.cshtml",
               "ToolTip": "C:\\Users\\User\\source\\repos\\MediClubNtire\\MediClub.PL\\Areas\\Admin\\Views\\Patient\\Create.cshtml",
               "RelativeToolTip": "MediClub.PL\\Areas\\Admin\\Views\\Patient\\Create.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-01T19:52:00.383Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T19:52:00.383Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "Patient.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MediClubNtire\\MediClubModel\\Models\\Patient.cs",
               "RelativeDocumentMoniker": "MediClubModel\\Models\\Patient.cs",
@@ -215,12 +244,11 @@
               "RelativeToolTip": "MediClubModel\\Models\\Patient.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T19:43:16.618Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T19:43:16.618Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "PatientDto.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MediClubNtire\\MediClubModel\\DTOs\\PatientDto.cs",
               "RelativeDocumentMoniker": "MediClubModel\\DTOs\\PatientDto.cs",
@@ -228,12 +256,11 @@
               "RelativeToolTip": "MediClubModel\\DTOs\\PatientDto.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T19:43:06.087Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T19:43:06.087Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "DoctorDto.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MediClubNtire\\MediClubModel\\DTOs\\DoctorDto.cs",
               "RelativeDocumentMoniker": "MediClubModel\\DTOs\\DoctorDto.cs",
@@ -241,12 +268,11 @@
               "RelativeToolTip": "MediClubModel\\DTOs\\DoctorDto.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T19:38:52.135Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T19:38:52.135Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MediClubNtire\\MediClubModel\\Models\\BaseEntity.cs",
               "RelativeDocumentMoniker": "MediClubModel\\Models\\BaseEntity.cs",
@@ -254,12 +280,11 @@
               "RelativeToolTip": "MediClubModel\\Models\\BaseEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T19:38:13.207Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T19:38:13.207Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MediClubNtire\\MediClub.PL\\Areas\\Admin\\Views\\Doctor\\Create.cshtml",
               "RelativeDocumentMoniker": "MediClub.PL\\Areas\\Admin\\Views\\Doctor\\Create.cshtml",
@@ -267,12 +292,11 @@
               "RelativeToolTip": "MediClub.PL\\Areas\\Admin\\Views\\Doctor\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-01T19:25:20.841Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T19:25:20.841Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MediClubNtire\\MediClub.PL\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "MediClub.PL\\Areas\\Admin\\Views\\_ViewImports.cshtml",
@@ -280,38 +304,37 @@
               "RelativeToolTip": "MediClub.PL\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-01T19:16:10.729Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T19:16:10.729Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 2,
               "Title": "Service.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MediClubNtire\\MediClub.BL\\Services\\Implementations\\Service.cs",
               "RelativeDocumentMoniker": "MediClub.BL\\Services\\Implementations\\Service.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\MediClubNtire\\MediClub.BL\\Services\\Implementations\\Service.cs",
-              "RelativeToolTip": "MediClub.BL\\Services\\Implementations\\Service.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAswBwAAAACAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MediClubNtire\\MediClub.BL\\Services\\Implementations\\Service.cs*",
+              "RelativeToolTip": "MediClub.BL\\Services\\Implementations\\Service.cs*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCAAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-01T19:11:07.579Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 4,
               "Title": "Repository.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MediClubNtire\\MediClub.DAL\\Implementations\\Repository.cs",
               "RelativeDocumentMoniker": "MediClub.DAL\\Implementations\\Repository.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\MediClubNtire\\MediClub.DAL\\Implementations\\Repository.cs",
-              "RelativeToolTip": "MediClub.DAL\\Implementations\\Repository.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAwwCQAAAACAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MediClubNtire\\MediClub.DAL\\Implementations\\Repository.cs*",
+              "RelativeToolTip": "MediClub.DAL\\Implementations\\Repository.cs*",
+              "ViewState": "AgIAADsAAAAAAAAAAAAswEcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-01T19:10:55.824Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "DoctorController.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MediClubNtire\\MediClub.PL\\Areas\\Admin\\Controllers\\DoctorController.cs",
               "RelativeDocumentMoniker": "MediClub.PL\\Areas\\Admin\\Controllers\\DoctorController.cs",
@@ -319,12 +342,11 @@
               "RelativeToolTip": "MediClub.PL\\Areas\\Admin\\Controllers\\DoctorController.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T19:09:04.921Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T19:09:04.921Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MediClubNtire\\MediClub.PL\\Areas\\Admin\\Views\\Doctor\\Index.cshtml",
               "RelativeDocumentMoniker": "MediClub.PL\\Areas\\Admin\\Views\\Doctor\\Index.cshtml",
@@ -332,8 +354,7 @@
               "RelativeToolTip": "MediClub.PL\\Areas\\Admin\\Views\\Doctor\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-01T17:20:39.821Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T17:20:39.821Z"
             }
           ]
         }

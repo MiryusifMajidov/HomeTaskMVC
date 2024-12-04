@@ -3,6 +3,7 @@ using InanceBL.Services.Interfaces;
 using InanceDAL.DAL;
 using InanceDAL.Implementations;
 using InanceDAL.Interfaces;
+using InanceModels.Models;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Options;
 
@@ -25,6 +26,7 @@ namespace Inance.PL
 
 
 			app.UseStaticFiles();
+			//app.UseAuthentication();
 
             app.MapControllerRoute(
 			   name: "areas",
@@ -40,3 +42,7 @@ namespace Inance.PL
 		}
 	}
 }
+
+
+
+

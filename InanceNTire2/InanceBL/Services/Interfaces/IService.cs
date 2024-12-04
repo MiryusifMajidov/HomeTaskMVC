@@ -15,6 +15,7 @@ namespace InanceBL.Services.Interfaces
 		Task SoftDeleteAsync(int id);
 		Task HardDeleteAsync(int id);
         Task<T> GetByMaster(int serviceId);
+        Task<T?> UserVerification<T>(string usernameOrEmail) where T : class;
 
     }
 }

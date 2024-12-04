@@ -53,6 +53,22 @@ namespace InanceDAL.Implementations
             return default; 
         }
 
+        public async Task<T?> UserVerification<T>(string usernameOrEmail) where T : class
+        {
+            if (typeof(T) == typeof(AppUser))
+            {
+                var user = await _context.Set<AppUser>()
+                    .FirstOrDefaultAsync(x => x.UserName == usernameOrEmail || x.Email == usernameOrEmail);
+
+                return user as T; 
+            }
+
+            return default;
+        }
+
+
+
+
 
         public async Task HardDelete(int id)
 		{
@@ -79,5 +95,7 @@ namespace InanceDAL.Implementations
 			_context.Set<T>().Update(entity);
 			await _context.SaveChangesAsync();
 		}
-	}
+
+        
+    }
 }

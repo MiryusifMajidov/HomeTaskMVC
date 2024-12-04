@@ -15,6 +15,8 @@ namespace InanceDAL.Interfaces
 		Task Update(T entity);
 		Task HardDelete(int id);
 		Task SoftDelete(int id);
-	
-	}
+        Task<T?> UserVerification<T>(string usernameOrEmail) where T : class;
+
+
+    }
 }

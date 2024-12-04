@@ -52,5 +52,13 @@ namespace InanceBL.Services.Implementations
 		{
 			await _repository.Update(entity);
 		}
-	}
+
+        public async Task<T1> UserVerification<T1>(string usernameOrEmail) where T1 : class
+        {
+            var result = await _repository.UserVerification<T1>(usernameOrEmail);
+            return result; 
+        }
+
+
+    }
 }

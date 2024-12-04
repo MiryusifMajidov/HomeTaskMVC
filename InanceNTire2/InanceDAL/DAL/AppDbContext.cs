@@ -5,10 +5,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using InanceModels.Models;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 
 namespace InanceDAL.DAL
 {
-	public class AppDbContext:DbContext
+	public class AppDbContext:IdentityDbContext
 	{
 		public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) { }
 
@@ -16,6 +17,7 @@ namespace InanceDAL.DAL
         public DbSet<Master> Masters { get; set; }
         public DbSet<Order> Orders { get; set; }
         public DbSet<Service> Services { get; set; }
+        public DbSet<AppUser> AppUsers { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {

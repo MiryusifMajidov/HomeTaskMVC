@@ -16,6 +16,8 @@ namespace MediClubModel.Models
 		public string Email { get; set; }
 		public string Username { get; set; }
 		public bool IsActive { get; set; }
+		
+		public string Image {  get; set; }
 
 		public ICollection<Appointment> Appointments { get; set; }
 		public ICollection<DoctorHospital> DoctorHospitals { get; set; }

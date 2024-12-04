@@ -30016,6 +30016,54 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\fonts\icofont.woff2))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Images\Product\7eecc9c7-ef6d-476b-bf73-8ec20f9e9f15_bubirshekiladidir.jpeg))">
+      <SourceType>Package</SourceType>
+      <SourceId>MediClub.PL</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/MediClub.PL</BasePath>
+      <RelativePath>Images/Product/7eecc9c7-ef6d-476b-bf73-8ec20f9e9f15_bubirshekiladidir.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Images\Product\7eecc9c7-ef6d-476b-bf73-8ec20f9e9f15_bubirshekiladidir.jpeg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Images\Product\9ee63e20-3225-4156-a9e4-876b642ce2f9_6 Movies Similar to The Matrix (1999) --__Follow_ _cinema_nighttt__Credits_ _filmset22___cinema _hollywood_0(HEIC).heic))">
+      <SourceType>Package</SourceType>
+      <SourceId>MediClub.PL</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/MediClub.PL</BasePath>
+      <RelativePath>Images/Product/9ee63e20-3225-4156-a9e4-876b642ce2f9_6 Movies Similar to The Matrix (1999) --__Follow_ _cinema_nighttt__Credits_ _filmset22___cinema _hollywood_0(HEIC).heic</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Images\Product\9ee63e20-3225-4156-a9e4-876b642ce2f9_6 Movies Similar to The Matrix (1999) --__Follow_ _cinema_nighttt__Credits_ _filmset22___cinema _hollywood_0(HEIC).heic))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Images\Product\d1e784c0-dffd-4ef0-9a39-d4318392cea8_download (3).jpeg))">
+      <SourceType>Package</SourceType>
+      <SourceId>MediClub.PL</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/MediClub.PL</BasePath>
+      <RelativePath>Images/Product/d1e784c0-dffd-4ef0-9a39-d4318392cea8_download (3).jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Images\Product\d1e784c0-dffd-4ef0-9a39-d4318392cea8_download (3).jpeg))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\about-img.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>MediClub.PL</SourceId>

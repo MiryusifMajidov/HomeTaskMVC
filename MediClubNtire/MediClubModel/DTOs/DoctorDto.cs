@@ -1,9 +1,12 @@
-﻿using System;
+﻿using Microsoft.AspNetCore.Http;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+
+
 
 namespace MediClubModel.DTOs
 {
@@ -40,6 +43,8 @@ namespace MediClubModel.DTOs
         [DataType(DataType.EmailAddress)]
         [Display(Prompt = "Email")]
         public string Email { get; set; }
+
+       public IFormFile Image { get; set; }
 
     }
 }

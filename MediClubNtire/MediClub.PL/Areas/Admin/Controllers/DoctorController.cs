@@ -1,4 +1,5 @@
-﻿using MediClub.BL.Services.Interfaces;
+﻿using MediClub.BL.CustomExtention;
+using MediClub.BL.Services.Interfaces;
 using MediClubModel.DTOs;
 using MediClubModel.Models;
 using Microsoft.AspNetCore.Mvc;
@@ -38,8 +39,13 @@ namespace MediClub.PL.Areas.Admin.Controllers
 				return View(doctorDto);
             }
 
+           
 
-			Doctor doctor = new Doctor
+			var uploadFolder = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/Images/Product");
+
+            var uploadedFileName = await doctorDto.Image.UploadFile(uploadFolder);
+
+            Doctor doctor = new Doctor
 			{
 				Name = doctorDto.Name,
 				Surname = doctorDto.Surname,
@@ -47,7 +53,9 @@ namespace MediClub.PL.Areas.Admin.Controllers
 				PhoneNumber = doctorDto.PhoneNumber,
 				Email = doctorDto.Email,
 				Username = doctorDto.Name + doctorDto.Finkod,
-				IsActive = true
+				IsActive = true,
+				Image = $"/Images/Product/{uploadedFileName}"
+				
 			
 			};
 

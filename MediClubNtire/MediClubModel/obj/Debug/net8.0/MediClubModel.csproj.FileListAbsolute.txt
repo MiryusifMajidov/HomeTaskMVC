@@ -9,3 +9,4 @@ C:\Users\User\source\repos\MediClubNtire\MediClubModel\obj\Debug\net8.0\MediClub
 C:\Users\User\source\repos\MediClubNtire\MediClubModel\obj\Debug\net8.0\refint\MediClubModel.dll
 C:\Users\User\source\repos\MediClubNtire\MediClubModel\obj\Debug\net8.0\MediClubModel.pdb
 C:\Users\User\source\repos\MediClubNtire\MediClubModel\obj\Debug\net8.0\ref\MediClubModel.dll
+C:\Users\User\source\repos\MediClubNtire\MediClubModel\obj\Debug\net8.0\MediClubModel.csproj.AssemblyReference.cache

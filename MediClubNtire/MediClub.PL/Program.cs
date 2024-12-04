@@ -3,6 +3,8 @@ using MediClub.BL.Services.Interfaces;
 using MediClub.DAL.DAL;
 using MediClub.DAL.Implementations;
 using MediClub.DAL.Interfaces;
+using MediClubModel.Models;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
 namespace MediClub.PL
@@ -13,6 +15,12 @@ namespace MediClub.PL
         {
             var builder = WebApplication.CreateBuilder(args);
             builder.Services.AddControllersWithViews();
+
+			builder.Services.AddIdentity<AppUser, IdentityRole>(opt=> 
+			{
+				opt.User.RequireUniqueEmail = true;
+				opt.Password.RequiredLength = 3;
+			}).AddDefaultTokenProviders().AddEntityFrameworkStores<AppDbContext>();
 
 			builder.Services.AddDbContext<AppDbContext>(options =>
 			options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));

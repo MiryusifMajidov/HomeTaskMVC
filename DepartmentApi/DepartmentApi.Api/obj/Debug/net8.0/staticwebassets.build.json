@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "oyN2IAJQV02Y4Ne97wgcp5LW2nP3TUXjpmm5H03D2oI=",
+  "Source": "DepartmentApi.Api",
+  "BasePath": "_content/DepartmentApi.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

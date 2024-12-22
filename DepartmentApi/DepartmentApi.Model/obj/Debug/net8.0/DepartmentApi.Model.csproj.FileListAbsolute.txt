@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\DepartmentApi\DepartmentApi.Model\bin\Debug\net8.0\DepartmentApi.Model.deps.json
+C:\Users\User\source\repos\DepartmentApi\DepartmentApi.Model\bin\Debug\net8.0\DepartmentApi.Model.dll
+C:\Users\User\source\repos\DepartmentApi\DepartmentApi.Model\bin\Debug\net8.0\DepartmentApi.Model.pdb
+C:\Users\User\source\repos\DepartmentApi\DepartmentApi.Model\obj\Debug\net8.0\DepartmentApi.Model.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\DepartmentApi\DepartmentApi.Model\obj\Debug\net8.0\DepartmentApi.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\DepartmentApi\DepartmentApi.Model\obj\Debug\net8.0\DepartmentApi.Model.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\DepartmentApi\DepartmentApi.Model\obj\Debug\net8.0\DepartmentApi.Model.AssemblyInfo.cs
+C:\Users\User\source\repos\DepartmentApi\DepartmentApi.Model\obj\Debug\net8.0\DepartmentApi.Model.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DepartmentApi\DepartmentApi.Model\obj\Debug\net8.0\DepartmentApi.Model.dll
+C:\Users\User\source\repos\DepartmentApi\DepartmentApi.Model\obj\Debug\net8.0\refint\DepartmentApi.Model.dll
+C:\Users\User\source\repos\DepartmentApi\DepartmentApi.Model\obj\Debug\net8.0\DepartmentApi.Model.pdb
+C:\Users\User\source\repos\DepartmentApi\DepartmentApi.Model\obj\Debug\net8.0\ref\DepartmentApi.Model.dll

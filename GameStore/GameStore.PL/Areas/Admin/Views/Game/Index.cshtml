@@ -1,0 +1,88 @@
+﻿@model IEnumerable<Game>
+<!-- Begin Page Content -->
+<div class="container-fluid">
+
+    <!-- Page Heading -->
+    <h1 class="h3 mb-2 text-gray-800">Tables</h1>
+    <p class="mb-4">
+        DataTables is a third party plugin that is used to generate the demo table below.
+        For more information about DataTables, please visit the <a target="_blank"
+                                                                   href="https://datatables.net">official DataTables documentation</a>.
+    </p>
+
+    <!-- DataTales Example -->
+    <a asp-area="Admin" asp-controller="Game" asp-action="Create" class="btn btn-primary  btn-icon-split" style="margin:20px 20px 20px 0">
+        <span class="icon text-white-50">
+            <i class="fas fa-arrow-right"></i>
+        </span>
+        <span class="text">Yeni work əlavə edin</span>
+    </a>
+    <div class="card shadow mb-4">
+
+        <div class="card-header py-3">
+            <h6 class="m-0 font-weight-bold text-primary">DataTables Example</h6>
+        </div>
+        <div class="card-body">
+            <div class="table-responsive">
+                <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                    <thead>
+                        <tr>
+                        
+                            <th>Title</th>
+                            <th>Description</th>
+
+                            <th>Image</th>
+                            <th>Quantity</th>
+                            <th>Price</th>
+                            <th>New Price</th>
+                            <th>Actions</th>
+                        </tr>
+
+
+                    
+                    </thead>
+                    <tfoot>
+                        <tr>
+                            <th>Title</th>
+                            <th>Description</th>
+                           
+                            <th>Image</th>
+                            <th>Quantity</th> 
+                            <th>Price</th>
+                            <th>New Price</th> 
+                            <th>Actions</th> 
+                        </tr>
+
+                    </tfoot>
+                    <tbody>
+                        @foreach (var work in Model)
+                        {
+                            <tr>
+                                <td>@work.Title</td>
+                                <td>@work.Description</td>
+                                <td>@work.Price</td> 
+                                <td>@work.NewPrice</td> 
+                                <td>@work.Guantity</td>
+                                <td>
+                                    <img class="img-profile rounded-circle" src="~/Images/Service/@work.Image" style="width:60px">
+                                </td>
+                                <td style="justify-content:space-between">
+                                    <a asp-area="Admin" asp-controller="Service" asp-action="Edit" asp-route-id="@work.GameId" class="btn btn-warning btn-circle">
+                                        <i class="fas fa-edit"></i>
+                                    </a>
+                                    <a asp-area="Admin" asp-controller="Service" asp-action="Delete" asp-route-id="@work.GameId" class="btn btn-danger btn-circle">
+                                        <i class="fas fa-trash"></i>
+                                    </a>
+                                </td>
+                            </tr>
+                        }
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+<!-- /.container-fluid -->

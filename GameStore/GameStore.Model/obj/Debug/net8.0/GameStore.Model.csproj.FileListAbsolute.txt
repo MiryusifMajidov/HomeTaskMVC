@@ -1,0 +1,38 @@
+C:\Users\II Novbe\source\repos\GameStore\GameStore.Model\bin\Debug\net8.0\GameStore.Model.deps.json
+C:\Users\II Novbe\source\repos\GameStore\GameStore.Model\bin\Debug\net8.0\GameStore.Model.dll
+C:\Users\II Novbe\source\repos\GameStore\GameStore.Model\bin\Debug\net8.0\GameStore.Model.pdb
+C:\Users\II Novbe\source\repos\GameStore\GameStore.Model\obj\Debug\net8.0\GameStore.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II Novbe\source\repos\GameStore\GameStore.Model\obj\Debug\net8.0\GameStore.Model.AssemblyInfoInputs.cache
+C:\Users\II Novbe\source\repos\GameStore\GameStore.Model\obj\Debug\net8.0\GameStore.Model.AssemblyInfo.cs
+C:\Users\II Novbe\source\repos\GameStore\GameStore.Model\obj\Debug\net8.0\GameStore.Model.csproj.CoreCompileInputs.cache
+C:\Users\II Novbe\source\repos\GameStore\GameStore.Model\obj\Debug\net8.0\GameStore.Model.sourcelink.json
+C:\Users\II Novbe\source\repos\GameStore\GameStore.Model\obj\Debug\net8.0\GameStore.Model.dll
+C:\Users\II Novbe\source\repos\GameStore\GameStore.Model\obj\Debug\net8.0\refint\GameStore.Model.dll
+C:\Users\II Novbe\source\repos\GameStore\GameStore.Model\obj\Debug\net8.0\GameStore.Model.pdb
+C:\Users\II Novbe\source\repos\GameStore\GameStore.Model\obj\Debug\net8.0\ref\GameStore.Model.dll
+C:\Users\II Novbe\Desktop\tt\HomeWork\MVS\GameStore\GameStore.Model\bin\Debug\net8.0\GameStore.Model.deps.json
+C:\Users\II Novbe\Desktop\tt\HomeWork\MVS\GameStore\GameStore.Model\bin\Debug\net8.0\GameStore.Model.dll
+C:\Users\II Novbe\Desktop\tt\HomeWork\MVS\GameStore\GameStore.Model\bin\Debug\net8.0\GameStore.Model.pdb
+C:\Users\II Novbe\Desktop\tt\HomeWork\MVS\GameStore\GameStore.Model\obj\Debug\net8.0\GameStore.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II Novbe\Desktop\tt\HomeWork\MVS\GameStore\GameStore.Model\obj\Debug\net8.0\GameStore.Model.AssemblyInfoInputs.cache
+C:\Users\II Novbe\Desktop\tt\HomeWork\MVS\GameStore\GameStore.Model\obj\Debug\net8.0\GameStore.Model.AssemblyInfo.cs
+C:\Users\II Novbe\Desktop\tt\HomeWork\MVS\GameStore\GameStore.Model\obj\Debug\net8.0\GameStore.Model.csproj.CoreCompileInputs.cache
+C:\Users\II Novbe\Desktop\tt\HomeWork\MVS\GameStore\GameStore.Model\obj\Debug\net8.0\GameStore.Model.sourcelink.json
+C:\Users\II Novbe\Desktop\tt\HomeWork\MVS\GameStore\GameStore.Model\obj\Debug\net8.0\GameStore.Model.dll
+C:\Users\II Novbe\Desktop\tt\HomeWork\MVS\GameStore\GameStore.Model\obj\Debug\net8.0\refint\GameStore.Model.dll
+C:\Users\II Novbe\Desktop\tt\HomeWork\MVS\GameStore\GameStore.Model\obj\Debug\net8.0\GameStore.Model.pdb
+C:\Users\II Novbe\Desktop\tt\HomeWork\MVS\GameStore\GameStore.Model\obj\Debug\net8.0\ref\GameStore.Model.dll
+C:\Users\II Novbe\Desktop\tt\HomeWork\MVS\GameStore\GameStore.Model\obj\Debug\net8.0\GameStore.Model.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\HomeTaskCode\MVS\GameStore\GameStore.Model\bin\Debug\net8.0\GameStore.Model.deps.json
+C:\Users\User\Desktop\HomeTaskCode\MVS\GameStore\GameStore.Model\bin\Debug\net8.0\GameStore.Model.dll
+C:\Users\User\Desktop\HomeTaskCode\MVS\GameStore\GameStore.Model\bin\Debug\net8.0\GameStore.Model.pdb
+C:\Users\User\Desktop\HomeTaskCode\MVS\GameStore\GameStore.Model\obj\Debug\net8.0\GameStore.Model.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\HomeTaskCode\MVS\GameStore\GameStore.Model\obj\Debug\net8.0\GameStore.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\HomeTaskCode\MVS\GameStore\GameStore.Model\obj\Debug\net8.0\GameStore.Model.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\HomeTaskCode\MVS\GameStore\GameStore.Model\obj\Debug\net8.0\GameStore.Model.AssemblyInfo.cs
+C:\Users\User\Desktop\HomeTaskCode\MVS\GameStore\GameStore.Model\obj\Debug\net8.0\GameStore.Model.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\HomeTaskCode\MVS\GameStore\GameStore.Model\obj\Debug\net8.0\GameStore.Model.sourcelink.json
+C:\Users\User\Desktop\HomeTaskCode\MVS\GameStore\GameStore.Model\obj\Debug\net8.0\GameStore.Model.dll
+C:\Users\User\Desktop\HomeTaskCode\MVS\GameStore\GameStore.Model\obj\Debug\net8.0\refint\GameStore.Model.dll
+C:\Users\User\Desktop\HomeTaskCode\MVS\GameStore\GameStore.Model\obj\Debug\net8.0\GameStore.Model.pdb
+C:\Users\User\Desktop\HomeTaskCode\MVS\GameStore\GameStore.Model\obj\Debug\net8.0\ref\GameStore.Model.dll

@@ -1,0 +1,113 @@
+﻿@using GameStore.Model.DTOs.Product
+@model ProductCreateDto
+
+
+    <div class="min-h-screen flex items-center justify-center">
+        <div class="w-full max-w-3xl bg-white rounded-lg shadow-lg p-8">
+            <h2 class="text-3xl font-semibold text-gray-800 text-center mb-6">Create New Game Product</h2>
+
+            <form method="POST" enctype="multipart/form-data" class="space-y-6">
+
+               
+                <div>
+                    <label asp-for="Title" class="block text-gray-700 font-medium">Game Title</label>
+                <input type="text" asp-for="Title" required
+                           class="w-full p-3 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-400">
+                </div>
+
+                
+                <div>
+                <label asp-for="Price" class="block text-gray-700 font-medium">Price</label>
+                <input type="number" asp-for="Price" required step="0.01"
+                           class="w-full p-3 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-400">
+                </div>
+
+                
+                <div>
+                <label asp-for="Description" class="block text-gray-700 font-medium">Description</label>
+                <textarea asp-for="Description" required rows="4"
+                              class="w-full p-3 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-400"></textarea>
+                </div>
+
+               
+                <div>
+                <label asp-for="Guantity" class="block text-gray-700 font-medium">Quantity</label>
+                    <input type="number" asp-for="Guantity" required
+                           class="w-full p-3 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-400">
+                </div>
+
+                
+                <div>
+                <label asp-for="GameId" class="block text-gray-700 font-medium">Game ID</label>
+                <input type="text" asp-for="GameId" required
+                           class="w-full p-3 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-400">
+                </div>
+
+               
+                <div>
+                <label asp-for="Image" class="block text-gray-700 font-medium">Game Image</label>
+                <input asp-for="Image" required
+                           class="w-full p-3 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-400"
+                           onchange="previewImage(event)">
+                   @*  <!-- Image Preview and Loading Animation -->
+                    <div id="imagePreviewContainer" class="mt-6 hidden">
+                        <p class="text-center text-gray-600">Image Preview</p>
+                        <div id="loadingAnimation" class="flex justify-center items-center">
+                            <div class="loader hidden border-t-4 border-blue-600 border-solid w-16 h-16 rounded-full animate-spin"></div>
+                        </div>
+                        <img id="imagePreview" class="hidden w-full max-w-90% h-72 mt-4 rounded-md shadow-lg" src="" alt="Image Preview">
+                    </div> *@
+                </div>
+
+              
+                <div class="flex justify-center">
+                    <button type="submit" class="bg-blue-600 text-white font-semibold py-3 px-6 rounded-md hover:bg-blue-700 transition duration-300">
+                        Create Product
+                    </button>
+                </div>
+
+                
+
+            </form>
+        </div>
+    </div>
+
+  @*   <script>
+        function previewImage(event) {
+            const file = event.target.files[0];
+            const imagePreviewContainer = document.getElementById("imagePreviewContainer");
+            const loadingAnimation = document.getElementById("loadingAnimation");
+            const imagePreview = document.getElementById("imagePreview");
+            const loader = document.querySelector(".loader");
+
+            // Show loading animation
+            loadingAnimation.classList.remove("hidden");
+            loader.classList.remove("hidden");
+
+            // Hide image initially
+            imagePreview.classList.add("hidden");
+
+            // Show image preview container
+            imagePreviewContainer.classList.remove("hidden");
+
+            // Wait for the image to load
+            const reader = new FileReader();
+            const startTime = Date.now();
+            reader.onload = function () {
+                // Calculate how long the loading process took
+                const loadDuration = Math.max(2000, Date.now() - startTime); // Ensure minimum 3 seconds
+
+                // Set a minimum 3-second animation duration
+                setTimeout(() => {
+                    // Once the image is loaded, show the image and hide the loading animation
+                    imagePreview.src = reader.result;
+                    imagePreview.classList.remove("hidden");
+                    imagePreview.classList.add("image-loading"); // Add animation
+                    loadingAnimation.classList.add("hidden");
+                    loader.classList.add("hidden");
+                }, loadDuration);
+            };
+            reader.readAsDataURL(file);
+        }
+    </script>
+ *@

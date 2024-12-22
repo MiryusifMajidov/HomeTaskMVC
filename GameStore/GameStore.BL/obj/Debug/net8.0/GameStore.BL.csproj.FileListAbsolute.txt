@@ -1,0 +1,54 @@
+C:\Users\II Novbe\source\repos\GameStore\GameStore.BL\bin\Debug\net8.0\GameStore.BL.deps.json
+C:\Users\II Novbe\source\repos\GameStore\GameStore.BL\bin\Debug\net8.0\GameStore.BL.dll
+C:\Users\II Novbe\source\repos\GameStore\GameStore.BL\bin\Debug\net8.0\GameStore.BL.pdb
+C:\Users\II Novbe\source\repos\GameStore\GameStore.BL\bin\Debug\net8.0\GameStore.DAL.dll
+C:\Users\II Novbe\source\repos\GameStore\GameStore.BL\bin\Debug\net8.0\GameStore.Model.dll
+C:\Users\II Novbe\source\repos\GameStore\GameStore.BL\bin\Debug\net8.0\GameStore.DAL.pdb
+C:\Users\II Novbe\source\repos\GameStore\GameStore.BL\bin\Debug\net8.0\GameStore.Model.pdb
+C:\Users\II Novbe\source\repos\GameStore\GameStore.BL\obj\Debug\net8.0\GameStore.BL.csproj.AssemblyReference.cache
+C:\Users\II Novbe\source\repos\GameStore\GameStore.BL\obj\Debug\net8.0\GameStore.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II Novbe\source\repos\GameStore\GameStore.BL\obj\Debug\net8.0\GameStore.BL.AssemblyInfoInputs.cache
+C:\Users\II Novbe\source\repos\GameStore\GameStore.BL\obj\Debug\net8.0\GameStore.BL.AssemblyInfo.cs
+C:\Users\II Novbe\source\repos\GameStore\GameStore.BL\obj\Debug\net8.0\GameStore.BL.csproj.CoreCompileInputs.cache
+C:\Users\II Novbe\source\repos\GameStore\GameStore.BL\obj\Debug\net8.0\GameStore.BL.sourcelink.json
+C:\Users\II Novbe\source\repos\GameStore\GameStore.BL\obj\Debug\net8.0\GameStor.AE3B125F.Up2Date
+C:\Users\II Novbe\source\repos\GameStore\GameStore.BL\obj\Debug\net8.0\GameStore.BL.dll
+C:\Users\II Novbe\source\repos\GameStore\GameStore.BL\obj\Debug\net8.0\refint\GameStore.BL.dll
+C:\Users\II Novbe\source\repos\GameStore\GameStore.BL\obj\Debug\net8.0\GameStore.BL.pdb
+C:\Users\II Novbe\source\repos\GameStore\GameStore.BL\obj\Debug\net8.0\ref\GameStore.BL.dll
+C:\Users\II Novbe\Desktop\tt\HomeWork\MVS\GameStore\GameStore.BL\bin\Debug\net8.0\GameStore.BL.deps.json
+C:\Users\II Novbe\Desktop\tt\HomeWork\MVS\GameStore\GameStore.BL\bin\Debug\net8.0\GameStore.BL.dll
+C:\Users\II Novbe\Desktop\tt\HomeWork\MVS\GameStore\GameStore.BL\bin\Debug\net8.0\GameStore.BL.pdb
+C:\Users\II Novbe\Desktop\tt\HomeWork\MVS\GameStore\GameStore.BL\bin\Debug\net8.0\GameStore.DAL.dll
+C:\Users\II Novbe\Desktop\tt\HomeWork\MVS\GameStore\GameStore.BL\bin\Debug\net8.0\GameStore.Model.dll
+C:\Users\II Novbe\Desktop\tt\HomeWork\MVS\GameStore\GameStore.BL\bin\Debug\net8.0\GameStore.DAL.pdb
+C:\Users\II Novbe\Desktop\tt\HomeWork\MVS\GameStore\GameStore.BL\bin\Debug\net8.0\GameStore.Model.pdb
+C:\Users\II Novbe\Desktop\tt\HomeWork\MVS\GameStore\GameStore.BL\obj\Debug\net8.0\GameStore.BL.csproj.AssemblyReference.cache
+C:\Users\II Novbe\Desktop\tt\HomeWork\MVS\GameStore\GameStore.BL\obj\Debug\net8.0\GameStore.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II Novbe\Desktop\tt\HomeWork\MVS\GameStore\GameStore.BL\obj\Debug\net8.0\GameStore.BL.AssemblyInfoInputs.cache
+C:\Users\II Novbe\Desktop\tt\HomeWork\MVS\GameStore\GameStore.BL\obj\Debug\net8.0\GameStore.BL.AssemblyInfo.cs
+C:\Users\II Novbe\Desktop\tt\HomeWork\MVS\GameStore\GameStore.BL\obj\Debug\net8.0\GameStore.BL.csproj.CoreCompileInputs.cache
+C:\Users\II Novbe\Desktop\tt\HomeWork\MVS\GameStore\GameStore.BL\obj\Debug\net8.0\GameStore.BL.sourcelink.json
+C:\Users\II Novbe\Desktop\tt\HomeWork\MVS\GameStore\GameStore.BL\obj\Debug\net8.0\GameStor.AE3B125F.Up2Date
+C:\Users\II Novbe\Desktop\tt\HomeWork\MVS\GameStore\GameStore.BL\obj\Debug\net8.0\GameStore.BL.dll
+C:\Users\II Novbe\Desktop\tt\HomeWork\MVS\GameStore\GameStore.BL\obj\Debug\net8.0\refint\GameStore.BL.dll
+C:\Users\II Novbe\Desktop\tt\HomeWork\MVS\GameStore\GameStore.BL\obj\Debug\net8.0\GameStore.BL.pdb
+C:\Users\II Novbe\Desktop\tt\HomeWork\MVS\GameStore\GameStore.BL\obj\Debug\net8.0\ref\GameStore.BL.dll
+C:\Users\User\Desktop\HomeTaskCode\MVS\GameStore\GameStore.BL\bin\Debug\net8.0\GameStore.BL.deps.json
+C:\Users\User\Desktop\HomeTaskCode\MVS\GameStore\GameStore.BL\bin\Debug\net8.0\GameStore.BL.dll
+C:\Users\User\Desktop\HomeTaskCode\MVS\GameStore\GameStore.BL\bin\Debug\net8.0\GameStore.BL.pdb
+C:\Users\User\Desktop\HomeTaskCode\MVS\GameStore\GameStore.BL\bin\Debug\net8.0\GameStore.DAL.dll
+C:\Users\User\Desktop\HomeTaskCode\MVS\GameStore\GameStore.BL\bin\Debug\net8.0\GameStore.Model.dll
+C:\Users\User\Desktop\HomeTaskCode\MVS\GameStore\GameStore.BL\bin\Debug\net8.0\GameStore.DAL.pdb
+C:\Users\User\Desktop\HomeTaskCode\MVS\GameStore\GameStore.BL\bin\Debug\net8.0\GameStore.Model.pdb
+C:\Users\User\Desktop\HomeTaskCode\MVS\GameStore\GameStore.BL\obj\Debug\net8.0\GameStore.BL.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\HomeTaskCode\MVS\GameStore\GameStore.BL\obj\Debug\net8.0\GameStore.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\HomeTaskCode\MVS\GameStore\GameStore.BL\obj\Debug\net8.0\GameStore.BL.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\HomeTaskCode\MVS\GameStore\GameStore.BL\obj\Debug\net8.0\GameStore.BL.AssemblyInfo.cs
+C:\Users\User\Desktop\HomeTaskCode\MVS\GameStore\GameStore.BL\obj\Debug\net8.0\GameStore.BL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\HomeTaskCode\MVS\GameStore\GameStore.BL\obj\Debug\net8.0\GameStore.BL.sourcelink.json
+C:\Users\User\Desktop\HomeTaskCode\MVS\GameStore\GameStore.BL\obj\Debug\net8.0\GameStor.AE3B125F.Up2Date
+C:\Users\User\Desktop\HomeTaskCode\MVS\GameStore\GameStore.BL\obj\Debug\net8.0\GameStore.BL.dll
+C:\Users\User\Desktop\HomeTaskCode\MVS\GameStore\GameStore.BL\obj\Debug\net8.0\refint\GameStore.BL.dll
+C:\Users\User\Desktop\HomeTaskCode\MVS\GameStore\GameStore.BL\obj\Debug\net8.0\GameStore.BL.pdb
+C:\Users\User\Desktop\HomeTaskCode\MVS\GameStore\GameStore.BL\obj\Debug\net8.0\ref\GameStore.BL.dll

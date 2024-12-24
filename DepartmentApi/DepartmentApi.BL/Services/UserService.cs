@@ -20,12 +20,16 @@ namespace DepartmentApi.BL.Services
 
         public Task<IEnumerable<AppUser>> GetAll()
         {
-            throw new NotImplementedException();
+            return _repository.GetAll();
         }
 
         public Task<AppUser> GetById(int id)
         {
-            throw new NotImplementedException();
+            return _repository.GetById(id);
+        }
+        public Task<AppUser> GetById(string id)
+        {
+            return _repository.GetById(id);
         }
     }
 }

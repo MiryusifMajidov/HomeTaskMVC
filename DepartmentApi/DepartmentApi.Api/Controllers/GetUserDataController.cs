@@ -23,7 +23,7 @@ namespace DepartmentApi.Api.Controllers
         }
 
         [HttpGet("{id}")]
-        public async Task<IActionResult> GetUserById(int id)
+        public async Task<IActionResult> GetUserById(string id)
         {
             var user = await userService.GetById(id);
             return Ok(user);

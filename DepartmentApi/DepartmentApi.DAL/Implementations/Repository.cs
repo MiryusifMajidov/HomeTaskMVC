@@ -27,6 +27,11 @@ namespace DepartmentApi.DAL.Implementations
         {
             return await _context.Set<T>().FindAsync(id);
         }
+        
+        public async Task<T> GetById(string id)
+        {
+            return await _context.Set<T>().FindAsync(id);
+        }
 
     }
 }

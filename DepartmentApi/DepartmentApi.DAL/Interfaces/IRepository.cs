@@ -9,6 +9,7 @@ namespace DepartmentApi.DAL.Interfaces
     public interface IRepository<T>
     {
         Task<T> GetById(int id);
+        Task<T> GetById(string id);
         Task<IEnumerable<T>> GetAll();
        
     }

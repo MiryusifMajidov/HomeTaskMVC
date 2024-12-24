@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "t+xgALRPVU0=",
+  "dgSpecHash": "YfDATlsC2HA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\source\\repos\\DepartmentApi\\DepartmentApi.Model\\DepartmentApi.Model.csproj",
+  "projectFilePath": "C:\\Users\\User\\Desktop\\HomeTaskMVC\\DepartmentApi\\DepartmentApi.Model\\DepartmentApi.Model.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\8.0.11\\microsoft.aspnetcore.cryptography.internal.8.0.11.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\8.0.11\\microsoft.aspnetcore.cryptography.keyderivation.8.0.11.nupkg.sha512",
@@ -23,5 +23,12 @@
     "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.options\\8.0.2\\microsoft.extensions.options.8.0.2.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json."
+    }
+  ]
 }

@@ -4,6 +4,7 @@ using DepartmentApi.Model.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
+using System.Security.Claims;
 using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace DepartmentApi.Api.Controllers
@@ -30,7 +31,7 @@ namespace DepartmentApi.Api.Controllers
 
 
         [HttpPost("register")]
-        public async Task<IActionResult> Register([FromBody] UserCreate userDto)
+        public async Task<IActionResult> Register(UserCreate userDto)
         {
             if (!ModelState.IsValid || userDto.Password != userDto.ConfirmPassword)
             {
@@ -68,14 +69,16 @@ namespace DepartmentApi.Api.Controllers
 
 
         [HttpPost("change-password")]
-        public async Task<IActionResult> ChangePassword([FromBody] ChangePasswordDto model)
+        public async Task<IActionResult> ChangePassword(ChangePasswordDto model)
         {
             if (!ModelState.IsValid)
             {
                 return BadRequest(ModelState);
             }
 
-            var userEmail = User.Identity?.Name;
+            var userEmail = User?.Claims.FirstOrDefault(c => c.Type == ClaimTypes.Email)?.Value;
+
+           
             if (userEmail == null)
             {
                 return Unauthorized("User is not authenticated.");
@@ -103,7 +106,7 @@ namespace DepartmentApi.Api.Controllers
 
 
         [HttpPost("login")]
-        public async Task<IActionResult> Login([FromBody] UserLogin userDto)
+        public async Task<IActionResult> Login(UserLogin userDto)
         {
             if (!ModelState.IsValid)
             {

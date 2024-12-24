@@ -3026,11 +3026,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\DepartmentApi\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\HomeTaskMVC\\DepartmentApi\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "C:\\Users\\User\\source\\repos\\DepartmentApi\\Infrastructure\\Infrastructure.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\HomeTaskMVC\\DepartmentApi\\Infrastructure\\Infrastructure.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\DepartmentApi\\Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\HomeTaskMVC\\DepartmentApi\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3052,8 +3052,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\User\\source\\repos\\DepartmentApi\\DepartmentApi.DAL\\DepartmentApi.DAL.csproj": {
-              "projectPath": "C:\\Users\\User\\source\\repos\\DepartmentApi\\DepartmentApi.DAL\\DepartmentApi.DAL.csproj"
+            "C:\\Users\\User\\Desktop\\HomeTaskMVC\\DepartmentApi\\DepartmentApi.DAL\\DepartmentApi.DAL.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\HomeTaskMVC\\DepartmentApi\\DepartmentApi.DAL\\DepartmentApi.DAL.csproj"
             }
           }
         }
@@ -3097,5 +3097,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json."
+    }
+  ]
 }

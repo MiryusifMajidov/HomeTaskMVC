@@ -10,6 +10,7 @@ namespace DepartmentApi.BL.Interfaces
     public interface IUserService
     {
         Task<AppUser> GetById(int id);
+        Task<AppUser> GetById(string id);
         Task<IEnumerable<AppUser>> GetAll();
     }
 }

@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\FinalApi\FinalApi.Dal\bin\Debug\net8.0\FinalApi.Dal.deps.json
+C:\Users\User\source\repos\FinalApi\FinalApi.Dal\bin\Debug\net8.0\FinalApi.Dal.dll
+C:\Users\User\source\repos\FinalApi\FinalApi.Dal\bin\Debug\net8.0\FinalApi.Dal.pdb
+C:\Users\User\source\repos\FinalApi\FinalApi.Dal\obj\Debug\net8.0\FinalApi.Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\FinalApi\FinalApi.Dal\obj\Debug\net8.0\FinalApi.Dal.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\FinalApi\FinalApi.Dal\obj\Debug\net8.0\FinalApi.Dal.AssemblyInfo.cs
+C:\Users\User\source\repos\FinalApi\FinalApi.Dal\obj\Debug\net8.0\FinalApi.Dal.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FinalApi\FinalApi.Dal\obj\Debug\net8.0\FinalApi.Dal.dll
+C:\Users\User\source\repos\FinalApi\FinalApi.Dal\obj\Debug\net8.0\refint\FinalApi.Dal.dll
+C:\Users\User\source\repos\FinalApi\FinalApi.Dal\obj\Debug\net8.0\FinalApi.Dal.pdb
+C:\Users\User\source\repos\FinalApi\FinalApi.Dal\obj\Debug\net8.0\ref\FinalApi.Dal.dll
+C:\Users\User\source\repos\FinalApi\FinalApi.Dal\bin\Debug\net8.0\FinalApi.Dal.runtimeconfig.json
+C:\Users\User\source\repos\FinalApi\FinalApi.Dal\bin\Debug\net8.0\FinalApi.Model.dll
+C:\Users\User\source\repos\FinalApi\FinalApi.Dal\bin\Debug\net8.0\FinalApi.Model.pdb
+C:\Users\User\source\repos\FinalApi\FinalApi.Dal\obj\Debug\net8.0\FinalApi.Dal.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\FinalApi\FinalApi.Dal\obj\Debug\net8.0\FinalApi.5843DF15.Up2Date
+C:\Users\User\source\repos\FinalApi\FinalApi.Dal\obj\Debug\net8.0\FinalApi.Dal.genruntimeconfig.cache

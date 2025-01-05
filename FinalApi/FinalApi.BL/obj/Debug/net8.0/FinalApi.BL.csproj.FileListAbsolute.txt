@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\FinalApi\FinalApi.BL\bin\Debug\net8.0\FinalApi.BL.deps.json
+C:\Users\User\source\repos\FinalApi\FinalApi.BL\bin\Debug\net8.0\FinalApi.BL.dll
+C:\Users\User\source\repos\FinalApi\FinalApi.BL\bin\Debug\net8.0\FinalApi.BL.pdb
+C:\Users\User\source\repos\FinalApi\FinalApi.BL\obj\Debug\net8.0\FinalApi.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\FinalApi\FinalApi.BL\obj\Debug\net8.0\FinalApi.BL.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\FinalApi\FinalApi.BL\obj\Debug\net8.0\FinalApi.BL.AssemblyInfo.cs
+C:\Users\User\source\repos\FinalApi\FinalApi.BL\obj\Debug\net8.0\FinalApi.BL.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FinalApi\FinalApi.BL\obj\Debug\net8.0\FinalApi.BL.dll
+C:\Users\User\source\repos\FinalApi\FinalApi.BL\obj\Debug\net8.0\refint\FinalApi.BL.dll
+C:\Users\User\source\repos\FinalApi\FinalApi.BL\obj\Debug\net8.0\FinalApi.BL.pdb
+C:\Users\User\source\repos\FinalApi\FinalApi.BL\obj\Debug\net8.0\ref\FinalApi.BL.dll
+C:\Users\User\source\repos\FinalApi\FinalApi.BL\bin\Debug\net8.0\FinalApi.Dal.dll
+C:\Users\User\source\repos\FinalApi\FinalApi.BL\bin\Debug\net8.0\FinalApi.Model.dll
+C:\Users\User\source\repos\FinalApi\FinalApi.BL\bin\Debug\net8.0\FinalApi.Dal.pdb
+C:\Users\User\source\repos\FinalApi\FinalApi.BL\bin\Debug\net8.0\FinalApi.Model.pdb
+C:\Users\User\source\repos\FinalApi\FinalApi.BL\obj\Debug\net8.0\FinalApi.BL.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\FinalApi\FinalApi.BL\obj\Debug\net8.0\FinalApi.ED89178E.Up2Date

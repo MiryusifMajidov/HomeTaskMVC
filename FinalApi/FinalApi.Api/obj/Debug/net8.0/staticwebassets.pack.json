@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.Api\\wwwroot\\Images\\Product\\010b6f27-2624-4d75-8c91-7b4ef6dda71e_bubirshekiladidir.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Product\\010b6f27-2624-4d75-8c91-7b4ef6dda71e_bubirshekiladidir.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.Api\\wwwroot\\Images\\Product\\d18bbf58-b0f1-4708-ae7d-4dc664e425e6_bubirshekiladidir.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Product\\d18bbf58-b0f1-4708-ae7d-4dc664e425e6_bubirshekiladidir.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.Api\\wwwroot\\Images\\Product\\d6480485-bc2e-454a-84cb-8d12318ac85b_download (1).jpeg",
+      "PackagePath": "staticwebassets\\Images\\Product\\d6480485-bc2e-454a-84cb-8d12318ac85b_download (1).jpeg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FinalApi.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.FinalApi.Api.props",
+      "PackagePath": "build\\FinalApi.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.FinalApi.Api.props",
+      "PackagePath": "buildMultiTargeting\\FinalApi.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.FinalApi.Api.props",
+      "PackagePath": "buildTransitive\\FinalApi.Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

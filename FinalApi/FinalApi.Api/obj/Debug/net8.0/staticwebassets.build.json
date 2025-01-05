@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "xegXlu5ikTGAHHa6uq9y2AtZXxPFckjl8jaKYiVV7KA=",
+  "Source": "FinalApi.Api",
+  "BasePath": "_content/FinalApi.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "FinalApi.Api\\wwwroot",
+      "Source": "FinalApi.Api",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.Api\\wwwroot\\",
+      "BasePath": "_content/FinalApi.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.Api\\wwwroot\\Images\\Product\\010b6f27-2624-4d75-8c91-7b4ef6dda71e_bubirshekiladidir.jpeg",
+      "SourceId": "FinalApi.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.Api\\wwwroot\\",
+      "BasePath": "_content/FinalApi.Api",
+      "RelativePath": "Images/Product/010b6f27-2624-4d75-8c91-7b4ef6dda71e_bubirshekiladidir.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Product\\010b6f27-2624-4d75-8c91-7b4ef6dda71e_bubirshekiladidir.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.Api\\wwwroot\\Images\\Product\\d18bbf58-b0f1-4708-ae7d-4dc664e425e6_bubirshekiladidir.jpeg",
+      "SourceId": "FinalApi.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.Api\\wwwroot\\",
+      "BasePath": "_content/FinalApi.Api",
+      "RelativePath": "Images/Product/d18bbf58-b0f1-4708-ae7d-4dc664e425e6_bubirshekiladidir.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Product\\d18bbf58-b0f1-4708-ae7d-4dc664e425e6_bubirshekiladidir.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.Api\\wwwroot\\Images\\Product\\d6480485-bc2e-454a-84cb-8d12318ac85b_download (1).jpeg",
+      "SourceId": "FinalApi.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.Api\\wwwroot\\",
+      "BasePath": "_content/FinalApi.Api",
+      "RelativePath": "Images/Product/d6480485-bc2e-454a-84cb-8d12318ac85b_download (1).jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Product\\d6480485-bc2e-454a-84cb-8d12318ac85b_download (1).jpeg"
+    }
+  ]
+}

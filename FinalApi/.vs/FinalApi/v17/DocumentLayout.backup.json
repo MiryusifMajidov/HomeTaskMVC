@@ -1,0 +1,954 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\FinalApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9052D36D-A17B-4241-9E52-6FF9406B0746}|FinalApi.Dal\\FinalApi.Dal.csproj|c:\\users\\user\\source\\repos\\finalapi\\finalapi.dal\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9052D36D-A17B-4241-9E52-6FF9406B0746}|FinalApi.Dal\\FinalApi.Dal.csproj|solutionrelative:finalapi.dal\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F54040-0E9D-44B5-A21A-73B23ECF824F}|FinalApi.BL\\FinalApi.BL.csproj|c:\\users\\user\\source\\repos\\finalapi\\finalapi.bl\\implementations\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88F54040-0E9D-44B5-A21A-73B23ECF824F}|FinalApi.BL\\FinalApi.BL.csproj|solutionrelative:finalapi.bl\\implementations\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9052D36D-A17B-4241-9E52-6FF9406B0746}|FinalApi.Dal\\FinalApi.Dal.csproj|c:\\users\\user\\source\\repos\\finalapi\\finalapi.dal\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9052D36D-A17B-4241-9E52-6FF9406B0746}|FinalApi.Dal\\FinalApi.Dal.csproj|solutionrelative:finalapi.dal\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6801CBDE-110A-4033-BED9-BB81884320BF}|FinalApi.Api\\FinalApi.Api.csproj|c:\\users\\user\\source\\repos\\finalapi\\finalapi.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6801CBDE-110A-4033-BED9-BB81884320BF}|FinalApi.Api\\FinalApi.Api.csproj|solutionrelative:finalapi.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F54040-0E9D-44B5-A21A-73B23ECF824F}|FinalApi.BL\\FinalApi.BL.csproj|c:\\users\\user\\source\\repos\\finalapi\\finalapi.bl\\customextension\\fileuploadextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88F54040-0E9D-44B5-A21A-73B23ECF824F}|FinalApi.BL\\FinalApi.BL.csproj|solutionrelative:finalapi.bl\\customextension\\fileuploadextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9052D36D-A17B-4241-9E52-6FF9406B0746}|FinalApi.Dal\\FinalApi.Dal.csproj|c:\\users\\user\\source\\repos\\finalapi\\finalapi.dal\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9052D36D-A17B-4241-9E52-6FF9406B0746}|FinalApi.Dal\\FinalApi.Dal.csproj|solutionrelative:finalapi.dal\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6801CBDE-110A-4033-BED9-BB81884320BF}|FinalApi.Api\\FinalApi.Api.csproj|c:\\users\\user\\source\\repos\\finalapi\\finalapi.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6801CBDE-110A-4033-BED9-BB81884320BF}|FinalApi.Api\\FinalApi.Api.csproj|solutionrelative:finalapi.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9052D36D-A17B-4241-9E52-6FF9406B0746}|FinalApi.Dal\\FinalApi.Dal.csproj|c:\\users\\user\\source\\repos\\finalapi\\finalapi.dal\\dal\\configurations\\productcategoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9052D36D-A17B-4241-9E52-6FF9406B0746}|FinalApi.Dal\\FinalApi.Dal.csproj|solutionrelative:finalapi.dal\\dal\\configurations\\productcategoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9052D36D-A17B-4241-9E52-6FF9406B0746}|FinalApi.Dal\\FinalApi.Dal.csproj|c:\\users\\user\\source\\repos\\finalapi\\finalapi.dal\\dal\\configurations\\sizeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9052D36D-A17B-4241-9E52-6FF9406B0746}|FinalApi.Dal\\FinalApi.Dal.csproj|solutionrelative:finalapi.dal\\dal\\configurations\\sizeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9052D36D-A17B-4241-9E52-6FF9406B0746}|FinalApi.Dal\\FinalApi.Dal.csproj|c:\\users\\user\\source\\repos\\finalapi\\finalapi.dal\\dal\\configurations\\colorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9052D36D-A17B-4241-9E52-6FF9406B0746}|FinalApi.Dal\\FinalApi.Dal.csproj|solutionrelative:finalapi.dal\\dal\\configurations\\colorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9052D36D-A17B-4241-9E52-6FF9406B0746}|FinalApi.Dal\\FinalApi.Dal.csproj|c:\\users\\user\\source\\repos\\finalapi\\finalapi.dal\\dal\\configurations\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9052D36D-A17B-4241-9E52-6FF9406B0746}|FinalApi.Dal\\FinalApi.Dal.csproj|solutionrelative:finalapi.dal\\dal\\configurations\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9052D36D-A17B-4241-9E52-6FF9406B0746}|FinalApi.Dal\\FinalApi.Dal.csproj|c:\\users\\user\\source\\repos\\finalapi\\finalapi.dal\\dal\\configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9052D36D-A17B-4241-9E52-6FF9406B0746}|FinalApi.Dal\\FinalApi.Dal.csproj|solutionrelative:finalapi.dal\\dal\\configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FAEAF7E-1D5D-4117-96F5-78ACA90EC8F8}|FinalApi.Model\\FinalApi.Model.csproj|c:\\users\\user\\source\\repos\\finalapi\\finalapi.model\\models\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FAEAF7E-1D5D-4117-96F5-78ACA90EC8F8}|FinalApi.Model\\FinalApi.Model.csproj|solutionrelative:finalapi.model\\models\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F54040-0E9D-44B5-A21A-73B23ECF824F}|FinalApi.BL\\FinalApi.BL.csproj|c:\\users\\user\\source\\repos\\finalapi\\finalapi.bl\\implementations\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88F54040-0E9D-44B5-A21A-73B23ECF824F}|FinalApi.BL\\FinalApi.BL.csproj|solutionrelative:finalapi.bl\\implementations\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F54040-0E9D-44B5-A21A-73B23ECF824F}|FinalApi.BL\\FinalApi.BL.csproj|c:\\users\\user\\source\\repos\\finalapi\\finalapi.bl\\implementations\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88F54040-0E9D-44B5-A21A-73B23ECF824F}|FinalApi.BL\\FinalApi.BL.csproj|solutionrelative:finalapi.bl\\implementations\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FAEAF7E-1D5D-4117-96F5-78ACA90EC8F8}|FinalApi.Model\\FinalApi.Model.csproj|c:\\users\\user\\source\\repos\\finalapi\\finalapi.model\\mappingprofile\\colorprofiles\\colorprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FAEAF7E-1D5D-4117-96F5-78ACA90EC8F8}|FinalApi.Model\\FinalApi.Model.csproj|solutionrelative:finalapi.model\\mappingprofile\\colorprofiles\\colorprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FAEAF7E-1D5D-4117-96F5-78ACA90EC8F8}|FinalApi.Model\\FinalApi.Model.csproj|c:\\users\\user\\source\\repos\\finalapi\\finalapi.model\\mappingprofile\\sizeprofiles\\sizeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FAEAF7E-1D5D-4117-96F5-78ACA90EC8F8}|FinalApi.Model\\FinalApi.Model.csproj|solutionrelative:finalapi.model\\mappingprofile\\sizeprofiles\\sizeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F54040-0E9D-44B5-A21A-73B23ECF824F}|FinalApi.BL\\FinalApi.BL.csproj|c:\\users\\user\\source\\repos\\finalapi\\finalapi.bl\\implementations\\services\\colorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88F54040-0E9D-44B5-A21A-73B23ECF824F}|FinalApi.BL\\FinalApi.BL.csproj|solutionrelative:finalapi.bl\\implementations\\services\\colorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6801CBDE-110A-4033-BED9-BB81884320BF}|FinalApi.Api\\FinalApi.Api.csproj|c:\\users\\user\\source\\repos\\finalapi\\finalapi.api\\controllers\\colorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6801CBDE-110A-4033-BED9-BB81884320BF}|FinalApi.Api\\FinalApi.Api.csproj|solutionrelative:finalapi.api\\controllers\\colorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6801CBDE-110A-4033-BED9-BB81884320BF}|FinalApi.Api\\FinalApi.Api.csproj|c:\\users\\user\\source\\repos\\finalapi\\finalapi.api\\controllers\\sizecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6801CBDE-110A-4033-BED9-BB81884320BF}|FinalApi.Api\\FinalApi.Api.csproj|solutionrelative:finalapi.api\\controllers\\sizecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6801CBDE-110A-4033-BED9-BB81884320BF}|FinalApi.Api\\FinalApi.Api.csproj|c:\\users\\user\\source\\repos\\finalapi\\finalapi.api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6801CBDE-110A-4033-BED9-BB81884320BF}|FinalApi.Api\\FinalApi.Api.csproj|solutionrelative:finalapi.api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F54040-0E9D-44B5-A21A-73B23ECF824F}|FinalApi.BL\\FinalApi.BL.csproj|c:\\users\\user\\source\\repos\\finalapi\\finalapi.bl\\implementations\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88F54040-0E9D-44B5-A21A-73B23ECF824F}|FinalApi.BL\\FinalApi.BL.csproj|solutionrelative:finalapi.bl\\implementations\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F54040-0E9D-44B5-A21A-73B23ECF824F}|FinalApi.BL\\FinalApi.BL.csproj|c:\\users\\user\\source\\repos\\finalapi\\finalapi.bl\\implementations\\services\\sizeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88F54040-0E9D-44B5-A21A-73B23ECF824F}|FinalApi.BL\\FinalApi.BL.csproj|solutionrelative:finalapi.bl\\implementations\\services\\sizeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FAEAF7E-1D5D-4117-96F5-78ACA90EC8F8}|FinalApi.Model\\FinalApi.Model.csproj|c:\\users\\user\\source\\repos\\finalapi\\finalapi.model\\dtos\\product\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FAEAF7E-1D5D-4117-96F5-78ACA90EC8F8}|FinalApi.Model\\FinalApi.Model.csproj|solutionrelative:finalapi.model\\dtos\\product\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F54040-0E9D-44B5-A21A-73B23ECF824F}|FinalApi.BL\\FinalApi.BL.csproj|c:\\users\\user\\source\\repos\\finalapi\\finalapi.bl\\implementations\\interfaces\\icolorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88F54040-0E9D-44B5-A21A-73B23ECF824F}|FinalApi.BL\\FinalApi.BL.csproj|solutionrelative:finalapi.bl\\implementations\\interfaces\\icolorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F54040-0E9D-44B5-A21A-73B23ECF824F}|FinalApi.BL\\FinalApi.BL.csproj|c:\\users\\user\\source\\repos\\finalapi\\finalapi.bl\\implementations\\interfaces\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88F54040-0E9D-44B5-A21A-73B23ECF824F}|FinalApi.BL\\FinalApi.BL.csproj|solutionrelative:finalapi.bl\\implementations\\interfaces\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FAEAF7E-1D5D-4117-96F5-78ACA90EC8F8}|FinalApi.Model\\FinalApi.Model.csproj|c:\\users\\user\\source\\repos\\finalapi\\finalapi.model\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FAEAF7E-1D5D-4117-96F5-78ACA90EC8F8}|FinalApi.Model\\FinalApi.Model.csproj|solutionrelative:finalapi.model\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6801CBDE-110A-4033-BED9-BB81884320BF}|FinalApi.Api\\FinalApi.Api.csproj|c:\\users\\user\\source\\repos\\finalapi\\finalapi.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6801CBDE-110A-4033-BED9-BB81884320BF}|FinalApi.Api\\FinalApi.Api.csproj|solutionrelative:finalapi.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F54040-0E9D-44B5-A21A-73B23ECF824F}|FinalApi.BL\\FinalApi.BL.csproj|c:\\users\\user\\source\\repos\\finalapi\\finalapi.bl\\implementations\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88F54040-0E9D-44B5-A21A-73B23ECF824F}|FinalApi.BL\\FinalApi.BL.csproj|solutionrelative:finalapi.bl\\implementations\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FAEAF7E-1D5D-4117-96F5-78ACA90EC8F8}|FinalApi.Model\\FinalApi.Model.csproj|c:\\users\\user\\source\\repos\\finalapi\\finalapi.model\\mappingprofile\\categoryprofiles\\categoryprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FAEAF7E-1D5D-4117-96F5-78ACA90EC8F8}|FinalApi.Model\\FinalApi.Model.csproj|solutionrelative:finalapi.model\\mappingprofile\\categoryprofiles\\categoryprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FAEAF7E-1D5D-4117-96F5-78ACA90EC8F8}|FinalApi.Model\\FinalApi.Model.csproj|c:\\users\\user\\source\\repos\\finalapi\\finalapi.model\\finalapi.model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1FAEAF7E-1D5D-4117-96F5-78ACA90EC8F8}|FinalApi.Model\\FinalApi.Model.csproj|solutionrelative:finalapi.model\\finalapi.model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FAEAF7E-1D5D-4117-96F5-78ACA90EC8F8}|FinalApi.Model\\FinalApi.Model.csproj|c:\\users\\user\\source\\repos\\finalapi\\finalapi.model\\dtos\\category\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FAEAF7E-1D5D-4117-96F5-78ACA90EC8F8}|FinalApi.Model\\FinalApi.Model.csproj|solutionrelative:finalapi.model\\dtos\\category\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6801CBDE-110A-4033-BED9-BB81884320BF}|FinalApi.Api\\FinalApi.Api.csproj|c:\\users\\user\\source\\repos\\finalapi\\finalapi.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6801CBDE-110A-4033-BED9-BB81884320BF}|FinalApi.Api\\FinalApi.Api.csproj|solutionrelative:finalapi.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F54040-0E9D-44B5-A21A-73B23ECF824F}|FinalApi.BL\\FinalApi.BL.csproj|c:\\users\\user\\source\\repos\\finalapi\\finalapi.bl\\implementations\\interfaces\\isizeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88F54040-0E9D-44B5-A21A-73B23ECF824F}|FinalApi.BL\\FinalApi.BL.csproj|solutionrelative:finalapi.bl\\implementations\\interfaces\\isizeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F54040-0E9D-44B5-A21A-73B23ECF824F}|FinalApi.BL\\FinalApi.BL.csproj|c:\\users\\user\\source\\repos\\finalapi\\finalapi.bl\\implementations\\services\\registerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88F54040-0E9D-44B5-A21A-73B23ECF824F}|FinalApi.BL\\FinalApi.BL.csproj|solutionrelative:finalapi.bl\\implementations\\services\\registerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FAEAF7E-1D5D-4117-96F5-78ACA90EC8F8}|FinalApi.Model\\FinalApi.Model.csproj|c:\\users\\user\\source\\repos\\finalapi\\finalapi.model\\mappingprofile\\userprofiles\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FAEAF7E-1D5D-4117-96F5-78ACA90EC8F8}|FinalApi.Model\\FinalApi.Model.csproj|solutionrelative:finalapi.model\\mappingprofile\\userprofiles\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F54040-0E9D-44B5-A21A-73B23ECF824F}|FinalApi.BL\\FinalApi.BL.csproj|c:\\users\\user\\source\\repos\\finalapi\\finalapi.bl\\implementations\\interfaces\\igenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88F54040-0E9D-44B5-A21A-73B23ECF824F}|FinalApi.BL\\FinalApi.BL.csproj|solutionrelative:finalapi.bl\\implementations\\interfaces\\igenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F54040-0E9D-44B5-A21A-73B23ECF824F}|FinalApi.BL\\FinalApi.BL.csproj|c:\\users\\user\\source\\repos\\finalapi\\finalapi.bl\\implementations\\interfaces\\iregisterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88F54040-0E9D-44B5-A21A-73B23ECF824F}|FinalApi.BL\\FinalApi.BL.csproj|solutionrelative:finalapi.bl\\implementations\\interfaces\\iregisterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F54040-0E9D-44B5-A21A-73B23ECF824F}|FinalApi.BL\\FinalApi.BL.csproj|c:\\users\\user\\source\\repos\\finalapi\\finalapi.bl\\implementations\\services\\genericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88F54040-0E9D-44B5-A21A-73B23ECF824F}|FinalApi.BL\\FinalApi.BL.csproj|solutionrelative:finalapi.bl\\implementations\\services\\genericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FAEAF7E-1D5D-4117-96F5-78ACA90EC8F8}|FinalApi.Model\\FinalApi.Model.csproj|c:\\users\\user\\source\\repos\\finalapi\\finalapi.model\\dtos\\color\\colordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FAEAF7E-1D5D-4117-96F5-78ACA90EC8F8}|FinalApi.Model\\FinalApi.Model.csproj|solutionrelative:finalapi.model\\dtos\\color\\colordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FAEAF7E-1D5D-4117-96F5-78ACA90EC8F8}|FinalApi.Model\\FinalApi.Model.csproj|c:\\users\\user\\source\\repos\\finalapi\\finalapi.model\\dtos\\size\\sizedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FAEAF7E-1D5D-4117-96F5-78ACA90EC8F8}|FinalApi.Model\\FinalApi.Model.csproj|solutionrelative:finalapi.model\\dtos\\size\\sizedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FAEAF7E-1D5D-4117-96F5-78ACA90EC8F8}|FinalApi.Model\\FinalApi.Model.csproj|c:\\users\\user\\source\\repos\\finalapi\\finalapi.model\\models\\size.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FAEAF7E-1D5D-4117-96F5-78ACA90EC8F8}|FinalApi.Model\\FinalApi.Model.csproj|solutionrelative:finalapi.model\\models\\size.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FAEAF7E-1D5D-4117-96F5-78ACA90EC8F8}|FinalApi.Model\\FinalApi.Model.csproj|c:\\users\\user\\source\\repos\\finalapi\\finalapi.model\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FAEAF7E-1D5D-4117-96F5-78ACA90EC8F8}|FinalApi.Model\\FinalApi.Model.csproj|solutionrelative:finalapi.model\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F54040-0E9D-44B5-A21A-73B23ECF824F}|FinalApi.BL\\FinalApi.BL.csproj|c:\\users\\user\\source\\repos\\finalapi\\finalapi.bl\\implementations\\services\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88F54040-0E9D-44B5-A21A-73B23ECF824F}|FinalApi.BL\\FinalApi.BL.csproj|solutionrelative:finalapi.bl\\implementations\\services\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3C5872-1AFE-475D-97DC-3FE6AD33BD19}|Infrastructure\\Infrastructure.csproj|c:\\users\\user\\source\\repos\\finalapi\\infrastructure\\seeders\\roleseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F3C5872-1AFE-475D-97DC-3FE6AD33BD19}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\seeders\\roleseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FAEAF7E-1D5D-4117-96F5-78ACA90EC8F8}|FinalApi.Model\\FinalApi.Model.csproj|c:\\users\\user\\source\\repos\\finalapi\\finalapi.model\\dtos\\user\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FAEAF7E-1D5D-4117-96F5-78ACA90EC8F8}|FinalApi.Model\\FinalApi.Model.csproj|solutionrelative:finalapi.model\\dtos\\user\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FAEAF7E-1D5D-4117-96F5-78ACA90EC8F8}|FinalApi.Model\\FinalApi.Model.csproj|c:\\users\\user\\source\\repos\\finalapi\\finalapi.model\\models\\smtpsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FAEAF7E-1D5D-4117-96F5-78ACA90EC8F8}|FinalApi.Model\\FinalApi.Model.csproj|solutionrelative:finalapi.model\\models\\smtpsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FAEAF7E-1D5D-4117-96F5-78ACA90EC8F8}|FinalApi.Model\\FinalApi.Model.csproj|c:\\users\\user\\source\\repos\\finalapi\\finalapi.model\\dtos\\user\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FAEAF7E-1D5D-4117-96F5-78ACA90EC8F8}|FinalApi.Model\\FinalApi.Model.csproj|solutionrelative:finalapi.model\\dtos\\user\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9052D36D-A17B-4241-9E52-6FF9406B0746}|FinalApi.Dal\\FinalApi.Dal.csproj|c:\\users\\user\\source\\repos\\finalapi\\finalapi.dal\\migrations\\20250102155810_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9052D36D-A17B-4241-9E52-6FF9406B0746}|FinalApi.Dal\\FinalApi.Dal.csproj|solutionrelative:finalapi.dal\\migrations\\20250102155810_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3C5872-1AFE-475D-97DC-3FE6AD33BD19}|Infrastructure\\Infrastructure.csproj|c:\\users\\user\\source\\repos\\finalapi\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8F3C5872-1AFE-475D-97DC-3FE6AD33BD19}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FAEAF7E-1D5D-4117-96F5-78ACA90EC8F8}|FinalApi.Model\\FinalApi.Model.csproj|c:\\users\\user\\source\\repos\\finalapi\\finalapi.model\\models\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FAEAF7E-1D5D-4117-96F5-78ACA90EC8F8}|FinalApi.Model\\FinalApi.Model.csproj|solutionrelative:finalapi.model\\models\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9052D36D-A17B-4241-9E52-6FF9406B0746}|FinalApi.Dal\\FinalApi.Dal.csproj|c:\\users\\user\\source\\repos\\finalapi\\finalapi.dal\\finalapi.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9052D36D-A17B-4241-9E52-6FF9406B0746}|FinalApi.Dal\\FinalApi.Dal.csproj|solutionrelative:finalapi.dal\\finalapi.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FAEAF7E-1D5D-4117-96F5-78ACA90EC8F8}|FinalApi.Model\\FinalApi.Model.csproj|c:\\users\\user\\source\\repos\\finalapi\\finalapi.model\\models\\softdeletable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FAEAF7E-1D5D-4117-96F5-78ACA90EC8F8}|FinalApi.Model\\FinalApi.Model.csproj|solutionrelative:finalapi.model\\models\\softdeletable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FAEAF7E-1D5D-4117-96F5-78ACA90EC8F8}|FinalApi.Model\\FinalApi.Model.csproj|c:\\users\\user\\source\\repos\\finalapi\\finalapi.model\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FAEAF7E-1D5D-4117-96F5-78ACA90EC8F8}|FinalApi.Model\\FinalApi.Model.csproj|solutionrelative:finalapi.model\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FAEAF7E-1D5D-4117-96F5-78ACA90EC8F8}|FinalApi.Model\\FinalApi.Model.csproj|c:\\users\\user\\source\\repos\\finalapi\\finalapi.model\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FAEAF7E-1D5D-4117-96F5-78ACA90EC8F8}|FinalApi.Model\\FinalApi.Model.csproj|solutionrelative:finalapi.model\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9052D36D-A17B-4241-9E52-6FF9406B0746}|FinalApi.Dal\\FinalApi.Dal.csproj|c:\\users\\user\\source\\repos\\finalapi\\finalapi.dal\\migrations\\20250102195451_addedemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9052D36D-A17B-4241-9E52-6FF9406B0746}|FinalApi.Dal\\FinalApi.Dal.csproj|solutionrelative:finalapi.dal\\migrations\\20250102195451_addedemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9052D36D-A17B-4241-9E52-6FF9406B0746}|FinalApi.Dal\\FinalApi.Dal.csproj|c:\\users\\user\\source\\repos\\finalapi\\finalapi.dal\\migrations\\20250102161918_addedimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9052D36D-A17B-4241-9E52-6FF9406B0746}|FinalApi.Dal\\FinalApi.Dal.csproj|solutionrelative:finalapi.dal\\migrations\\20250102161918_addedimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.Dal\\Implementations\\Repository.cs",
+              "RelativeDocumentMoniker": "FinalApi.Dal\\Implementations\\Repository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.Dal\\Implementations\\Repository.cs*",
+              "RelativeToolTip": "FinalApi.Dal\\Implementations\\Repository.cs*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAASwBUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T16:01:11.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductCategoryConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.Dal\\DAL\\Configurations\\ProductCategoryConfiguration.cs",
+              "RelativeDocumentMoniker": "FinalApi.Dal\\DAL\\Configurations\\ProductCategoryConfiguration.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.Dal\\DAL\\Configurations\\ProductCategoryConfiguration.cs",
+              "RelativeToolTip": "FinalApi.Dal\\DAL\\Configurations\\ProductCategoryConfiguration.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T14:31:44.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.Api\\Program.cs",
+              "RelativeDocumentMoniker": "FinalApi.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.Api\\Program.cs",
+              "RelativeToolTip": "FinalApi.Api\\Program.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAApwEkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T14:01:13.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.Api\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "FinalApi.Api\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.Api\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "FinalApi.Api\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAEwBkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T20:09:08.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.BL\\Implementations\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "FinalApi.BL\\Implementations\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.BL\\Implementations\\Services\\ProductService.cs*",
+              "RelativeToolTip": "FinalApi.BL\\Implementations\\Services\\ProductService.cs*",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwEIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T22:34:51.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.Dal\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "FinalApi.Dal\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.Dal\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "FinalApi.Dal\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T16:01:31.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SizeConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.Dal\\DAL\\Configurations\\SizeConfiguration.cs",
+              "RelativeDocumentMoniker": "FinalApi.Dal\\DAL\\Configurations\\SizeConfiguration.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.Dal\\DAL\\Configurations\\SizeConfiguration.cs",
+              "RelativeToolTip": "FinalApi.Dal\\DAL\\Configurations\\SizeConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T14:53:42.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ColorConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.Dal\\DAL\\Configurations\\ColorConfiguration.cs",
+              "RelativeDocumentMoniker": "FinalApi.Dal\\DAL\\Configurations\\ColorConfiguration.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.Dal\\DAL\\Configurations\\ColorConfiguration.cs",
+              "RelativeToolTip": "FinalApi.Dal\\DAL\\Configurations\\ColorConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T14:52:52.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.Dal\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "FinalApi.Dal\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.Dal\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "FinalApi.Dal\\DAL\\AppDbContext.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAhwCMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T13:31:59.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileUploadExtension.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.BL\\CustomExtension\\FileUploadExtension.cs",
+              "RelativeDocumentMoniker": "FinalApi.BL\\CustomExtension\\FileUploadExtension.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.BL\\CustomExtension\\FileUploadExtension.cs",
+              "RelativeToolTip": "FinalApi.BL\\CustomExtension\\FileUploadExtension.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAlwDIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T16:13:13.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.Dal\\DAL\\Configurations\\ProductConfiguration.cs",
+              "RelativeDocumentMoniker": "FinalApi.Dal\\DAL\\Configurations\\ProductConfiguration.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.Dal\\DAL\\Configurations\\ProductConfiguration.cs",
+              "RelativeToolTip": "FinalApi.Dal\\DAL\\Configurations\\ProductConfiguration.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAApwB8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T14:51:37.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CategoryConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.Dal\\DAL\\Configurations\\CategoryConfiguration.cs",
+              "RelativeDocumentMoniker": "FinalApi.Dal\\DAL\\Configurations\\CategoryConfiguration.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.Dal\\DAL\\Configurations\\CategoryConfiguration.cs",
+              "RelativeToolTip": "FinalApi.Dal\\DAL\\Configurations\\CategoryConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T14:52:24.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ColorProfile.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.Model\\MappingProfile\\ColorProfiles\\ColorProfile.cs",
+              "RelativeDocumentMoniker": "FinalApi.Model\\MappingProfile\\ColorProfiles\\ColorProfile.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.Model\\MappingProfile\\ColorProfiles\\ColorProfile.cs",
+              "RelativeToolTip": "FinalApi.Model\\MappingProfile\\ColorProfiles\\ColorProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T13:05:32.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.BL\\Implementations\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "FinalApi.BL\\Implementations\\Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.BL\\Implementations\\Services\\CategoryService.cs",
+              "RelativeToolTip": "FinalApi.BL\\Implementations\\Services\\CategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T20:10:22.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SizeProfile.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.Model\\MappingProfile\\SizeProfiles\\SizeProfile.cs",
+              "RelativeDocumentMoniker": "FinalApi.Model\\MappingProfile\\SizeProfiles\\SizeProfile.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.Model\\MappingProfile\\SizeProfiles\\SizeProfile.cs",
+              "RelativeToolTip": "FinalApi.Model\\MappingProfile\\SizeProfiles\\SizeProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T19:41:05.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductCategory.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.Model\\Models\\ProductCategory.cs",
+              "RelativeDocumentMoniker": "FinalApi.Model\\Models\\ProductCategory.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.Model\\Models\\ProductCategory.cs",
+              "RelativeToolTip": "FinalApi.Model\\Models\\ProductCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T13:04:33.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.BL\\Implementations\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "FinalApi.BL\\Implementations\\Interfaces\\IProductService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.BL\\Implementations\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "FinalApi.BL\\Implementations\\Interfaces\\IProductService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T22:33:42.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ColorController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.Api\\Controllers\\ColorController.cs",
+              "RelativeDocumentMoniker": "FinalApi.Api\\Controllers\\ColorController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.Api\\Controllers\\ColorController.cs",
+              "RelativeToolTip": "FinalApi.Api\\Controllers\\ColorController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwC0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T19:55:35.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SizeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.Api\\Controllers\\SizeController.cs",
+              "RelativeDocumentMoniker": "FinalApi.Api\\Controllers\\SizeController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.Api\\Controllers\\SizeController.cs",
+              "RelativeToolTip": "FinalApi.Api\\Controllers\\SizeController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwDgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T19:55:18.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ColorService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.BL\\Implementations\\Services\\ColorService.cs",
+              "RelativeDocumentMoniker": "FinalApi.BL\\Implementations\\Services\\ColorService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.BL\\Implementations\\Services\\ColorService.cs",
+              "RelativeToolTip": "FinalApi.BL\\Implementations\\Services\\ColorService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAtwB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T20:07:33.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.BL\\Implementations\\Interfaces\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "FinalApi.BL\\Implementations\\Interfaces\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.BL\\Implementations\\Interfaces\\ICategoryService.cs",
+              "RelativeToolTip": "FinalApi.BL\\Implementations\\Interfaces\\ICategoryService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T20:09:29.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.Api\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "FinalApi.Api\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.Api\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "FinalApi.Api\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAqwDMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T19:56:11.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.BL\\Implementations\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "FinalApi.BL\\Implementations\\Services\\JwtService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.BL\\Implementations\\Services\\JwtService.cs",
+              "RelativeToolTip": "FinalApi.BL\\Implementations\\Services\\JwtService.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T15:47:17.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CreateProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.Model\\DTOs\\Product\\CreateProductDto.cs",
+              "RelativeDocumentMoniker": "FinalApi.Model\\DTOs\\Product\\CreateProductDto.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.Model\\DTOs\\Product\\CreateProductDto.cs",
+              "RelativeToolTip": "FinalApi.Model\\DTOs\\Product\\CreateProductDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T22:21:45.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SizeService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.BL\\Implementations\\Services\\SizeService.cs",
+              "RelativeDocumentMoniker": "FinalApi.BL\\Implementations\\Services\\SizeService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.BL\\Implementations\\Services\\SizeService.cs",
+              "RelativeToolTip": "FinalApi.BL\\Implementations\\Services\\SizeService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T19:34:58.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "FinalApi.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.Api\\appsettings.json",
+              "RelativeToolTip": "FinalApi.Api\\appsettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvxsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-02T14:55:46.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CategoryProfile.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.Model\\MappingProfile\\CategoryProfiles\\CategoryProfile.cs",
+              "RelativeDocumentMoniker": "FinalApi.Model\\MappingProfile\\CategoryProfiles\\CategoryProfile.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.Model\\MappingProfile\\CategoryProfiles\\CategoryProfile.cs",
+              "RelativeToolTip": "FinalApi.Model\\MappingProfile\\CategoryProfiles\\CategoryProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T21:51:06.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IColorService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.BL\\Implementations\\Interfaces\\IColorService.cs",
+              "RelativeDocumentMoniker": "FinalApi.BL\\Implementations\\Interfaces\\IColorService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.BL\\Implementations\\Interfaces\\IColorService.cs",
+              "RelativeToolTip": "FinalApi.BL\\Implementations\\Interfaces\\IColorService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T20:06:43.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IEmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.BL\\Implementations\\Interfaces\\IEmailSender.cs",
+              "RelativeDocumentMoniker": "FinalApi.BL\\Implementations\\Interfaces\\IEmailSender.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.BL\\Implementations\\Interfaces\\IEmailSender.cs",
+              "RelativeToolTip": "FinalApi.BL\\Implementations\\Interfaces\\IEmailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T16:09:41.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.Model\\DTOs\\Category\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "FinalApi.Model\\DTOs\\Category\\CategoryDto.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.Model\\DTOs\\Category\\CategoryDto.cs",
+              "RelativeToolTip": "FinalApi.Model\\DTOs\\Category\\CategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T19:31:55.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.Model\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "FinalApi.Model\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.Model\\Models\\Product.cs",
+              "RelativeToolTip": "FinalApi.Model\\Models\\Product.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T08:07:36.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.Api\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "FinalApi.Api\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.Api\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "FinalApi.Api\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAgwE4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T19:18:35.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FinalApi.Model.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.Model\\FinalApi.Model.csproj",
+              "RelativeDocumentMoniker": "FinalApi.Model\\FinalApi.Model.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.Model\\FinalApi.Model.csproj",
+              "RelativeToolTip": "FinalApi.Model\\FinalApi.Model.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-02T08:06:33.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ISizeService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.BL\\Implementations\\Interfaces\\ISizeService.cs",
+              "RelativeDocumentMoniker": "FinalApi.BL\\Implementations\\Interfaces\\ISizeService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.BL\\Implementations\\Interfaces\\ISizeService.cs",
+              "RelativeToolTip": "FinalApi.BL\\Implementations\\Interfaces\\ISizeService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T19:34:41.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "UserProfile.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.Model\\MappingProfile\\UserProfiles\\UserProfile.cs",
+              "RelativeDocumentMoniker": "FinalApi.Model\\MappingProfile\\UserProfiles\\UserProfile.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.Model\\MappingProfile\\UserProfiles\\UserProfile.cs",
+              "RelativeToolTip": "FinalApi.Model\\MappingProfile\\UserProfiles\\UserProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T19:19:30.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "RegisterService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.BL\\Implementations\\Services\\RegisterService.cs",
+              "RelativeDocumentMoniker": "FinalApi.BL\\Implementations\\Services\\RegisterService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.BL\\Implementations\\Services\\RegisterService.cs",
+              "RelativeToolTip": "FinalApi.BL\\Implementations\\Services\\RegisterService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T16:05:08.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IGenericService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.BL\\Implementations\\Interfaces\\IGenericService.cs",
+              "RelativeDocumentMoniker": "FinalApi.BL\\Implementations\\Interfaces\\IGenericService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.BL\\Implementations\\Interfaces\\IGenericService.cs",
+              "RelativeToolTip": "FinalApi.BL\\Implementations\\Interfaces\\IGenericService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T19:51:17.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IRegisterService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.BL\\Implementations\\Interfaces\\IRegisterService.cs",
+              "RelativeDocumentMoniker": "FinalApi.BL\\Implementations\\Interfaces\\IRegisterService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.BL\\Implementations\\Interfaces\\IRegisterService.cs",
+              "RelativeToolTip": "FinalApi.BL\\Implementations\\Interfaces\\IRegisterService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAWwA0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T16:04:50.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "GenericService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.BL\\Implementations\\Services\\GenericService.cs",
+              "RelativeDocumentMoniker": "FinalApi.BL\\Implementations\\Services\\GenericService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.BL\\Implementations\\Services\\GenericService.cs",
+              "RelativeToolTip": "FinalApi.BL\\Implementations\\Services\\GenericService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T19:51:33.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ColorDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.Model\\DTOs\\Color\\ColorDto.cs",
+              "RelativeDocumentMoniker": "FinalApi.Model\\DTOs\\Color\\ColorDto.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.Model\\DTOs\\Color\\ColorDto.cs",
+              "RelativeToolTip": "FinalApi.Model\\DTOs\\Color\\ColorDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T19:31:13.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "SizeDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.Model\\DTOs\\Size\\SizeDto.cs",
+              "RelativeDocumentMoniker": "FinalApi.Model\\DTOs\\Size\\SizeDto.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.Model\\DTOs\\Size\\SizeDto.cs",
+              "RelativeToolTip": "FinalApi.Model\\DTOs\\Size\\SizeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T19:30:22.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Size.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.Model\\Models\\Size.cs",
+              "RelativeDocumentMoniker": "FinalApi.Model\\Models\\Size.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.Model\\Models\\Size.cs",
+              "RelativeToolTip": "FinalApi.Model\\Models\\Size.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T08:08:21.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.Model\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "FinalApi.Model\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.Model\\Models\\Category.cs",
+              "RelativeToolTip": "FinalApi.Model\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T08:07:21.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.BL\\Implementations\\Services\\EmailSender.cs",
+              "RelativeDocumentMoniker": "FinalApi.BL\\Implementations\\Services\\EmailSender.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.BL\\Implementations\\Services\\EmailSender.cs",
+              "RelativeToolTip": "FinalApi.BL\\Implementations\\Services\\EmailSender.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAhwCkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T16:10:20.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "RoleSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApi\\Infrastructure\\Seeders\\RoleSeeder.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Seeders\\RoleSeeder.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApi\\Infrastructure\\Seeders\\RoleSeeder.cs",
+              "RelativeToolTip": "Infrastructure\\Seeders\\RoleSeeder.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAhwBQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T14:58:24.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "20250102195451_addedEmail.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.Dal\\Migrations\\20250102195451_addedEmail.cs",
+              "RelativeDocumentMoniker": "FinalApi.Dal\\Migrations\\20250102195451_addedEmail.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.Dal\\Migrations\\20250102195451_addedEmail.cs",
+              "RelativeToolTip": "FinalApi.Dal\\Migrations\\20250102195451_addedEmail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T19:54:52.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "UserLoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.Model\\DTOs\\User\\UserLoginDto.cs",
+              "RelativeDocumentMoniker": "FinalApi.Model\\DTOs\\User\\UserLoginDto.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.Model\\DTOs\\User\\UserLoginDto.cs",
+              "RelativeToolTip": "FinalApi.Model\\DTOs\\User\\UserLoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T15:55:53.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "SmtpSettings.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.Model\\Models\\SmtpSettings.cs",
+              "RelativeDocumentMoniker": "FinalApi.Model\\Models\\SmtpSettings.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.Model\\Models\\SmtpSettings.cs",
+              "RelativeToolTip": "FinalApi.Model\\Models\\SmtpSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T14:56:33.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "20250102161918_addedimage.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.Dal\\Migrations\\20250102161918_addedimage.cs",
+              "RelativeDocumentMoniker": "FinalApi.Dal\\Migrations\\20250102161918_addedimage.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.Dal\\Migrations\\20250102161918_addedimage.cs",
+              "RelativeToolTip": "FinalApi.Dal\\Migrations\\20250102161918_addedimage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T16:19:18.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "CreateUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.Model\\DTOs\\User\\CreateUserDto.cs",
+              "RelativeDocumentMoniker": "FinalApi.Model\\DTOs\\User\\CreateUserDto.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.Model\\DTOs\\User\\CreateUserDto.cs",
+              "RelativeToolTip": "FinalApi.Model\\DTOs\\User\\CreateUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T19:03:07.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "20250102155810_first.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.Dal\\Migrations\\20250102155810_first.cs",
+              "RelativeDocumentMoniker": "FinalApi.Dal\\Migrations\\20250102155810_first.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.Dal\\Migrations\\20250102155810_first.cs",
+              "RelativeToolTip": "FinalApi.Dal\\Migrations\\20250102155810_first.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T15:58:11.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApi\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApi\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-02T14:58:02.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Color.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.Model\\Models\\Color.cs",
+              "RelativeDocumentMoniker": "FinalApi.Model\\Models\\Color.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.Model\\Models\\Color.cs",
+              "RelativeToolTip": "FinalApi.Model\\Models\\Color.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T08:07:59.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "FinalApi.Dal.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.Dal\\FinalApi.Dal.csproj",
+              "RelativeDocumentMoniker": "FinalApi.Dal\\FinalApi.Dal.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.Dal\\FinalApi.Dal.csproj",
+              "RelativeToolTip": "FinalApi.Dal\\FinalApi.Dal.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-02T13:31:36.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "SoftDeletable.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.Model\\Models\\SoftDeletable.cs",
+              "RelativeDocumentMoniker": "FinalApi.Model\\Models\\SoftDeletable.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.Model\\Models\\SoftDeletable.cs",
+              "RelativeToolTip": "FinalApi.Model\\Models\\SoftDeletable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T08:21:46.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.Model\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "FinalApi.Model\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.Model\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "FinalApi.Model\\Models\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T08:10:13.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.Model\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "FinalApi.Model\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalApi\\FinalApi.Model\\Models\\AppUser.cs",
+              "RelativeToolTip": "FinalApi.Model\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T08:07:07.166Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\FinalApi\FinalApi.Model\bin\Debug\net8.0\FinalApi.Model.deps.json
+C:\Users\User\source\repos\FinalApi\FinalApi.Model\bin\Debug\net8.0\FinalApi.Model.dll
+C:\Users\User\source\repos\FinalApi\FinalApi.Model\bin\Debug\net8.0\FinalApi.Model.pdb
+C:\Users\User\source\repos\FinalApi\FinalApi.Model\obj\Debug\net8.0\FinalApi.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\FinalApi\FinalApi.Model\obj\Debug\net8.0\FinalApi.Model.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\FinalApi\FinalApi.Model\obj\Debug\net8.0\FinalApi.Model.AssemblyInfo.cs
+C:\Users\User\source\repos\FinalApi\FinalApi.Model\obj\Debug\net8.0\FinalApi.Model.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FinalApi\FinalApi.Model\obj\Debug\net8.0\FinalApi.Model.dll
+C:\Users\User\source\repos\FinalApi\FinalApi.Model\obj\Debug\net8.0\refint\FinalApi.Model.dll
+C:\Users\User\source\repos\FinalApi\FinalApi.Model\obj\Debug\net8.0\FinalApi.Model.pdb
+C:\Users\User\source\repos\FinalApi\FinalApi.Model\obj\Debug\net8.0\ref\FinalApi.Model.dll
+C:\Users\User\source\repos\FinalApi\FinalApi.Model\obj\Debug\net8.0\FinalApi.Model.csproj.AssemblyReference.cache

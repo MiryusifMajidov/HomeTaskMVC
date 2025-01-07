@@ -1,0 +1,547 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Classtime\\source\\repos\\HospitalMApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04B98FD3-D50F-4130-9FB5-C255884E807C}|HospitalMApi.Api\\HospitalMApi.Api.csproj|c:\\users\\classtime\\source\\repos\\hospitalmapi\\hospitalmapi.api\\controllers\\insurancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04B98FD3-D50F-4130-9FB5-C255884E807C}|HospitalMApi.Api\\HospitalMApi.Api.csproj|solutionrelative:hospitalmapi.api\\controllers\\insurancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8FE12AA-9FB5-4CA9-ACCB-7F182CDD039E}|HospitalMApi.Dal\\HospitalMApi.Dal.csproj|c:\\users\\classtime\\source\\repos\\hospitalmapi\\hospitalmapi.dal\\dal\\configurations\\patientconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8FE12AA-9FB5-4CA9-ACCB-7F182CDD039E}|HospitalMApi.Dal\\HospitalMApi.Dal.csproj|solutionrelative:hospitalmapi.dal\\dal\\configurations\\patientconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8FE12AA-9FB5-4CA9-ACCB-7F182CDD039E}|HospitalMApi.Dal\\HospitalMApi.Dal.csproj|c:\\users\\classtime\\source\\repos\\hospitalmapi\\hospitalmapi.dal\\dal\\configurations\\insuranceconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8FE12AA-9FB5-4CA9-ACCB-7F182CDD039E}|HospitalMApi.Dal\\HospitalMApi.Dal.csproj|solutionrelative:hospitalmapi.dal\\dal\\configurations\\insuranceconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04B98FD3-D50F-4130-9FB5-C255884E807C}|HospitalMApi.Api\\HospitalMApi.Api.csproj|c:\\users\\classtime\\source\\repos\\hospitalmapi\\hospitalmapi.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04B98FD3-D50F-4130-9FB5-C255884E807C}|HospitalMApi.Api\\HospitalMApi.Api.csproj|solutionrelative:hospitalmapi.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04B98FD3-D50F-4130-9FB5-C255884E807C}|HospitalMApi.Api\\HospitalMApi.Api.csproj|c:\\users\\classtime\\source\\repos\\hospitalmapi\\hospitalmapi.api\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04B98FD3-D50F-4130-9FB5-C255884E807C}|HospitalMApi.Api\\HospitalMApi.Api.csproj|solutionrelative:hospitalmapi.api\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC931A5-1644-4C41-BBA4-E08C382FC201}|HospitalMApi.Model\\HospitalMApi.Model.csproj|c:\\users\\classtime\\source\\repos\\hospitalmapi\\hospitalmapi.model\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DC931A5-1644-4C41-BBA4-E08C382FC201}|HospitalMApi.Model\\HospitalMApi.Model.csproj|solutionrelative:hospitalmapi.model\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F33F3319-44C9-4F4C-980E-54481FB1081C}|HospitalMApi.Bl\\HospitalMApi.Bl.csproj|c:\\users\\classtime\\source\\repos\\hospitalmapi\\hospitalmapi.bl\\implementations\\services\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F33F3319-44C9-4F4C-980E-54481FB1081C}|HospitalMApi.Bl\\HospitalMApi.Bl.csproj|solutionrelative:hospitalmapi.bl\\implementations\\services\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F33F3319-44C9-4F4C-980E-54481FB1081C}|HospitalMApi.Bl\\HospitalMApi.Bl.csproj|c:\\users\\classtime\\source\\repos\\hospitalmapi\\hospitalmapi.bl\\implementations\\interfaces\\iinsuranceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F33F3319-44C9-4F4C-980E-54481FB1081C}|HospitalMApi.Bl\\HospitalMApi.Bl.csproj|solutionrelative:hospitalmapi.bl\\implementations\\interfaces\\iinsuranceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC931A5-1644-4C41-BBA4-E08C382FC201}|HospitalMApi.Model\\HospitalMApi.Model.csproj|c:\\users\\classtime\\source\\repos\\hospitalmapi\\hospitalmapi.model\\dtos\\patient\\patientcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DC931A5-1644-4C41-BBA4-E08C382FC201}|HospitalMApi.Model\\HospitalMApi.Model.csproj|solutionrelative:hospitalmapi.model\\dtos\\patient\\patientcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC931A5-1644-4C41-BBA4-E08C382FC201}|HospitalMApi.Model\\HospitalMApi.Model.csproj|c:\\users\\classtime\\source\\repos\\hospitalmapi\\hospitalmapi.model\\dtos\\insurance\\insuranceupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DC931A5-1644-4C41-BBA4-E08C382FC201}|HospitalMApi.Model\\HospitalMApi.Model.csproj|solutionrelative:hospitalmapi.model\\dtos\\insurance\\insuranceupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC931A5-1644-4C41-BBA4-E08C382FC201}|HospitalMApi.Model\\HospitalMApi.Model.csproj|c:\\users\\classtime\\source\\repos\\hospitalmapi\\hospitalmapi.model\\dtos\\insurance\\insurancecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DC931A5-1644-4C41-BBA4-E08C382FC201}|HospitalMApi.Model\\HospitalMApi.Model.csproj|solutionrelative:hospitalmapi.model\\dtos\\insurance\\insurancecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F33F3319-44C9-4F4C-980E-54481FB1081C}|HospitalMApi.Bl\\HospitalMApi.Bl.csproj|c:\\users\\classtime\\source\\repos\\hospitalmapi\\hospitalmapi.bl\\implementations\\services\\insuranceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F33F3319-44C9-4F4C-980E-54481FB1081C}|HospitalMApi.Bl\\HospitalMApi.Bl.csproj|solutionrelative:hospitalmapi.bl\\implementations\\services\\insuranceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8FE12AA-9FB5-4CA9-ACCB-7F182CDD039E}|HospitalMApi.Dal\\HospitalMApi.Dal.csproj|c:\\users\\classtime\\source\\repos\\hospitalmapi\\hospitalmapi.dal\\implementations\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8FE12AA-9FB5-4CA9-ACCB-7F182CDD039E}|HospitalMApi.Dal\\HospitalMApi.Dal.csproj|solutionrelative:hospitalmapi.dal\\implementations\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC931A5-1644-4C41-BBA4-E08C382FC201}|HospitalMApi.Model\\HospitalMApi.Model.csproj|c:\\users\\classtime\\source\\repos\\hospitalmapi\\hospitalmapi.model\\models\\insurance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DC931A5-1644-4C41-BBA4-E08C382FC201}|HospitalMApi.Model\\HospitalMApi.Model.csproj|solutionrelative:hospitalmapi.model\\models\\insurance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Classtime\\source\\repos\\HospitalMApi\\HospitalMApi.Dal\\Migrations\\20250107141750_eddedss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HospitalMApi.Dal\\Migrations\\20250107141750_eddedss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8FE12AA-9FB5-4CA9-ACCB-7F182CDD039E}|HospitalMApi.Dal\\HospitalMApi.Dal.csproj|c:\\users\\classtime\\source\\repos\\hospitalmapi\\hospitalmapi.dal\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8FE12AA-9FB5-4CA9-ACCB-7F182CDD039E}|HospitalMApi.Dal\\HospitalMApi.Dal.csproj|solutionrelative:hospitalmapi.dal\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC931A5-1644-4C41-BBA4-E08C382FC201}|HospitalMApi.Model\\HospitalMApi.Model.csproj|c:\\users\\classtime\\source\\repos\\hospitalmapi\\hospitalmapi.model\\dtos\\patient\\patientupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DC931A5-1644-4C41-BBA4-E08C382FC201}|HospitalMApi.Model\\HospitalMApi.Model.csproj|solutionrelative:hospitalmapi.model\\dtos\\patient\\patientupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F33F3319-44C9-4F4C-980E-54481FB1081C}|HospitalMApi.Bl\\HospitalMApi.Bl.csproj|c:\\users\\classtime\\source\\repos\\hospitalmapi\\hospitalmapi.bl\\implementations\\interfaces\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F33F3319-44C9-4F4C-980E-54481FB1081C}|HospitalMApi.Bl\\HospitalMApi.Bl.csproj|solutionrelative:hospitalmapi.bl\\implementations\\interfaces\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC931A5-1644-4C41-BBA4-E08C382FC201}|HospitalMApi.Model\\HospitalMApi.Model.csproj|c:\\users\\classtime\\source\\repos\\hospitalmapi\\hospitalmapi.model\\mappingprofile\\insuranceprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DC931A5-1644-4C41-BBA4-E08C382FC201}|HospitalMApi.Model\\HospitalMApi.Model.csproj|solutionrelative:hospitalmapi.model\\mappingprofile\\insuranceprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC931A5-1644-4C41-BBA4-E08C382FC201}|HospitalMApi.Model\\HospitalMApi.Model.csproj|c:\\users\\classtime\\source\\repos\\hospitalmapi\\hospitalmapi.model\\customenums\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DC931A5-1644-4C41-BBA4-E08C382FC201}|HospitalMApi.Model\\HospitalMApi.Model.csproj|solutionrelative:hospitalmapi.model\\customenums\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8FE12AA-9FB5-4CA9-ACCB-7F182CDD039E}|HospitalMApi.Dal\\HospitalMApi.Dal.csproj|c:\\users\\classtime\\source\\repos\\hospitalmapi\\hospitalmapi.dal\\implementations\\repositoryintefaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8FE12AA-9FB5-4CA9-ACCB-7F182CDD039E}|HospitalMApi.Dal\\HospitalMApi.Dal.csproj|solutionrelative:hospitalmapi.dal\\implementations\\repositoryintefaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC931A5-1644-4C41-BBA4-E08C382FC201}|HospitalMApi.Model\\HospitalMApi.Model.csproj|c:\\users\\classtime\\source\\repos\\hospitalmapi\\hospitalmapi.model\\mappingprofile\\patientprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DC931A5-1644-4C41-BBA4-E08C382FC201}|HospitalMApi.Model\\HospitalMApi.Model.csproj|solutionrelative:hospitalmapi.model\\mappingprofile\\patientprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC931A5-1644-4C41-BBA4-E08C382FC201}|HospitalMApi.Model\\HospitalMApi.Model.csproj|c:\\users\\classtime\\source\\repos\\hospitalmapi\\hospitalmapi.model\\customenums\\bloodgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DC931A5-1644-4C41-BBA4-E08C382FC201}|HospitalMApi.Model\\HospitalMApi.Model.csproj|solutionrelative:hospitalmapi.model\\customenums\\bloodgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC931A5-1644-4C41-BBA4-E08C382FC201}|HospitalMApi.Model\\HospitalMApi.Model.csproj|c:\\users\\classtime\\source\\repos\\hospitalmapi\\hospitalmapi.model\\models\\base\\baseauditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DC931A5-1644-4C41-BBA4-E08C382FC201}|HospitalMApi.Model\\HospitalMApi.Model.csproj|solutionrelative:hospitalmapi.model\\models\\base\\baseauditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC931A5-1644-4C41-BBA4-E08C382FC201}|HospitalMApi.Model\\HospitalMApi.Model.csproj|c:\\users\\classtime\\source\\repos\\hospitalmapi\\hospitalmapi.model\\hospitalmapi.model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0DC931A5-1644-4C41-BBA4-E08C382FC201}|HospitalMApi.Model\\HospitalMApi.Model.csproj|solutionrelative:hospitalmapi.model\\hospitalmapi.model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8FE12AA-9FB5-4CA9-ACCB-7F182CDD039E}|HospitalMApi.Dal\\HospitalMApi.Dal.csproj|c:\\users\\classtime\\source\\repos\\hospitalmapi\\hospitalmapi.dal\\hospitalmapi.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E8FE12AA-9FB5-4CA9-ACCB-7F182CDD039E}|HospitalMApi.Dal\\HospitalMApi.Dal.csproj|solutionrelative:hospitalmapi.dal\\hospitalmapi.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Classtime\\source\\repos\\HospitalMApi\\HospitalMApi.Dal\\Migrations\\20250107115245_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HospitalMApi.Dal\\Migrations\\20250107115245_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04B98FD3-D50F-4130-9FB5-C255884E807C}|HospitalMApi.Api\\HospitalMApi.Api.csproj|c:\\users\\classtime\\source\\repos\\hospitalmapi\\hospitalmapi.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{04B98FD3-D50F-4130-9FB5-C255884E807C}|HospitalMApi.Api\\HospitalMApi.Api.csproj|solutionrelative:hospitalmapi.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC931A5-1644-4C41-BBA4-E08C382FC201}|HospitalMApi.Model\\HospitalMApi.Model.csproj|c:\\users\\classtime\\source\\repos\\hospitalmapi\\hospitalmapi.model\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DC931A5-1644-4C41-BBA4-E08C382FC201}|HospitalMApi.Model\\HospitalMApi.Model.csproj|solutionrelative:hospitalmapi.model\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F33F3319-44C9-4F4C-980E-54481FB1081C}|HospitalMApi.Bl\\HospitalMApi.Bl.csproj|c:\\users\\classtime\\source\\repos\\hospitalmapi\\hospitalmapi.bl\\hospitalmapi.bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F33F3319-44C9-4F4C-980E-54481FB1081C}|HospitalMApi.Bl\\HospitalMApi.Bl.csproj|solutionrelative:hospitalmapi.bl\\hospitalmapi.bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64C7ECC7-AF2F-465E-961F-B9C92E751BAB}|Infrastructure\\Infrastructure.csproj|c:\\users\\classtime\\source\\repos\\hospitalmapi\\infrastructure\\seeders\\roleseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64C7ECC7-AF2F-465E-961F-B9C92E751BAB}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\seeders\\roleseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\HospitalMApi\\HospitalMApi.Api\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "HospitalMApi.Api\\Controllers\\PatientController.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\HospitalMApi\\HospitalMApi.Api\\Controllers\\PatientController.cs*",
+              "RelativeToolTip": "HospitalMApi.Api\\Controllers\\PatientController.cs*",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAwwEIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T13:37:41.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PatientService.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\HospitalMApi\\HospitalMApi.Bl\\Implementations\\Services\\PatientService.cs",
+              "RelativeDocumentMoniker": "HospitalMApi.Bl\\Implementations\\Services\\PatientService.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\HospitalMApi\\HospitalMApi.Bl\\Implementations\\Services\\PatientService.cs*",
+              "RelativeToolTip": "HospitalMApi.Bl\\Implementations\\Services\\PatientService.cs*",
+              "ViewState": "AQIAADQAAAAAAAAAAAAcwEkAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T12:55:03.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InsuranceController.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\HospitalMApi\\HospitalMApi.Api\\Controllers\\InsuranceController.cs",
+              "RelativeDocumentMoniker": "HospitalMApi.Api\\Controllers\\InsuranceController.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\HospitalMApi\\HospitalMApi.Api\\Controllers\\InsuranceController.cs*",
+              "RelativeToolTip": "HospitalMApi.Api\\Controllers\\InsuranceController.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T13:38:01.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InsuranceConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\HospitalMApi\\HospitalMApi.Dal\\DAL\\Configurations\\InsuranceConfiguration.cs",
+              "RelativeDocumentMoniker": "HospitalMApi.Dal\\DAL\\Configurations\\InsuranceConfiguration.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\HospitalMApi\\HospitalMApi.Dal\\DAL\\Configurations\\InsuranceConfiguration.cs",
+              "RelativeToolTip": "HospitalMApi.Dal\\DAL\\Configurations\\InsuranceConfiguration.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAmwBgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T11:29:39.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PatientConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\HospitalMApi\\HospitalMApi.Dal\\DAL\\Configurations\\PatientConfiguration.cs",
+              "RelativeDocumentMoniker": "HospitalMApi.Dal\\DAL\\Configurations\\PatientConfiguration.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\HospitalMApi\\HospitalMApi.Dal\\DAL\\Configurations\\PatientConfiguration.cs*",
+              "RelativeToolTip": "HospitalMApi.Dal\\DAL\\Configurations\\PatientConfiguration.cs*",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAADsAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T11:36:44.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\HospitalMApi\\HospitalMApi.Model\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "HospitalMApi.Model\\Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\HospitalMApi\\HospitalMApi.Model\\Models\\Patient.cs",
+              "RelativeToolTip": "HospitalMApi.Model\\Models\\Patient.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T11:03:12.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\HospitalMApi\\HospitalMApi.Api\\Program.cs",
+              "RelativeDocumentMoniker": "HospitalMApi.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\HospitalMApi\\HospitalMApi.Api\\Program.cs",
+              "RelativeToolTip": "HospitalMApi.Api\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T11:47:13.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IInsuranceService.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\HospitalMApi\\HospitalMApi.Bl\\Implementations\\Interfaces\\IInsuranceService.cs",
+              "RelativeDocumentMoniker": "HospitalMApi.Bl\\Implementations\\Interfaces\\IInsuranceService.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\HospitalMApi\\HospitalMApi.Bl\\Implementations\\Interfaces\\IInsuranceService.cs",
+              "RelativeToolTip": "HospitalMApi.Bl\\Implementations\\Interfaces\\IInsuranceService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T12:03:08.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PatientCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\HospitalMApi\\HospitalMApi.Model\\DTOs\\Patient\\PatientCreateDto.cs",
+              "RelativeDocumentMoniker": "HospitalMApi.Model\\DTOs\\Patient\\PatientCreateDto.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\HospitalMApi\\HospitalMApi.Model\\DTOs\\Patient\\PatientCreateDto.cs",
+              "RelativeToolTip": "HospitalMApi.Model\\DTOs\\Patient\\PatientCreateDto.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T12:06:58.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InsuranceUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\HospitalMApi\\HospitalMApi.Model\\DTOs\\Insurance\\InsuranceUpdateDto.cs",
+              "RelativeDocumentMoniker": "HospitalMApi.Model\\DTOs\\Insurance\\InsuranceUpdateDto.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\HospitalMApi\\HospitalMApi.Model\\DTOs\\Insurance\\InsuranceUpdateDto.cs",
+              "RelativeToolTip": "HospitalMApi.Model\\DTOs\\Insurance\\InsuranceUpdateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T14:05:01.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InsuranceCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\HospitalMApi\\HospitalMApi.Model\\DTOs\\Insurance\\InsuranceCreateDto.cs",
+              "RelativeDocumentMoniker": "HospitalMApi.Model\\DTOs\\Insurance\\InsuranceCreateDto.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\HospitalMApi\\HospitalMApi.Model\\DTOs\\Insurance\\InsuranceCreateDto.cs",
+              "RelativeToolTip": "HospitalMApi.Model\\DTOs\\Insurance\\InsuranceCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T12:06:34.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InsuranceService.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\HospitalMApi\\HospitalMApi.Bl\\Implementations\\Services\\InsuranceService.cs",
+              "RelativeDocumentMoniker": "HospitalMApi.Bl\\Implementations\\Services\\InsuranceService.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\HospitalMApi\\HospitalMApi.Bl\\Implementations\\Services\\InsuranceService.cs",
+              "RelativeToolTip": "HospitalMApi.Bl\\Implementations\\Services\\InsuranceService.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAAwE0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T12:56:31.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\HospitalMApi\\HospitalMApi.Dal\\Implementations\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "HospitalMApi.Dal\\Implementations\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\HospitalMApi\\HospitalMApi.Dal\\Implementations\\Repositories\\Repository.cs",
+              "RelativeToolTip": "HospitalMApi.Dal\\Implementations\\Repositories\\Repository.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAmwD4AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T11:56:45.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20250107141750_eddedss.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\HospitalMApi\\HospitalMApi.Dal\\Migrations\\20250107141750_eddedss.cs",
+              "RelativeDocumentMoniker": "HospitalMApi.Dal\\Migrations\\20250107141750_eddedss.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\HospitalMApi\\HospitalMApi.Dal\\Migrations\\20250107141750_eddedss.cs",
+              "RelativeToolTip": "HospitalMApi.Dal\\Migrations\\20250107141750_eddedss.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T14:17:51.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Insurance.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\HospitalMApi\\HospitalMApi.Model\\Models\\Insurance.cs",
+              "RelativeDocumentMoniker": "HospitalMApi.Model\\Models\\Insurance.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\HospitalMApi\\HospitalMApi.Model\\Models\\Insurance.cs",
+              "RelativeToolTip": "HospitalMApi.Model\\Models\\Insurance.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T11:03:56.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\HospitalMApi\\HospitalMApi.Dal\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "HospitalMApi.Dal\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\HospitalMApi\\HospitalMApi.Dal\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "HospitalMApi.Dal\\DAL\\AppDbContext.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T11:19:00.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IPatientService.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\HospitalMApi\\HospitalMApi.Bl\\Implementations\\Interfaces\\IPatientService.cs",
+              "RelativeDocumentMoniker": "HospitalMApi.Bl\\Implementations\\Interfaces\\IPatientService.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\HospitalMApi\\HospitalMApi.Bl\\Implementations\\Interfaces\\IPatientService.cs",
+              "RelativeToolTip": "HospitalMApi.Bl\\Implementations\\Interfaces\\IPatientService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T12:03:40.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PatientUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\HospitalMApi\\HospitalMApi.Model\\DTOs\\Patient\\PatientUpdateDto.cs",
+              "RelativeDocumentMoniker": "HospitalMApi.Model\\DTOs\\Patient\\PatientUpdateDto.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\HospitalMApi\\HospitalMApi.Model\\DTOs\\Patient\\PatientUpdateDto.cs",
+              "RelativeToolTip": "HospitalMApi.Model\\DTOs\\Patient\\PatientUpdateDto.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T14:05:44.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "InsuranceProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\HospitalMApi\\HospitalMApi.Model\\MappingProfile\\InsuranceProfile.cs",
+              "RelativeDocumentMoniker": "HospitalMApi.Model\\MappingProfile\\InsuranceProfile.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\HospitalMApi\\HospitalMApi.Model\\MappingProfile\\InsuranceProfile.cs",
+              "RelativeToolTip": "HospitalMApi.Model\\MappingProfile\\InsuranceProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T13:14:40.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\HospitalMApi\\HospitalMApi.Dal\\Implementations\\RepositoryIntefaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "HospitalMApi.Dal\\Implementations\\RepositoryIntefaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\HospitalMApi\\HospitalMApi.Dal\\Implementations\\RepositoryIntefaces\\IRepository.cs",
+              "RelativeToolTip": "HospitalMApi.Dal\\Implementations\\RepositoryIntefaces\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T11:57:03.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\HospitalMApi\\HospitalMApi.Model\\CustomEnums\\Gender.cs",
+              "RelativeDocumentMoniker": "HospitalMApi.Model\\CustomEnums\\Gender.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\HospitalMApi\\HospitalMApi.Model\\CustomEnums\\Gender.cs",
+              "RelativeToolTip": "HospitalMApi.Model\\CustomEnums\\Gender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T11:14:05.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PatientProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\HospitalMApi\\HospitalMApi.Model\\MappingProfile\\PatientProfile.cs",
+              "RelativeDocumentMoniker": "HospitalMApi.Model\\MappingProfile\\PatientProfile.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\HospitalMApi\\HospitalMApi.Model\\MappingProfile\\PatientProfile.cs",
+              "RelativeToolTip": "HospitalMApi.Model\\MappingProfile\\PatientProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T13:14:13.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "HospitalMApi.Model",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\HospitalMApi\\HospitalMApi.Model\\HospitalMApi.Model.csproj",
+              "RelativeDocumentMoniker": "HospitalMApi.Model\\HospitalMApi.Model.csproj",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\HospitalMApi\\HospitalMApi.Model\\HospitalMApi.Model.csproj",
+              "RelativeToolTip": "HospitalMApi.Model\\HospitalMApi.Model.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-07T11:13:35.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BloodGroup.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\HospitalMApi\\HospitalMApi.Model\\CustomEnums\\BloodGroup.cs",
+              "RelativeDocumentMoniker": "HospitalMApi.Model\\CustomEnums\\BloodGroup.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\HospitalMApi\\HospitalMApi.Model\\CustomEnums\\BloodGroup.cs",
+              "RelativeToolTip": "HospitalMApi.Model\\CustomEnums\\BloodGroup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T11:14:33.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BaseAudiTableEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\HospitalMApi\\HospitalMApi.Model\\Models\\Base\\BaseAudiTableEntity.cs",
+              "RelativeDocumentMoniker": "HospitalMApi.Model\\Models\\Base\\BaseAudiTableEntity.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\HospitalMApi\\HospitalMApi.Model\\Models\\Base\\BaseAudiTableEntity.cs",
+              "RelativeToolTip": "HospitalMApi.Model\\Models\\Base\\BaseAudiTableEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T11:32:06.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "HospitalMApi.Dal",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\HospitalMApi\\HospitalMApi.Dal\\HospitalMApi.Dal.csproj",
+              "RelativeDocumentMoniker": "HospitalMApi.Dal\\HospitalMApi.Dal.csproj",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\HospitalMApi\\HospitalMApi.Dal\\HospitalMApi.Dal.csproj",
+              "RelativeToolTip": "HospitalMApi.Dal\\HospitalMApi.Dal.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-07T11:53:40.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20250107115245_first.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\HospitalMApi\\HospitalMApi.Dal\\Migrations\\20250107115245_first.cs",
+              "RelativeDocumentMoniker": "HospitalMApi.Dal\\Migrations\\20250107115245_first.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\HospitalMApi\\HospitalMApi.Dal\\Migrations\\20250107115245_first.cs",
+              "RelativeToolTip": "HospitalMApi.Dal\\Migrations\\20250107115245_first.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T11:52:45.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\HospitalMApi\\HospitalMApi.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "HospitalMApi.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\HospitalMApi\\HospitalMApi.Api\\appsettings.json",
+              "RelativeToolTip": "HospitalMApi.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-07T11:45:34.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\HospitalMApi\\HospitalMApi.Model\\Models\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "HospitalMApi.Model\\Models\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\HospitalMApi\\HospitalMApi.Model\\Models\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "HospitalMApi.Model\\Models\\Base\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T11:31:43.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "HospitalMApi.Bl",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\HospitalMApi\\HospitalMApi.Bl\\HospitalMApi.Bl.csproj",
+              "RelativeDocumentMoniker": "HospitalMApi.Bl\\HospitalMApi.Bl.csproj",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\HospitalMApi\\HospitalMApi.Bl\\HospitalMApi.Bl.csproj",
+              "RelativeToolTip": "HospitalMApi.Bl\\HospitalMApi.Bl.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-07T11:07:54.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "RoleSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\HospitalMApi\\Infrastructure\\Seeders\\RoleSeeder.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Seeders\\RoleSeeder.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\HospitalMApi\\Infrastructure\\Seeders\\RoleSeeder.cs",
+              "RelativeToolTip": "Infrastructure\\Seeders\\RoleSeeder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T10:52:59.66Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

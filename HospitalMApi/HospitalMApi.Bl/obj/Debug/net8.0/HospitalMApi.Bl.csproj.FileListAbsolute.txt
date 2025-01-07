@@ -1,0 +1,17 @@
+C:\Users\Classtime\source\repos\HospitalMApi\HospitalMApi.Bl\bin\Debug\net8.0\HospitalMApi.Bl.deps.json
+C:\Users\Classtime\source\repos\HospitalMApi\HospitalMApi.Bl\bin\Debug\net8.0\HospitalMApi.Bl.dll
+C:\Users\Classtime\source\repos\HospitalMApi\HospitalMApi.Bl\bin\Debug\net8.0\HospitalMApi.Bl.pdb
+C:\Users\Classtime\source\repos\HospitalMApi\HospitalMApi.Bl\bin\Debug\net8.0\HospitalMApi.Dal.dll
+C:\Users\Classtime\source\repos\HospitalMApi\HospitalMApi.Bl\bin\Debug\net8.0\HospitalMApi.Model.dll
+C:\Users\Classtime\source\repos\HospitalMApi\HospitalMApi.Bl\bin\Debug\net8.0\HospitalMApi.Dal.pdb
+C:\Users\Classtime\source\repos\HospitalMApi\HospitalMApi.Bl\bin\Debug\net8.0\HospitalMApi.Model.pdb
+C:\Users\Classtime\source\repos\HospitalMApi\HospitalMApi.Bl\obj\Debug\net8.0\HospitalMApi.Bl.csproj.AssemblyReference.cache
+C:\Users\Classtime\source\repos\HospitalMApi\HospitalMApi.Bl\obj\Debug\net8.0\HospitalMApi.Bl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Classtime\source\repos\HospitalMApi\HospitalMApi.Bl\obj\Debug\net8.0\HospitalMApi.Bl.AssemblyInfoInputs.cache
+C:\Users\Classtime\source\repos\HospitalMApi\HospitalMApi.Bl\obj\Debug\net8.0\HospitalMApi.Bl.AssemblyInfo.cs
+C:\Users\Classtime\source\repos\HospitalMApi\HospitalMApi.Bl\obj\Debug\net8.0\HospitalMApi.Bl.csproj.CoreCompileInputs.cache
+C:\Users\Classtime\source\repos\HospitalMApi\HospitalMApi.Bl\obj\Debug\net8.0\Hospital.17BC8134.Up2Date
+C:\Users\Classtime\source\repos\HospitalMApi\HospitalMApi.Bl\obj\Debug\net8.0\HospitalMApi.Bl.dll
+C:\Users\Classtime\source\repos\HospitalMApi\HospitalMApi.Bl\obj\Debug\net8.0\refint\HospitalMApi.Bl.dll
+C:\Users\Classtime\source\repos\HospitalMApi\HospitalMApi.Bl\obj\Debug\net8.0\HospitalMApi.Bl.pdb
+C:\Users\Classtime\source\repos\HospitalMApi\HospitalMApi.Bl\obj\Debug\net8.0\ref\HospitalMApi.Bl.dll

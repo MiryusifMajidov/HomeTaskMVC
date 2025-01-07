@@ -1,0 +1,15 @@
+C:\Users\Classtime\source\repos\HospitalMApi\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\Classtime\source\repos\HospitalMApi\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\Classtime\source\repos\HospitalMApi\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\Classtime\source\repos\HospitalMApi\Infrastructure\bin\Debug\net8.0\HospitalMApi.Model.dll
+C:\Users\Classtime\source\repos\HospitalMApi\Infrastructure\bin\Debug\net8.0\HospitalMApi.Model.pdb
+C:\Users\Classtime\source\repos\HospitalMApi\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Classtime\source\repos\HospitalMApi\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Classtime\source\repos\HospitalMApi\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Classtime\source\repos\HospitalMApi\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Classtime\source\repos\HospitalMApi\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Classtime\source\repos\HospitalMApi\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\Classtime\source\repos\HospitalMApi\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\Classtime\source\repos\HospitalMApi\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\Classtime\source\repos\HospitalMApi\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\Classtime\source\repos\HospitalMApi\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll

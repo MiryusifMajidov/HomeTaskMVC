@@ -1,0 +1,17 @@
+C:\Users\classtime\source\repos\FinalProjectTest\FinalProjectTest.BL\bin\Debug\net8.0\FinalProjectTest.BL.deps.json
+C:\Users\classtime\source\repos\FinalProjectTest\FinalProjectTest.BL\bin\Debug\net8.0\FinalProjectTest.BL.dll
+C:\Users\classtime\source\repos\FinalProjectTest\FinalProjectTest.BL\bin\Debug\net8.0\FinalProjectTest.BL.pdb
+C:\Users\classtime\source\repos\FinalProjectTest\FinalProjectTest.BL\bin\Debug\net8.0\FinalProjectTest.DAL.dll
+C:\Users\classtime\source\repos\FinalProjectTest\FinalProjectTest.BL\bin\Debug\net8.0\FinalProjectTest.Model.dll
+C:\Users\classtime\source\repos\FinalProjectTest\FinalProjectTest.BL\bin\Debug\net8.0\FinalProjectTest.DAL.pdb
+C:\Users\classtime\source\repos\FinalProjectTest\FinalProjectTest.BL\bin\Debug\net8.0\FinalProjectTest.Model.pdb
+C:\Users\classtime\source\repos\FinalProjectTest\FinalProjectTest.BL\obj\Debug\net8.0\FinalProjectTest.BL.csproj.AssemblyReference.cache
+C:\Users\classtime\source\repos\FinalProjectTest\FinalProjectTest.BL\obj\Debug\net8.0\FinalProjectTest.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\classtime\source\repos\FinalProjectTest\FinalProjectTest.BL\obj\Debug\net8.0\FinalProjectTest.BL.AssemblyInfoInputs.cache
+C:\Users\classtime\source\repos\FinalProjectTest\FinalProjectTest.BL\obj\Debug\net8.0\FinalProjectTest.BL.AssemblyInfo.cs
+C:\Users\classtime\source\repos\FinalProjectTest\FinalProjectTest.BL\obj\Debug\net8.0\FinalProjectTest.BL.csproj.CoreCompileInputs.cache
+C:\Users\classtime\source\repos\FinalProjectTest\FinalProjectTest.BL\obj\Debug\net8.0\FinalPro.211BC952.Up2Date
+C:\Users\classtime\source\repos\FinalProjectTest\FinalProjectTest.BL\obj\Debug\net8.0\FinalProjectTest.BL.dll
+C:\Users\classtime\source\repos\FinalProjectTest\FinalProjectTest.BL\obj\Debug\net8.0\refint\FinalProjectTest.BL.dll
+C:\Users\classtime\source\repos\FinalProjectTest\FinalProjectTest.BL\obj\Debug\net8.0\FinalProjectTest.BL.pdb
+C:\Users\classtime\source\repos\FinalProjectTest\FinalProjectTest.BL\obj\Debug\net8.0\ref\FinalProjectTest.BL.dll

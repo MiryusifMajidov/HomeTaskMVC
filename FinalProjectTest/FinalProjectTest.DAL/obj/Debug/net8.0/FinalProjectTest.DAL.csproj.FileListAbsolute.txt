@@ -1,0 +1,17 @@
+C:\Users\classtime\source\repos\FinalProjectTest\FinalProjectTest.DAL\bin\Debug\net8.0\FinalProjectTest.DAL.deps.json
+C:\Users\classtime\source\repos\FinalProjectTest\FinalProjectTest.DAL\bin\Debug\net8.0\FinalProjectTest.DAL.dll
+C:\Users\classtime\source\repos\FinalProjectTest\FinalProjectTest.DAL\bin\Debug\net8.0\FinalProjectTest.DAL.pdb
+C:\Users\classtime\source\repos\FinalProjectTest\FinalProjectTest.DAL\bin\Debug\net8.0\FinalProjectTest.Model.dll
+C:\Users\classtime\source\repos\FinalProjectTest\FinalProjectTest.DAL\bin\Debug\net8.0\FinalProjectTest.Model.pdb
+C:\Users\classtime\source\repos\FinalProjectTest\FinalProjectTest.DAL\obj\Debug\net8.0\FinalProjectTest.DAL.csproj.AssemblyReference.cache
+C:\Users\classtime\source\repos\FinalProjectTest\FinalProjectTest.DAL\obj\Debug\net8.0\FinalProjectTest.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\classtime\source\repos\FinalProjectTest\FinalProjectTest.DAL\obj\Debug\net8.0\FinalProjectTest.DAL.AssemblyInfoInputs.cache
+C:\Users\classtime\source\repos\FinalProjectTest\FinalProjectTest.DAL\obj\Debug\net8.0\FinalProjectTest.DAL.AssemblyInfo.cs
+C:\Users\classtime\source\repos\FinalProjectTest\FinalProjectTest.DAL\obj\Debug\net8.0\FinalProjectTest.DAL.csproj.CoreCompileInputs.cache
+C:\Users\classtime\source\repos\FinalProjectTest\FinalProjectTest.DAL\obj\Debug\net8.0\FinalPro.853E6D9A.Up2Date
+C:\Users\classtime\source\repos\FinalProjectTest\FinalProjectTest.DAL\obj\Debug\net8.0\FinalProjectTest.DAL.dll
+C:\Users\classtime\source\repos\FinalProjectTest\FinalProjectTest.DAL\obj\Debug\net8.0\refint\FinalProjectTest.DAL.dll
+C:\Users\classtime\source\repos\FinalProjectTest\FinalProjectTest.DAL\obj\Debug\net8.0\FinalProjectTest.DAL.pdb
+C:\Users\classtime\source\repos\FinalProjectTest\FinalProjectTest.DAL\obj\Debug\net8.0\ref\FinalProjectTest.DAL.dll
+C:\Users\classtime\source\repos\FinalProjectTest\FinalProjectTest.DAL\bin\Debug\net8.0\FinalProjectTest.DAL.runtimeconfig.json
+C:\Users\classtime\source\repos\FinalProjectTest\FinalProjectTest.DAL\obj\Debug\net8.0\FinalProjectTest.DAL.genruntimeconfig.cache

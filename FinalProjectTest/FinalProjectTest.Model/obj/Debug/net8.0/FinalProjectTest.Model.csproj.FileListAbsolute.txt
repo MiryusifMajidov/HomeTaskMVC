@@ -1,0 +1,12 @@
+C:\Users\classtime\source\repos\FinalProjectTest\FinalProjectTest.Model\bin\Debug\net8.0\FinalProjectTest.Model.deps.json
+C:\Users\classtime\source\repos\FinalProjectTest\FinalProjectTest.Model\bin\Debug\net8.0\FinalProjectTest.Model.dll
+C:\Users\classtime\source\repos\FinalProjectTest\FinalProjectTest.Model\bin\Debug\net8.0\FinalProjectTest.Model.pdb
+C:\Users\classtime\source\repos\FinalProjectTest\FinalProjectTest.Model\obj\Debug\net8.0\FinalProjectTest.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\classtime\source\repos\FinalProjectTest\FinalProjectTest.Model\obj\Debug\net8.0\FinalProjectTest.Model.AssemblyInfoInputs.cache
+C:\Users\classtime\source\repos\FinalProjectTest\FinalProjectTest.Model\obj\Debug\net8.0\FinalProjectTest.Model.AssemblyInfo.cs
+C:\Users\classtime\source\repos\FinalProjectTest\FinalProjectTest.Model\obj\Debug\net8.0\FinalProjectTest.Model.csproj.CoreCompileInputs.cache
+C:\Users\classtime\source\repos\FinalProjectTest\FinalProjectTest.Model\obj\Debug\net8.0\FinalProjectTest.Model.dll
+C:\Users\classtime\source\repos\FinalProjectTest\FinalProjectTest.Model\obj\Debug\net8.0\refint\FinalProjectTest.Model.dll
+C:\Users\classtime\source\repos\FinalProjectTest\FinalProjectTest.Model\obj\Debug\net8.0\FinalProjectTest.Model.pdb
+C:\Users\classtime\source\repos\FinalProjectTest\FinalProjectTest.Model\obj\Debug\net8.0\ref\FinalProjectTest.Model.dll
+C:\Users\classtime\source\repos\FinalProjectTest\FinalProjectTest.Model\obj\Debug\net8.0\FinalProjectTest.Model.csproj.AssemblyReference.cache

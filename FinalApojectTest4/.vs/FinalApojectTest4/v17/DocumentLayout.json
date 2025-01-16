@@ -1,0 +1,734 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\classtime\\source\\repos\\FinalApojectTest4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{151F6A95-E6CE-403C-BDC5-0FEAC78C7457}|FinalApojectTest4.App\\FinalApojectTest4.App.csproj|c:\\users\\classtime\\source\\repos\\finalapojecttest4\\finalapojecttest4.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{151F6A95-E6CE-403C-BDC5-0FEAC78C7457}|FinalApojectTest4.App\\FinalApojectTest4.App.csproj|solutionrelative:finalapojecttest4.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913F7FE9-E7BE-4D48-BF46-9877AC1EEBF7}|FinalApojectTest4.Dal\\FinalApojectTest4.Dal.csproj|c:\\users\\classtime\\source\\repos\\finalapojecttest4\\finalapojecttest4.dal\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{913F7FE9-E7BE-4D48-BF46-9877AC1EEBF7}|FinalApojectTest4.Dal\\FinalApojectTest4.Dal.csproj|solutionrelative:finalapojecttest4.dal\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8345DEB-27E6-464B-89CA-BA13E07CD38D}|FinalApojectTest4.BL\\FinalApojectTest4.BL.csproj|c:\\users\\classtime\\source\\repos\\finalapojecttest4\\finalapojecttest4.bl\\implementations\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8345DEB-27E6-464B-89CA-BA13E07CD38D}|FinalApojectTest4.BL\\FinalApojectTest4.BL.csproj|solutionrelative:finalapojecttest4.bl\\implementations\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913F7FE9-E7BE-4D48-BF46-9877AC1EEBF7}|FinalApojectTest4.Dal\\FinalApojectTest4.Dal.csproj|c:\\users\\classtime\\source\\repos\\finalapojecttest4\\finalapojecttest4.dal\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{913F7FE9-E7BE-4D48-BF46-9877AC1EEBF7}|FinalApojectTest4.Dal\\FinalApojectTest4.Dal.csproj|solutionrelative:finalapojecttest4.dal\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{151F6A95-E6CE-403C-BDC5-0FEAC78C7457}|FinalApojectTest4.App\\FinalApojectTest4.App.csproj|c:\\users\\classtime\\source\\repos\\finalapojecttest4\\finalapojecttest4.app\\areas\\admin\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{151F6A95-E6CE-403C-BDC5-0FEAC78C7457}|FinalApojectTest4.App\\FinalApojectTest4.App.csproj|solutionrelative:finalapojecttest4.app\\areas\\admin\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{151F6A95-E6CE-403C-BDC5-0FEAC78C7457}|FinalApojectTest4.App\\FinalApojectTest4.App.csproj|c:\\users\\classtime\\source\\repos\\finalapojecttest4\\finalapojecttest4.app\\areas\\admin\\views\\doctor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{151F6A95-E6CE-403C-BDC5-0FEAC78C7457}|FinalApojectTest4.App\\FinalApojectTest4.App.csproj|solutionrelative:finalapojecttest4.app\\areas\\admin\\views\\doctor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{151F6A95-E6CE-403C-BDC5-0FEAC78C7457}|FinalApojectTest4.App\\FinalApojectTest4.App.csproj|c:\\users\\classtime\\source\\repos\\finalapojecttest4\\finalapojecttest4.app\\areas\\admin\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{151F6A95-E6CE-403C-BDC5-0FEAC78C7457}|FinalApojectTest4.App\\FinalApojectTest4.App.csproj|solutionrelative:finalapojecttest4.app\\areas\\admin\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{151F6A95-E6CE-403C-BDC5-0FEAC78C7457}|FinalApojectTest4.App\\FinalApojectTest4.App.csproj|c:\\users\\classtime\\source\\repos\\finalapojecttest4\\finalapojecttest4.app\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{151F6A95-E6CE-403C-BDC5-0FEAC78C7457}|FinalApojectTest4.App\\FinalApojectTest4.App.csproj|solutionrelative:finalapojecttest4.app\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{151F6A95-E6CE-403C-BDC5-0FEAC78C7457}|FinalApojectTest4.App\\FinalApojectTest4.App.csproj|c:\\users\\classtime\\source\\repos\\finalapojecttest4\\finalapojecttest4.app\\areas\\admin\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{151F6A95-E6CE-403C-BDC5-0FEAC78C7457}|FinalApojectTest4.App\\FinalApojectTest4.App.csproj|solutionrelative:finalapojecttest4.app\\areas\\admin\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87D59232-6DA6-4C6F-80EE-A97AD9BB678B}|FinalApojectTest4.Model\\FinalApojectTest4.Model.csproj|c:\\users\\classtime\\source\\repos\\finalapojecttest4\\finalapojecttest4.model\\dtos\\departmentdtos\\getdepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87D59232-6DA6-4C6F-80EE-A97AD9BB678B}|FinalApojectTest4.Model\\FinalApojectTest4.Model.csproj|solutionrelative:finalapojecttest4.model\\dtos\\departmentdtos\\getdepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{151F6A95-E6CE-403C-BDC5-0FEAC78C7457}|FinalApojectTest4.App\\FinalApojectTest4.App.csproj|c:\\users\\classtime\\source\\repos\\finalapojecttest4\\finalapojecttest4.app\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{151F6A95-E6CE-403C-BDC5-0FEAC78C7457}|FinalApojectTest4.App\\FinalApojectTest4.App.csproj|solutionrelative:finalapojecttest4.app\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{151F6A95-E6CE-403C-BDC5-0FEAC78C7457}|FinalApojectTest4.App\\FinalApojectTest4.App.csproj|c:\\users\\classtime\\source\\repos\\finalapojecttest4\\finalapojecttest4.app\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{151F6A95-E6CE-403C-BDC5-0FEAC78C7457}|FinalApojectTest4.App\\FinalApojectTest4.App.csproj|solutionrelative:finalapojecttest4.app\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{151F6A95-E6CE-403C-BDC5-0FEAC78C7457}|FinalApojectTest4.App\\FinalApojectTest4.App.csproj|c:\\users\\classtime\\source\\repos\\finalapojecttest4\\finalapojecttest4.app\\areas\\admin\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{151F6A95-E6CE-403C-BDC5-0FEAC78C7457}|FinalApojectTest4.App\\FinalApojectTest4.App.csproj|solutionrelative:finalapojecttest4.app\\areas\\admin\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8345DEB-27E6-464B-89CA-BA13E07CD38D}|FinalApojectTest4.BL\\FinalApojectTest4.BL.csproj|c:\\users\\classtime\\source\\repos\\finalapojecttest4\\finalapojecttest4.bl\\implementations\\services\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8345DEB-27E6-464B-89CA-BA13E07CD38D}|FinalApojectTest4.BL\\FinalApojectTest4.BL.csproj|solutionrelative:finalapojecttest4.bl\\implementations\\services\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8345DEB-27E6-464B-89CA-BA13E07CD38D}|FinalApojectTest4.BL\\FinalApojectTest4.BL.csproj|c:\\users\\classtime\\source\\repos\\finalapojecttest4\\finalapojecttest4.bl\\implementations\\interfaces\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8345DEB-27E6-464B-89CA-BA13E07CD38D}|FinalApojectTest4.BL\\FinalApojectTest4.BL.csproj|solutionrelative:finalapojecttest4.bl\\implementations\\interfaces\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{151F6A95-E6CE-403C-BDC5-0FEAC78C7457}|FinalApojectTest4.App\\FinalApojectTest4.App.csproj|c:\\users\\classtime\\source\\repos\\finalapojecttest4\\finalapojecttest4.app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{151F6A95-E6CE-403C-BDC5-0FEAC78C7457}|FinalApojectTest4.App\\FinalApojectTest4.App.csproj|solutionrelative:finalapojecttest4.app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8345DEB-27E6-464B-89CA-BA13E07CD38D}|FinalApojectTest4.BL\\FinalApojectTest4.BL.csproj|c:\\users\\classtime\\source\\repos\\finalapojecttest4\\finalapojecttest4.bl\\implementations\\interfaces\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8345DEB-27E6-464B-89CA-BA13E07CD38D}|FinalApojectTest4.BL\\FinalApojectTest4.BL.csproj|solutionrelative:finalapojecttest4.bl\\implementations\\interfaces\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87D59232-6DA6-4C6F-80EE-A97AD9BB678B}|FinalApojectTest4.Model\\FinalApojectTest4.Model.csproj|c:\\users\\classtime\\source\\repos\\finalapojecttest4\\finalapojecttest4.model\\dtos\\doctorsdtos\\updatedoctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87D59232-6DA6-4C6F-80EE-A97AD9BB678B}|FinalApojectTest4.Model\\FinalApojectTest4.Model.csproj|solutionrelative:finalapojecttest4.model\\dtos\\doctorsdtos\\updatedoctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87D59232-6DA6-4C6F-80EE-A97AD9BB678B}|FinalApojectTest4.Model\\FinalApojectTest4.Model.csproj|c:\\users\\classtime\\source\\repos\\finalapojecttest4\\finalapojecttest4.model\\dtos\\doctorsdtos\\createdoctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87D59232-6DA6-4C6F-80EE-A97AD9BB678B}|FinalApojectTest4.Model\\FinalApojectTest4.Model.csproj|solutionrelative:finalapojecttest4.model\\dtos\\doctorsdtos\\createdoctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87D59232-6DA6-4C6F-80EE-A97AD9BB678B}|FinalApojectTest4.Model\\FinalApojectTest4.Model.csproj|c:\\users\\classtime\\source\\repos\\finalapojecttest4\\finalapojecttest4.model\\dtos\\departmentdtos\\updatedepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87D59232-6DA6-4C6F-80EE-A97AD9BB678B}|FinalApojectTest4.Model\\FinalApojectTest4.Model.csproj|solutionrelative:finalapojecttest4.model\\dtos\\departmentdtos\\updatedepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87D59232-6DA6-4C6F-80EE-A97AD9BB678B}|FinalApojectTest4.Model\\FinalApojectTest4.Model.csproj|c:\\users\\classtime\\source\\repos\\finalapojecttest4\\finalapojecttest4.model\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87D59232-6DA6-4C6F-80EE-A97AD9BB678B}|FinalApojectTest4.Model\\FinalApojectTest4.Model.csproj|solutionrelative:finalapojecttest4.model\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{151F6A95-E6CE-403C-BDC5-0FEAC78C7457}|FinalApojectTest4.App\\FinalApojectTest4.App.csproj|c:\\users\\classtime\\source\\repos\\finalapojecttest4\\finalapojecttest4.app\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{151F6A95-E6CE-403C-BDC5-0FEAC78C7457}|FinalApojectTest4.App\\FinalApojectTest4.App.csproj|solutionrelative:finalapojecttest4.app\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{151F6A95-E6CE-403C-BDC5-0FEAC78C7457}|FinalApojectTest4.App\\FinalApojectTest4.App.csproj|c:\\users\\classtime\\source\\repos\\finalapojecttest4\\finalapojecttest4.app\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{151F6A95-E6CE-403C-BDC5-0FEAC78C7457}|FinalApojectTest4.App\\FinalApojectTest4.App.csproj|solutionrelative:finalapojecttest4.app\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{151F6A95-E6CE-403C-BDC5-0FEAC78C7457}|FinalApojectTest4.App\\FinalApojectTest4.App.csproj|c:\\users\\classtime\\source\\repos\\finalapojecttest4\\finalapojecttest4.app\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{151F6A95-E6CE-403C-BDC5-0FEAC78C7457}|FinalApojectTest4.App\\FinalApojectTest4.App.csproj|solutionrelative:finalapojecttest4.app\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{151F6A95-E6CE-403C-BDC5-0FEAC78C7457}|FinalApojectTest4.App\\FinalApojectTest4.App.csproj|c:\\users\\classtime\\source\\repos\\finalapojecttest4\\finalapojecttest4.app\\areas\\admin\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{151F6A95-E6CE-403C-BDC5-0FEAC78C7457}|FinalApojectTest4.App\\FinalApojectTest4.App.csproj|solutionrelative:finalapojecttest4.app\\areas\\admin\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8345DEB-27E6-464B-89CA-BA13E07CD38D}|FinalApojectTest4.BL\\FinalApojectTest4.BL.csproj|c:\\users\\classtime\\source\\repos\\finalapojecttest4\\finalapojecttest4.bl\\profiles\\doctorprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8345DEB-27E6-464B-89CA-BA13E07CD38D}|FinalApojectTest4.BL\\FinalApojectTest4.BL.csproj|solutionrelative:finalapojecttest4.bl\\profiles\\doctorprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8345DEB-27E6-464B-89CA-BA13E07CD38D}|FinalApojectTest4.BL\\FinalApojectTest4.BL.csproj|c:\\users\\classtime\\source\\repos\\finalapojecttest4\\finalapojecttest4.bl\\profiles\\departmentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8345DEB-27E6-464B-89CA-BA13E07CD38D}|FinalApojectTest4.BL\\FinalApojectTest4.BL.csproj|solutionrelative:finalapojecttest4.bl\\profiles\\departmentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87D59232-6DA6-4C6F-80EE-A97AD9BB678B}|FinalApojectTest4.Model\\FinalApojectTest4.Model.csproj|c:\\users\\classtime\\source\\repos\\finalapojecttest4\\finalapojecttest4.model\\dtos\\doctorsdtos\\getdoctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87D59232-6DA6-4C6F-80EE-A97AD9BB678B}|FinalApojectTest4.Model\\FinalApojectTest4.Model.csproj|solutionrelative:finalapojecttest4.model\\dtos\\doctorsdtos\\getdoctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87D59232-6DA6-4C6F-80EE-A97AD9BB678B}|FinalApojectTest4.Model\\FinalApojectTest4.Model.csproj|c:\\users\\classtime\\source\\repos\\finalapojecttest4\\finalapojecttest4.model\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87D59232-6DA6-4C6F-80EE-A97AD9BB678B}|FinalApojectTest4.Model\\FinalApojectTest4.Model.csproj|solutionrelative:finalapojecttest4.model\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87D59232-6DA6-4C6F-80EE-A97AD9BB678B}|FinalApojectTest4.Model\\FinalApojectTest4.Model.csproj|c:\\users\\classtime\\source\\repos\\finalapojecttest4\\finalapojecttest4.model\\dtos\\departmentdtos\\createdepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87D59232-6DA6-4C6F-80EE-A97AD9BB678B}|FinalApojectTest4.Model\\FinalApojectTest4.Model.csproj|solutionrelative:finalapojecttest4.model\\dtos\\departmentdtos\\createdepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913F7FE9-E7BE-4D48-BF46-9877AC1EEBF7}|FinalApojectTest4.Dal\\FinalApojectTest4.Dal.csproj|c:\\users\\classtime\\source\\repos\\finalapojecttest4\\finalapojecttest4.dal\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{913F7FE9-E7BE-4D48-BF46-9877AC1EEBF7}|FinalApojectTest4.Dal\\FinalApojectTest4.Dal.csproj|solutionrelative:finalapojecttest4.dal\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87D59232-6DA6-4C6F-80EE-A97AD9BB678B}|FinalApojectTest4.Model\\FinalApojectTest4.Model.csproj|c:\\users\\classtime\\source\\repos\\finalapojecttest4\\finalapojecttest4.model\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87D59232-6DA6-4C6F-80EE-A97AD9BB678B}|FinalApojectTest4.Model\\FinalApojectTest4.Model.csproj|solutionrelative:finalapojecttest4.model\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87D59232-6DA6-4C6F-80EE-A97AD9BB678B}|FinalApojectTest4.Model\\FinalApojectTest4.Model.csproj|c:\\users\\classtime\\source\\repos\\finalapojecttest4\\finalapojecttest4.model\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87D59232-6DA6-4C6F-80EE-A97AD9BB678B}|FinalApojectTest4.Model\\FinalApojectTest4.Model.csproj|solutionrelative:finalapojecttest4.model\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87D59232-6DA6-4C6F-80EE-A97AD9BB678B}|FinalApojectTest4.Model\\FinalApojectTest4.Model.csproj|c:\\users\\classtime\\source\\repos\\finalapojecttest4\\finalapojecttest4.model\\finalapojecttest4.model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{87D59232-6DA6-4C6F-80EE-A97AD9BB678B}|FinalApojectTest4.Model\\FinalApojectTest4.Model.csproj|solutionrelative:finalapojecttest4.model\\finalapojecttest4.model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{151F6A95-E6CE-403C-BDC5-0FEAC78C7457}|FinalApojectTest4.App\\FinalApojectTest4.App.csproj|c:\\users\\classtime\\source\\repos\\finalapojecttest4\\finalapojecttest4.app\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{151F6A95-E6CE-403C-BDC5-0FEAC78C7457}|FinalApojectTest4.App\\FinalApojectTest4.App.csproj|solutionrelative:finalapojecttest4.app\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{151F6A95-E6CE-403C-BDC5-0FEAC78C7457}|FinalApojectTest4.App\\FinalApojectTest4.App.csproj|c:\\users\\classtime\\source\\repos\\finalapojecttest4\\finalapojecttest4.app\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{151F6A95-E6CE-403C-BDC5-0FEAC78C7457}|FinalApojectTest4.App\\FinalApojectTest4.App.csproj|solutionrelative:finalapojecttest4.app\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{151F6A95-E6CE-403C-BDC5-0FEAC78C7457}|FinalApojectTest4.App\\FinalApojectTest4.App.csproj|c:\\users\\classtime\\source\\repos\\finalapojecttest4\\finalapojecttest4.app\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{151F6A95-E6CE-403C-BDC5-0FEAC78C7457}|FinalApojectTest4.App\\FinalApojectTest4.App.csproj|solutionrelative:finalapojecttest4.app\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{151F6A95-E6CE-403C-BDC5-0FEAC78C7457}|FinalApojectTest4.App\\FinalApojectTest4.App.csproj|c:\\users\\classtime\\source\\repos\\finalapojecttest4\\finalapojecttest4.app\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{151F6A95-E6CE-403C-BDC5-0FEAC78C7457}|FinalApojectTest4.App\\FinalApojectTest4.App.csproj|solutionrelative:finalapojecttest4.app\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{151F6A95-E6CE-403C-BDC5-0FEAC78C7457}|FinalApojectTest4.App\\FinalApojectTest4.App.csproj|c:\\users\\classtime\\source\\repos\\finalapojecttest4\\finalapojecttest4.app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{151F6A95-E6CE-403C-BDC5-0FEAC78C7457}|FinalApojectTest4.App\\FinalApojectTest4.App.csproj|solutionrelative:finalapojecttest4.app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{151F6A95-E6CE-403C-BDC5-0FEAC78C7457}|FinalApojectTest4.App\\FinalApojectTest4.App.csproj|c:\\users\\classtime\\source\\repos\\finalapojecttest4\\finalapojecttest4.app\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{151F6A95-E6CE-403C-BDC5-0FEAC78C7457}|FinalApojectTest4.App\\FinalApojectTest4.App.csproj|solutionrelative:finalapojecttest4.app\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{151F6A95-E6CE-403C-BDC5-0FEAC78C7457}|FinalApojectTest4.App\\FinalApojectTest4.App.csproj|c:\\users\\classtime\\source\\repos\\finalapojecttest4\\finalapojecttest4.app\\finalapojecttest4.app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{151F6A95-E6CE-403C-BDC5-0FEAC78C7457}|FinalApojectTest4.App\\FinalApojectTest4.App.csproj|solutionrelative:finalapojecttest4.app\\finalapojecttest4.app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8345DEB-27E6-464B-89CA-BA13E07CD38D}|FinalApojectTest4.BL\\FinalApojectTest4.BL.csproj|c:\\users\\classtime\\source\\repos\\finalapojecttest4\\finalapojecttest4.bl\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8345DEB-27E6-464B-89CA-BA13E07CD38D}|FinalApojectTest4.BL\\FinalApojectTest4.BL.csproj|solutionrelative:finalapojecttest4.bl\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FinalApojectTest4\\FinalApojectTest4.App\\Areas\\Admin\\Views\\Department\\Create.cshtml",
+              "RelativeDocumentMoniker": "FinalApojectTest4.App\\Areas\\Admin\\Views\\Department\\Create.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FinalApojectTest4\\FinalApojectTest4.App\\Areas\\Admin\\Views\\Department\\Create.cshtml*",
+              "RelativeToolTip": "FinalApojectTest4.App\\Areas\\Admin\\Views\\Department\\Create.cshtml*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T12:28:22.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FinalApojectTest4\\FinalApojectTest4.App\\Areas\\Admin\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "FinalApojectTest4.App\\Areas\\Admin\\Controllers\\DoctorController.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FinalApojectTest4\\FinalApojectTest4.App\\Areas\\Admin\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "FinalApojectTest4.App\\Areas\\Admin\\Controllers\\DoctorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T11:40:48.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FinalApojectTest4\\FinalApojectTest4.App\\Areas\\Admin\\Views\\Doctor\\Index.cshtml",
+              "RelativeDocumentMoniker": "FinalApojectTest4.App\\Areas\\Admin\\Views\\Doctor\\Index.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FinalApojectTest4\\FinalApojectTest4.App\\Areas\\Admin\\Views\\Doctor\\Index.cshtml",
+              "RelativeToolTip": "FinalApojectTest4.App\\Areas\\Admin\\Views\\Doctor\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T12:13:05.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FinalApojectTest4\\FinalApojectTest4.App\\Areas\\Admin\\Views\\Department\\Index.cshtml",
+              "RelativeDocumentMoniker": "FinalApojectTest4.App\\Areas\\Admin\\Views\\Department\\Index.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FinalApojectTest4\\FinalApojectTest4.App\\Areas\\Admin\\Views\\Department\\Index.cshtml*",
+              "RelativeToolTip": "FinalApojectTest4.App\\Areas\\Admin\\Views\\Department\\Index.cshtml*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T12:12:58.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FinalApojectTest4\\FinalApojectTest4.App\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "FinalApojectTest4.App\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FinalApojectTest4\\FinalApojectTest4.App\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "FinalApojectTest4.App\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T10:34:50.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FinalApojectTest4\\FinalApojectTest4.App\\Program.cs",
+              "RelativeDocumentMoniker": "FinalApojectTest4.App\\Program.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FinalApojectTest4\\FinalApojectTest4.App\\Program.cs*",
+              "RelativeToolTip": "FinalApojectTest4.App\\Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T10:31:44.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FinalApojectTest4\\FinalApojectTest4.Dal\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "FinalApojectTest4.Dal\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FinalApojectTest4\\FinalApojectTest4.Dal\\Repositories\\Repository.cs",
+              "RelativeToolTip": "FinalApojectTest4.Dal\\Repositories\\Repository.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAmwFYAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T10:52:19.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DepartmentService.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FinalApojectTest4\\FinalApojectTest4.BL\\Implementations\\Services\\DepartmentService.cs",
+              "RelativeDocumentMoniker": "FinalApojectTest4.BL\\Implementations\\Services\\DepartmentService.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FinalApojectTest4\\FinalApojectTest4.BL\\Implementations\\Services\\DepartmentService.cs",
+              "RelativeToolTip": "FinalApojectTest4.BL\\Implementations\\Services\\DepartmentService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAADgAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T11:11:19.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FinalApojectTest4\\FinalApojectTest4.Dal\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "FinalApojectTest4.Dal\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FinalApojectTest4\\FinalApojectTest4.Dal\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "FinalApojectTest4.Dal\\Repositories\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T10:54:25.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FinalApojectTest4\\FinalApojectTest4.App\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "FinalApojectTest4.App\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FinalApojectTest4\\FinalApojectTest4.App\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "FinalApojectTest4.App\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AQIAAF0BAAAAAAAAAAAAAF0BAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T10:34:02.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FinalApojectTest4\\FinalApojectTest4.App\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FinalApojectTest4.App\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FinalApojectTest4\\FinalApojectTest4.App\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FinalApojectTest4.App\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T10:27:13.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FinalApojectTest4\\FinalApojectTest4.App\\Areas\\Admin\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "FinalApojectTest4.App\\Areas\\Admin\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FinalApojectTest4\\FinalApojectTest4.App\\Areas\\Admin\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "FinalApojectTest4.App\\Areas\\Admin\\Controllers\\DepartmentController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T11:41:04.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetDepartmentDto.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FinalApojectTest4\\FinalApojectTest4.Model\\Dtos\\DepartmentDtos\\GetDepartmentDto.cs",
+              "RelativeDocumentMoniker": "FinalApojectTest4.Model\\Dtos\\DepartmentDtos\\GetDepartmentDto.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FinalApojectTest4\\FinalApojectTest4.Model\\Dtos\\DepartmentDtos\\GetDepartmentDto.cs",
+              "RelativeToolTip": "FinalApojectTest4.Model\\Dtos\\DepartmentDtos\\GetDepartmentDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T11:27:33.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DoctorService.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FinalApojectTest4\\FinalApojectTest4.BL\\Implementations\\Services\\DoctorService.cs",
+              "RelativeDocumentMoniker": "FinalApojectTest4.BL\\Implementations\\Services\\DoctorService.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FinalApojectTest4\\FinalApojectTest4.BL\\Implementations\\Services\\DoctorService.cs",
+              "RelativeToolTip": "FinalApojectTest4.BL\\Implementations\\Services\\DoctorService.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwDsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T11:10:15.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IDepartmentService.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FinalApojectTest4\\FinalApojectTest4.BL\\Implementations\\Interfaces\\IDepartmentService.cs",
+              "RelativeDocumentMoniker": "FinalApojectTest4.BL\\Implementations\\Interfaces\\IDepartmentService.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FinalApojectTest4\\FinalApojectTest4.BL\\Implementations\\Interfaces\\IDepartmentService.cs",
+              "RelativeToolTip": "FinalApojectTest4.BL\\Implementations\\Interfaces\\IDepartmentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T11:10:40.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FinalApojectTest4\\FinalApojectTest4.App\\appsettings.json",
+              "RelativeDocumentMoniker": "FinalApojectTest4.App\\appsettings.json",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FinalApojectTest4\\FinalApojectTest4.App\\appsettings.json",
+              "RelativeToolTip": "FinalApojectTest4.App\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-16T10:48:00.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IDoctorService.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FinalApojectTest4\\FinalApojectTest4.BL\\Implementations\\Interfaces\\IDoctorService.cs",
+              "RelativeDocumentMoniker": "FinalApojectTest4.BL\\Implementations\\Interfaces\\IDoctorService.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FinalApojectTest4\\FinalApojectTest4.BL\\Implementations\\Interfaces\\IDoctorService.cs",
+              "RelativeToolTip": "FinalApojectTest4.BL\\Implementations\\Interfaces\\IDoctorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T11:09:57.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UpdateDoctorDto.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FinalApojectTest4\\FinalApojectTest4.Model\\Dtos\\DoctorsDtos\\UpdateDoctorDto.cs",
+              "RelativeDocumentMoniker": "FinalApojectTest4.Model\\Dtos\\DoctorsDtos\\UpdateDoctorDto.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FinalApojectTest4\\FinalApojectTest4.Model\\Dtos\\DoctorsDtos\\UpdateDoctorDto.cs",
+              "RelativeToolTip": "FinalApojectTest4.Model\\Dtos\\DoctorsDtos\\UpdateDoctorDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T12:01:45.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CreateDoctorDto.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FinalApojectTest4\\FinalApojectTest4.Model\\Dtos\\DoctorsDtos\\CreateDoctorDto.cs",
+              "RelativeDocumentMoniker": "FinalApojectTest4.Model\\Dtos\\DoctorsDtos\\CreateDoctorDto.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FinalApojectTest4\\FinalApojectTest4.Model\\Dtos\\DoctorsDtos\\CreateDoctorDto.cs",
+              "RelativeToolTip": "FinalApojectTest4.Model\\Dtos\\DoctorsDtos\\CreateDoctorDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T11:28:09.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UpdateDepartmentDto.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FinalApojectTest4\\FinalApojectTest4.Model\\Dtos\\DepartmentDtos\\UpdateDepartmentDto.cs",
+              "RelativeDocumentMoniker": "FinalApojectTest4.Model\\Dtos\\DepartmentDtos\\UpdateDepartmentDto.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FinalApojectTest4\\FinalApojectTest4.Model\\Dtos\\DepartmentDtos\\UpdateDepartmentDto.cs",
+              "RelativeToolTip": "FinalApojectTest4.Model\\Dtos\\DepartmentDtos\\UpdateDepartmentDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T11:57:31.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FinalApojectTest4\\FinalApojectTest4.Model\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "FinalApojectTest4.Model\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FinalApojectTest4\\FinalApojectTest4.Model\\Models\\Department.cs",
+              "RelativeToolTip": "FinalApojectTest4.Model\\Models\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T11:13:43.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FinalApojectTest4\\FinalApojectTest4.App\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "FinalApojectTest4.App\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FinalApojectTest4\\FinalApojectTest4.App\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "FinalApojectTest4.App\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T10:33:56.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FinalApojectTest4\\FinalApojectTest4.App\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "FinalApojectTest4.App\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FinalApojectTest4\\FinalApojectTest4.App\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "FinalApojectTest4.App\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T11:39:42.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FinalApojectTest4\\FinalApojectTest4.App\\Areas\\Admin\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "FinalApojectTest4.App\\Areas\\Admin\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FinalApojectTest4\\FinalApojectTest4.App\\Areas\\Admin\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "FinalApojectTest4.App\\Areas\\Admin\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T11:40:09.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FinalApojectTest4\\FinalApojectTest4.App\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "FinalApojectTest4.App\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FinalApojectTest4\\FinalApojectTest4.App\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "FinalApojectTest4.App\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T10:30:28.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DoctorProfile.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FinalApojectTest4\\FinalApojectTest4.BL\\Profiles\\DoctorProfile.cs",
+              "RelativeDocumentMoniker": "FinalApojectTest4.BL\\Profiles\\DoctorProfile.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FinalApojectTest4\\FinalApojectTest4.BL\\Profiles\\DoctorProfile.cs",
+              "RelativeToolTip": "FinalApojectTest4.BL\\Profiles\\DoctorProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T11:25:33.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DepartmentProfile.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FinalApojectTest4\\FinalApojectTest4.BL\\Profiles\\DepartmentProfile.cs",
+              "RelativeDocumentMoniker": "FinalApojectTest4.BL\\Profiles\\DepartmentProfile.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FinalApojectTest4\\FinalApojectTest4.BL\\Profiles\\DepartmentProfile.cs",
+              "RelativeToolTip": "FinalApojectTest4.BL\\Profiles\\DepartmentProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T11:25:48.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GetDoctorDto.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FinalApojectTest4\\FinalApojectTest4.Model\\Dtos\\DoctorsDtos\\GetDoctorDto.cs",
+              "RelativeDocumentMoniker": "FinalApojectTest4.Model\\Dtos\\DoctorsDtos\\GetDoctorDto.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FinalApojectTest4\\FinalApojectTest4.Model\\Dtos\\DoctorsDtos\\GetDoctorDto.cs",
+              "RelativeToolTip": "FinalApojectTest4.Model\\Dtos\\DoctorsDtos\\GetDoctorDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T11:28:21.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FinalApojectTest4\\FinalApojectTest4.Model\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "FinalApojectTest4.Model\\Models\\Doctor.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FinalApojectTest4\\FinalApojectTest4.Model\\Models\\Doctor.cs",
+              "RelativeToolTip": "FinalApojectTest4.Model\\Models\\Doctor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T11:28:25.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CreateDepartmentDto.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FinalApojectTest4\\FinalApojectTest4.Model\\Dtos\\DepartmentDtos\\CreateDepartmentDto.cs",
+              "RelativeDocumentMoniker": "FinalApojectTest4.Model\\Dtos\\DepartmentDtos\\CreateDepartmentDto.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FinalApojectTest4\\FinalApojectTest4.Model\\Dtos\\DepartmentDtos\\CreateDepartmentDto.cs",
+              "RelativeToolTip": "FinalApojectTest4.Model\\Dtos\\DepartmentDtos\\CreateDepartmentDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T11:27:16.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FinalApojectTest4\\FinalApojectTest4.Model\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "FinalApojectTest4.Model\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FinalApojectTest4\\FinalApojectTest4.Model\\Models\\AppUser.cs",
+              "RelativeToolTip": "FinalApojectTest4.Model\\Models\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T10:45:36.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FinalApojectTest4\\FinalApojectTest4.Dal\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "FinalApojectTest4.Dal\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FinalApojectTest4\\FinalApojectTest4.Dal\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "FinalApojectTest4.Dal\\DAL\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T10:42:44.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FinalApojectTest4\\FinalApojectTest4.Model\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "FinalApojectTest4.Model\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FinalApojectTest4\\FinalApojectTest4.Model\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "FinalApojectTest4.Model\\Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T10:37:54.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FinalApojectTest4.Model",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FinalApojectTest4\\FinalApojectTest4.Model\\FinalApojectTest4.Model.csproj",
+              "RelativeDocumentMoniker": "FinalApojectTest4.Model\\FinalApojectTest4.Model.csproj",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FinalApojectTest4\\FinalApojectTest4.Model\\FinalApojectTest4.Model.csproj",
+              "RelativeToolTip": "FinalApojectTest4.Model\\FinalApojectTest4.Model.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-16T10:40:59.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FinalApojectTest4\\FinalApojectTest4.App\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "FinalApojectTest4.App\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FinalApojectTest4\\FinalApojectTest4.App\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "FinalApojectTest4.App\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T10:34:40.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FinalApojectTest4\\FinalApojectTest4.App\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FinalApojectTest4.App\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FinalApojectTest4\\FinalApojectTest4.App\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FinalApojectTest4.App\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T10:34:33.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FinalApojectTest4\\FinalApojectTest4.App\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "FinalApojectTest4.App\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FinalApojectTest4\\FinalApojectTest4.App\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "FinalApojectTest4.App\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-16T10:31:23.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FinalApojectTest4\\FinalApojectTest4.App\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "FinalApojectTest4.App\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FinalApojectTest4\\FinalApojectTest4.App\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "FinalApojectTest4.App\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T10:30:05.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FinalApojectTest4\\FinalApojectTest4.App\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FinalApojectTest4.App\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FinalApojectTest4\\FinalApojectTest4.App\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FinalApojectTest4.App\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAM4AAAAAAAAAAAAqwOYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T10:29:04.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FinalApojectTest4\\FinalApojectTest4.App\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FinalApojectTest4.App\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FinalApojectTest4\\FinalApojectTest4.App\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FinalApojectTest4.App\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAGkBAAAAAAAAAAAAAGkBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T10:27:20.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "FinalApojectTest4.App",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FinalApojectTest4\\FinalApojectTest4.App\\FinalApojectTest4.App.csproj",
+              "RelativeDocumentMoniker": "FinalApojectTest4.App\\FinalApojectTest4.App.csproj",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FinalApojectTest4\\FinalApojectTest4.App\\FinalApojectTest4.App.csproj",
+              "RelativeToolTip": "FinalApojectTest4.App\\FinalApojectTest4.App.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-16T10:26:39.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FinalApojectTest4\\FinalApojectTest4.BL\\Class1.cs",
+              "RelativeDocumentMoniker": "FinalApojectTest4.BL\\Class1.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FinalApojectTest4\\FinalApojectTest4.BL\\Class1.cs",
+              "RelativeToolTip": "FinalApojectTest4.BL\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T10:26:15.566Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+C:\Users\classtime\source\repos\FinalApojectTest4\FinalApojectTest4.Dal\bin\Debug\net8.0\FinalApojectTest4.Dal.deps.json
+C:\Users\classtime\source\repos\FinalApojectTest4\FinalApojectTest4.Dal\bin\Debug\net8.0\FinalApojectTest4.Dal.runtimeconfig.json
+C:\Users\classtime\source\repos\FinalApojectTest4\FinalApojectTest4.Dal\bin\Debug\net8.0\FinalApojectTest4.Dal.dll
+C:\Users\classtime\source\repos\FinalApojectTest4\FinalApojectTest4.Dal\bin\Debug\net8.0\FinalApojectTest4.Dal.pdb
+C:\Users\classtime\source\repos\FinalApojectTest4\FinalApojectTest4.Dal\bin\Debug\net8.0\FinalApojectTest4.Model.dll
+C:\Users\classtime\source\repos\FinalApojectTest4\FinalApojectTest4.Dal\bin\Debug\net8.0\FinalApojectTest4.Model.pdb
+C:\Users\classtime\source\repos\FinalApojectTest4\FinalApojectTest4.Dal\obj\Debug\net8.0\FinalApojectTest4.Dal.csproj.AssemblyReference.cache
+C:\Users\classtime\source\repos\FinalApojectTest4\FinalApojectTest4.Dal\obj\Debug\net8.0\FinalApojectTest4.Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\classtime\source\repos\FinalApojectTest4\FinalApojectTest4.Dal\obj\Debug\net8.0\FinalApojectTest4.Dal.AssemblyInfoInputs.cache
+C:\Users\classtime\source\repos\FinalApojectTest4\FinalApojectTest4.Dal\obj\Debug\net8.0\FinalApojectTest4.Dal.AssemblyInfo.cs
+C:\Users\classtime\source\repos\FinalApojectTest4\FinalApojectTest4.Dal\obj\Debug\net8.0\FinalApojectTest4.Dal.csproj.CoreCompileInputs.cache
+C:\Users\classtime\source\repos\FinalApojectTest4\FinalApojectTest4.Dal\obj\Debug\net8.0\FinalApo.65BDC88C.Up2Date
+C:\Users\classtime\source\repos\FinalApojectTest4\FinalApojectTest4.Dal\obj\Debug\net8.0\FinalApojectTest4.Dal.dll
+C:\Users\classtime\source\repos\FinalApojectTest4\FinalApojectTest4.Dal\obj\Debug\net8.0\refint\FinalApojectTest4.Dal.dll
+C:\Users\classtime\source\repos\FinalApojectTest4\FinalApojectTest4.Dal\obj\Debug\net8.0\FinalApojectTest4.Dal.pdb
+C:\Users\classtime\source\repos\FinalApojectTest4\FinalApojectTest4.Dal\obj\Debug\net8.0\FinalApojectTest4.Dal.genruntimeconfig.cache
+C:\Users\classtime\source\repos\FinalApojectTest4\FinalApojectTest4.Dal\obj\Debug\net8.0\ref\FinalApojectTest4.Dal.dll

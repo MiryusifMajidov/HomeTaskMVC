@@ -1,0 +1,17 @@
+C:\Users\classtime\source\repos\FinalApojectTest4\FinalApojectTest4.BL\bin\Debug\net8.0\FinalApojectTest4.BL.deps.json
+C:\Users\classtime\source\repos\FinalApojectTest4\FinalApojectTest4.BL\bin\Debug\net8.0\FinalApojectTest4.BL.dll
+C:\Users\classtime\source\repos\FinalApojectTest4\FinalApojectTest4.BL\bin\Debug\net8.0\FinalApojectTest4.BL.pdb
+C:\Users\classtime\source\repos\FinalApojectTest4\FinalApojectTest4.BL\bin\Debug\net8.0\FinalApojectTest4.Dal.dll
+C:\Users\classtime\source\repos\FinalApojectTest4\FinalApojectTest4.BL\bin\Debug\net8.0\FinalApojectTest4.Model.dll
+C:\Users\classtime\source\repos\FinalApojectTest4\FinalApojectTest4.BL\bin\Debug\net8.0\FinalApojectTest4.Dal.pdb
+C:\Users\classtime\source\repos\FinalApojectTest4\FinalApojectTest4.BL\bin\Debug\net8.0\FinalApojectTest4.Model.pdb
+C:\Users\classtime\source\repos\FinalApojectTest4\FinalApojectTest4.BL\obj\Debug\net8.0\FinalApojectTest4.BL.csproj.AssemblyReference.cache
+C:\Users\classtime\source\repos\FinalApojectTest4\FinalApojectTest4.BL\obj\Debug\net8.0\FinalApojectTest4.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\classtime\source\repos\FinalApojectTest4\FinalApojectTest4.BL\obj\Debug\net8.0\FinalApojectTest4.BL.AssemblyInfoInputs.cache
+C:\Users\classtime\source\repos\FinalApojectTest4\FinalApojectTest4.BL\obj\Debug\net8.0\FinalApojectTest4.BL.AssemblyInfo.cs
+C:\Users\classtime\source\repos\FinalApojectTest4\FinalApojectTest4.BL\obj\Debug\net8.0\FinalApojectTest4.BL.csproj.CoreCompileInputs.cache
+C:\Users\classtime\source\repos\FinalApojectTest4\FinalApojectTest4.BL\obj\Debug\net8.0\FinalApo.B3E4E6FA.Up2Date
+C:\Users\classtime\source\repos\FinalApojectTest4\FinalApojectTest4.BL\obj\Debug\net8.0\FinalApojectTest4.BL.dll
+C:\Users\classtime\source\repos\FinalApojectTest4\FinalApojectTest4.BL\obj\Debug\net8.0\refint\FinalApojectTest4.BL.dll
+C:\Users\classtime\source\repos\FinalApojectTest4\FinalApojectTest4.BL\obj\Debug\net8.0\FinalApojectTest4.BL.pdb
+C:\Users\classtime\source\repos\FinalApojectTest4\FinalApojectTest4.BL\obj\Debug\net8.0\ref\FinalApojectTest4.BL.dll

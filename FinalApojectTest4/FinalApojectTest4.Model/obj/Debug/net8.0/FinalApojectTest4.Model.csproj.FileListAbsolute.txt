@@ -1,0 +1,12 @@
+C:\Users\classtime\source\repos\FinalApojectTest4\FinalApojectTest4.Model\bin\Debug\net8.0\FinalApojectTest4.Model.deps.json
+C:\Users\classtime\source\repos\FinalApojectTest4\FinalApojectTest4.Model\bin\Debug\net8.0\FinalApojectTest4.Model.dll
+C:\Users\classtime\source\repos\FinalApojectTest4\FinalApojectTest4.Model\bin\Debug\net8.0\FinalApojectTest4.Model.pdb
+C:\Users\classtime\source\repos\FinalApojectTest4\FinalApojectTest4.Model\obj\Debug\net8.0\FinalApojectTest4.Model.csproj.AssemblyReference.cache
+C:\Users\classtime\source\repos\FinalApojectTest4\FinalApojectTest4.Model\obj\Debug\net8.0\FinalApojectTest4.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\classtime\source\repos\FinalApojectTest4\FinalApojectTest4.Model\obj\Debug\net8.0\FinalApojectTest4.Model.AssemblyInfoInputs.cache
+C:\Users\classtime\source\repos\FinalApojectTest4\FinalApojectTest4.Model\obj\Debug\net8.0\FinalApojectTest4.Model.AssemblyInfo.cs
+C:\Users\classtime\source\repos\FinalApojectTest4\FinalApojectTest4.Model\obj\Debug\net8.0\FinalApojectTest4.Model.csproj.CoreCompileInputs.cache
+C:\Users\classtime\source\repos\FinalApojectTest4\FinalApojectTest4.Model\obj\Debug\net8.0\FinalApojectTest4.Model.dll
+C:\Users\classtime\source\repos\FinalApojectTest4\FinalApojectTest4.Model\obj\Debug\net8.0\refint\FinalApojectTest4.Model.dll
+C:\Users\classtime\source\repos\FinalApojectTest4\FinalApojectTest4.Model\obj\Debug\net8.0\FinalApojectTest4.Model.pdb
+C:\Users\classtime\source\repos\FinalApojectTest4\FinalApojectTest4.Model\obj\Debug\net8.0\ref\FinalApojectTest4.Model.dll

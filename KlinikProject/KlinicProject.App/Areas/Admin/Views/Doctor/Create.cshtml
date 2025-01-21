@@ -1,0 +1,74 @@
+﻿@using KlinicProject.Model.Dtos.DoctorDtos
+@model DoctorCreateDto
+<div class="col-lg-6">
+    <div class="card-style settings-card-2 mb-30">
+        <div class="title mb-30">
+            <h6>Doctor</h6>
+        </div>
+        <form method="post" enctype="multipart/form-data" asp-action="Create">
+            <div class="row">
+                <div class="col-12">
+                    <div class="input-style-1">
+                        <label>Full Name</label>
+                        <input asp-for="Name" placeholder="Full Name">
+                    </div>
+                </div>
+                <div class="profile-info">
+                    <div class="d-flex align-items-center mb-30">
+                        <div class="profile-image">
+                            <img id="profileImage" src="assets/images/profile/profile-1.png" alt="">
+                            <div class="update-image">
+                                <input asp-for="ImageUrl" id="fileInput" accept="image/*">
+                                <label for="fileInput"><i class="lni lni-cloud-upload"></i></label>
+                            </div>
+                        </div>
+                        <div class="profile-meta">
+                            <h5 class="text-bold text-dark mb-10">John Doe</h5>
+                            <p class="text-sm text-gray">Web &amp; UI/UX Design</p>
+                        </div>
+                    </div>
+                </div>
+
+
+
+                <div class="col-xxl-4">
+                    <div class="select-style-1">
+                        <label>Department</label>
+                        <div class="select-position">
+                            <select asp-for="DepartmentId" class="light-bg">
+                                @foreach (var department in ViewBag.Departaments)
+                                {
+                                    <option value="@department.Id">@department.Title</option>
+                                }
+                               
+                            </select>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12">
+                    <button type="submit" class="main-btn primary-btn btn-hover">
+                        add department
+                    </button>
+                </div>
+            </div>
+        </form>
+    </div>
+    <!-- end card -->
+</div>
+
+
+<script>
+    const fileInput = document.getElementById('fileInput');
+    const profileImage = document.getElementById('profileImage');
+
+    fileInput.addEventListener('change', function (event) {
+        const file = event.target.files[0];
+        if (file) {
+            const reader = new FileReader();
+            reader.onload = function (e) {
+                profileImage.src = e.target.result;
+            };
+            reader.readAsDataURL(file);
+        }
+    });
+</script>

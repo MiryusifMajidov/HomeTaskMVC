@@ -1,0 +1,809 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\KlinikProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9755503F-7C1A-48C7-B6C6-467066603F39}|KlinicProject.App\\KlinicProject.App.csproj|c:\\users\\user\\source\\repos\\klinikproject\\klinicproject.app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9755503F-7C1A-48C7-B6C6-467066603F39}|KlinicProject.App\\KlinicProject.App.csproj|solutionrelative:klinicproject.app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9755503F-7C1A-48C7-B6C6-467066603F39}|KlinicProject.App\\KlinicProject.App.csproj|c:\\users\\user\\source\\repos\\klinikproject\\klinicproject.app\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9755503F-7C1A-48C7-B6C6-467066603F39}|KlinicProject.App\\KlinicProject.App.csproj|solutionrelative:klinicproject.app\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9755503F-7C1A-48C7-B6C6-467066603F39}|KlinicProject.App\\KlinicProject.App.csproj|c:\\users\\user\\source\\repos\\klinikproject\\klinicproject.app\\areas\\admin\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9755503F-7C1A-48C7-B6C6-467066603F39}|KlinicProject.App\\KlinicProject.App.csproj|solutionrelative:klinicproject.app\\areas\\admin\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9755503F-7C1A-48C7-B6C6-467066603F39}|KlinicProject.App\\KlinicProject.App.csproj|c:\\users\\user\\source\\repos\\klinikproject\\klinicproject.app\\areas\\admin\\views\\doctor\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9755503F-7C1A-48C7-B6C6-467066603F39}|KlinicProject.App\\KlinicProject.App.csproj|solutionrelative:klinicproject.app\\areas\\admin\\views\\doctor\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9755503F-7C1A-48C7-B6C6-467066603F39}|KlinicProject.App\\KlinicProject.App.csproj|c:\\users\\user\\source\\repos\\klinikproject\\klinicproject.app\\areas\\admin\\views\\doctor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9755503F-7C1A-48C7-B6C6-467066603F39}|KlinicProject.App\\KlinicProject.App.csproj|solutionrelative:klinicproject.app\\areas\\admin\\views\\doctor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1968411-5157-47BC-A08F-B477FE3D9102}|KlinicProject.BL\\KlinicProject.BL.csproj|c:\\users\\user\\source\\repos\\klinikproject\\klinicproject.bl\\implementations\\services\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1968411-5157-47BC-A08F-B477FE3D9102}|KlinicProject.BL\\KlinicProject.BL.csproj|solutionrelative:klinicproject.bl\\implementations\\services\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09AB962B-561F-4346-9A3F-28192FD6AB79}|KlinicProject.Dal\\KlinicProject.Dal.csproj|c:\\users\\user\\source\\repos\\klinikproject\\klinicproject.dal\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09AB962B-561F-4346-9A3F-28192FD6AB79}|KlinicProject.Dal\\KlinicProject.Dal.csproj|solutionrelative:klinicproject.dal\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1968411-5157-47BC-A08F-B477FE3D9102}|KlinicProject.BL\\KlinicProject.BL.csproj|c:\\users\\user\\source\\repos\\klinikproject\\klinicproject.bl\\implementations\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1968411-5157-47BC-A08F-B477FE3D9102}|KlinicProject.BL\\KlinicProject.BL.csproj|solutionrelative:klinicproject.bl\\implementations\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09AB962B-561F-4346-9A3F-28192FD6AB79}|KlinicProject.Dal\\KlinicProject.Dal.csproj|c:\\users\\user\\source\\repos\\klinikproject\\klinicproject.dal\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09AB962B-561F-4346-9A3F-28192FD6AB79}|KlinicProject.Dal\\KlinicProject.Dal.csproj|solutionrelative:klinicproject.dal\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9755503F-7C1A-48C7-B6C6-467066603F39}|KlinicProject.App\\KlinicProject.App.csproj|c:\\users\\user\\source\\repos\\klinikproject\\klinicproject.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9755503F-7C1A-48C7-B6C6-467066603F39}|KlinicProject.App\\KlinicProject.App.csproj|solutionrelative:klinicproject.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC92EC0-A983-4F4E-9B4D-73D0082CF544}|KlinicProject.Model\\KlinicProject.Model.csproj|c:\\users\\user\\source\\repos\\klinikproject\\klinicproject.model\\dtos\\doctordtos\\doctorcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACC92EC0-A983-4F4E-9B4D-73D0082CF544}|KlinicProject.Model\\KlinicProject.Model.csproj|solutionrelative:klinicproject.model\\dtos\\doctordtos\\doctorcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1968411-5157-47BC-A08F-B477FE3D9102}|KlinicProject.BL\\KlinicProject.BL.csproj|c:\\users\\user\\source\\repos\\klinikproject\\klinicproject.bl\\profiles\\doctorprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1968411-5157-47BC-A08F-B477FE3D9102}|KlinicProject.BL\\KlinicProject.BL.csproj|solutionrelative:klinicproject.bl\\profiles\\doctorprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9755503F-7C1A-48C7-B6C6-467066603F39}|KlinicProject.App\\KlinicProject.App.csproj|c:\\users\\user\\source\\repos\\klinikproject\\klinicproject.app\\areas\\admin\\views\\doctor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9755503F-7C1A-48C7-B6C6-467066603F39}|KlinicProject.App\\KlinicProject.App.csproj|solutionrelative:klinicproject.app\\areas\\admin\\views\\doctor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC92EC0-A983-4F4E-9B4D-73D0082CF544}|KlinicProject.Model\\KlinicProject.Model.csproj|c:\\users\\user\\source\\repos\\klinikproject\\klinicproject.model\\dtos\\doctordtos\\doctorgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACC92EC0-A983-4F4E-9B4D-73D0082CF544}|KlinicProject.Model\\KlinicProject.Model.csproj|solutionrelative:klinicproject.model\\dtos\\doctordtos\\doctorgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC92EC0-A983-4F4E-9B4D-73D0082CF544}|KlinicProject.Model\\KlinicProject.Model.csproj|c:\\users\\user\\source\\repos\\klinikproject\\klinicproject.model\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACC92EC0-A983-4F4E-9B4D-73D0082CF544}|KlinicProject.Model\\KlinicProject.Model.csproj|solutionrelative:klinicproject.model\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC92EC0-A983-4F4E-9B4D-73D0082CF544}|KlinicProject.Model\\KlinicProject.Model.csproj|c:\\users\\user\\source\\repos\\klinikproject\\klinicproject.model\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACC92EC0-A983-4F4E-9B4D-73D0082CF544}|KlinicProject.Model\\KlinicProject.Model.csproj|solutionrelative:klinicproject.model\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC92EC0-A983-4F4E-9B4D-73D0082CF544}|KlinicProject.Model\\KlinicProject.Model.csproj|c:\\users\\user\\source\\repos\\klinikproject\\klinicproject.model\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACC92EC0-A983-4F4E-9B4D-73D0082CF544}|KlinicProject.Model\\KlinicProject.Model.csproj|solutionrelative:klinicproject.model\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9755503F-7C1A-48C7-B6C6-467066603F39}|KlinicProject.App\\KlinicProject.App.csproj|c:\\users\\user\\source\\repos\\klinikproject\\klinicproject.app\\areas\\admin\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9755503F-7C1A-48C7-B6C6-467066603F39}|KlinicProject.App\\KlinicProject.App.csproj|solutionrelative:klinicproject.app\\areas\\admin\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1968411-5157-47BC-A08F-B477FE3D9102}|KlinicProject.BL\\KlinicProject.BL.csproj|c:\\users\\user\\source\\repos\\klinikproject\\klinicproject.bl\\implementations\\interfaces\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1968411-5157-47BC-A08F-B477FE3D9102}|KlinicProject.BL\\KlinicProject.BL.csproj|solutionrelative:klinicproject.bl\\implementations\\interfaces\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9755503F-7C1A-48C7-B6C6-467066603F39}|KlinicProject.App\\KlinicProject.App.csproj|c:\\users\\user\\source\\repos\\klinikproject\\klinicproject.app\\areas\\admin\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9755503F-7C1A-48C7-B6C6-467066603F39}|KlinicProject.App\\KlinicProject.App.csproj|solutionrelative:klinicproject.app\\areas\\admin\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9755503F-7C1A-48C7-B6C6-467066603F39}|KlinicProject.App\\KlinicProject.App.csproj|c:\\users\\user\\source\\repos\\klinikproject\\klinicproject.app\\areas\\admin\\views\\department\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9755503F-7C1A-48C7-B6C6-467066603F39}|KlinicProject.App\\KlinicProject.App.csproj|solutionrelative:klinicproject.app\\areas\\admin\\views\\department\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC92EC0-A983-4F4E-9B4D-73D0082CF544}|KlinicProject.Model\\KlinicProject.Model.csproj|c:\\users\\user\\source\\repos\\klinikproject\\klinicproject.model\\dtos\\departmentdtos\\departmentgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACC92EC0-A983-4F4E-9B4D-73D0082CF544}|KlinicProject.Model\\KlinicProject.Model.csproj|solutionrelative:klinicproject.model\\dtos\\departmentdtos\\departmentgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1968411-5157-47BC-A08F-B477FE3D9102}|KlinicProject.BL\\KlinicProject.BL.csproj|c:\\users\\user\\source\\repos\\klinikproject\\klinicproject.bl\\implementations\\interfaces\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1968411-5157-47BC-A08F-B477FE3D9102}|KlinicProject.BL\\KlinicProject.BL.csproj|solutionrelative:klinicproject.bl\\implementations\\interfaces\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1968411-5157-47BC-A08F-B477FE3D9102}|KlinicProject.BL\\KlinicProject.BL.csproj|c:\\users\\user\\source\\repos\\klinikproject\\klinicproject.bl\\profiles\\departmentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1968411-5157-47BC-A08F-B477FE3D9102}|KlinicProject.BL\\KlinicProject.BL.csproj|solutionrelative:klinicproject.bl\\profiles\\departmentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9755503F-7C1A-48C7-B6C6-467066603F39}|KlinicProject.App\\KlinicProject.App.csproj|c:\\users\\user\\source\\repos\\klinikproject\\klinicproject.app\\areas\\admin\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9755503F-7C1A-48C7-B6C6-467066603F39}|KlinicProject.App\\KlinicProject.App.csproj|solutionrelative:klinicproject.app\\areas\\admin\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1968411-5157-47BC-A08F-B477FE3D9102}|KlinicProject.BL\\KlinicProject.BL.csproj|c:\\users\\user\\source\\repos\\klinikproject\\klinicproject.bl\\klinicproject.bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A1968411-5157-47BC-A08F-B477FE3D9102}|KlinicProject.BL\\KlinicProject.BL.csproj|solutionrelative:klinicproject.bl\\klinicproject.bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC92EC0-A983-4F4E-9B4D-73D0082CF544}|KlinicProject.Model\\KlinicProject.Model.csproj|c:\\users\\user\\source\\repos\\klinikproject\\klinicproject.model\\dtos\\departmentdtos\\departmentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACC92EC0-A983-4F4E-9B4D-73D0082CF544}|KlinicProject.Model\\KlinicProject.Model.csproj|solutionrelative:klinicproject.model\\dtos\\departmentdtos\\departmentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1968411-5157-47BC-A08F-B477FE3D9102}|KlinicProject.BL\\KlinicProject.BL.csproj|c:\\users\\user\\source\\repos\\klinikproject\\klinicproject.bl\\customextension\\fileuploadextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1968411-5157-47BC-A08F-B477FE3D9102}|KlinicProject.BL\\KlinicProject.BL.csproj|solutionrelative:klinicproject.bl\\customextension\\fileuploadextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9755503F-7C1A-48C7-B6C6-467066603F39}|KlinicProject.App\\KlinicProject.App.csproj|c:\\users\\user\\source\\repos\\klinikproject\\klinicproject.app\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9755503F-7C1A-48C7-B6C6-467066603F39}|KlinicProject.App\\KlinicProject.App.csproj|solutionrelative:klinicproject.app\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9755503F-7C1A-48C7-B6C6-467066603F39}|KlinicProject.App\\KlinicProject.App.csproj|c:\\users\\user\\source\\repos\\klinikproject\\klinicproject.app\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9755503F-7C1A-48C7-B6C6-467066603F39}|KlinicProject.App\\KlinicProject.App.csproj|solutionrelative:klinicproject.app\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9755503F-7C1A-48C7-B6C6-467066603F39}|KlinicProject.App\\KlinicProject.App.csproj|c:\\users\\user\\source\\repos\\klinikproject\\klinicproject.app\\areas\\admin\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9755503F-7C1A-48C7-B6C6-467066603F39}|KlinicProject.App\\KlinicProject.App.csproj|solutionrelative:klinicproject.app\\areas\\admin\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9755503F-7C1A-48C7-B6C6-467066603F39}|KlinicProject.App\\KlinicProject.App.csproj|c:\\users\\user\\source\\repos\\klinikproject\\klinicproject.app\\areas\\admin\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9755503F-7C1A-48C7-B6C6-467066603F39}|KlinicProject.App\\KlinicProject.App.csproj|solutionrelative:klinicproject.app\\areas\\admin\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9755503F-7C1A-48C7-B6C6-467066603F39}|KlinicProject.App\\KlinicProject.App.csproj|c:\\users\\user\\source\\repos\\klinikproject\\klinicproject.app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9755503F-7C1A-48C7-B6C6-467066603F39}|KlinicProject.App\\KlinicProject.App.csproj|solutionrelative:klinicproject.app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9755503F-7C1A-48C7-B6C6-467066603F39}|KlinicProject.App\\KlinicProject.App.csproj|c:\\users\\user\\source\\repos\\klinikproject\\klinicproject.app\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9755503F-7C1A-48C7-B6C6-467066603F39}|KlinicProject.App\\KlinicProject.App.csproj|solutionrelative:klinicproject.app\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9755503F-7C1A-48C7-B6C6-467066603F39}|KlinicProject.App\\KlinicProject.App.csproj|c:\\users\\user\\source\\repos\\klinikproject\\klinicproject.app\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9755503F-7C1A-48C7-B6C6-467066603F39}|KlinicProject.App\\KlinicProject.App.csproj|solutionrelative:klinicproject.app\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC92EC0-A983-4F4E-9B4D-73D0082CF544}|KlinicProject.Model\\KlinicProject.Model.csproj|c:\\users\\user\\source\\repos\\klinikproject\\klinicproject.model\\dtos\\appuserdtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACC92EC0-A983-4F4E-9B4D-73D0082CF544}|KlinicProject.Model\\KlinicProject.Model.csproj|solutionrelative:klinicproject.model\\dtos\\appuserdtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC92EC0-A983-4F4E-9B4D-73D0082CF544}|KlinicProject.Model\\KlinicProject.Model.csproj|c:\\users\\user\\source\\repos\\klinikproject\\klinicproject.model\\dtos\\appuserdtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACC92EC0-A983-4F4E-9B4D-73D0082CF544}|KlinicProject.Model\\KlinicProject.Model.csproj|solutionrelative:klinicproject.model\\dtos\\appuserdtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC92EC0-A983-4F4E-9B4D-73D0082CF544}|KlinicProject.Model\\KlinicProject.Model.csproj|c:\\users\\user\\source\\repos\\klinikproject\\klinicproject.model\\klinicproject.model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ACC92EC0-A983-4F4E-9B4D-73D0082CF544}|KlinicProject.Model\\KlinicProject.Model.csproj|solutionrelative:klinicproject.model\\klinicproject.model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09AB962B-561F-4346-9A3F-28192FD6AB79}|KlinicProject.Dal\\KlinicProject.Dal.csproj|c:\\users\\user\\source\\repos\\klinikproject\\klinicproject.dal\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09AB962B-561F-4346-9A3F-28192FD6AB79}|KlinicProject.Dal\\KlinicProject.Dal.csproj|solutionrelative:klinicproject.dal\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09AB962B-561F-4346-9A3F-28192FD6AB79}|KlinicProject.Dal\\KlinicProject.Dal.csproj|c:\\users\\user\\source\\repos\\klinikproject\\klinicproject.dal\\migrations\\20250118232004_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09AB962B-561F-4346-9A3F-28192FD6AB79}|KlinicProject.Dal\\KlinicProject.Dal.csproj|solutionrelative:klinicproject.dal\\migrations\\20250118232004_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC92EC0-A983-4F4E-9B4D-73D0082CF544}|KlinicProject.Model\\KlinicProject.Model.csproj|c:\\users\\user\\source\\repos\\klinikproject\\klinicproject.model\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACC92EC0-A983-4F4E-9B4D-73D0082CF544}|KlinicProject.Model\\KlinicProject.Model.csproj|solutionrelative:klinicproject.model\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09AB962B-561F-4346-9A3F-28192FD6AB79}|KlinicProject.Dal\\KlinicProject.Dal.csproj|c:\\users\\user\\source\\repos\\klinikproject\\klinicproject.dal\\klinicproject.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{09AB962B-561F-4346-9A3F-28192FD6AB79}|KlinicProject.Dal\\KlinicProject.Dal.csproj|solutionrelative:klinicproject.dal\\klinicproject.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9755503F-7C1A-48C7-B6C6-467066603F39}|KlinicProject.App\\KlinicProject.App.csproj|c:\\users\\user\\source\\repos\\klinikproject\\klinicproject.app\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9755503F-7C1A-48C7-B6C6-467066603F39}|KlinicProject.App\\KlinicProject.App.csproj|solutionrelative:klinicproject.app\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9755503F-7C1A-48C7-B6C6-467066603F39}|KlinicProject.App\\KlinicProject.App.csproj|c:\\users\\user\\source\\repos\\klinikproject\\klinicproject.app\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9755503F-7C1A-48C7-B6C6-467066603F39}|KlinicProject.App\\KlinicProject.App.csproj|solutionrelative:klinicproject.app\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9755503F-7C1A-48C7-B6C6-467066603F39}|KlinicProject.App\\KlinicProject.App.csproj|c:\\users\\user\\source\\repos\\klinikproject\\klinicproject.app\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9755503F-7C1A-48C7-B6C6-467066603F39}|KlinicProject.App\\KlinicProject.App.csproj|solutionrelative:klinicproject.app\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9755503F-7C1A-48C7-B6C6-467066603F39}|KlinicProject.App\\KlinicProject.App.csproj|c:\\users\\user\\source\\repos\\klinikproject\\klinicproject.app\\klinicproject.app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9755503F-7C1A-48C7-B6C6-467066603F39}|KlinicProject.App\\KlinicProject.App.csproj|solutionrelative:klinicproject.app\\klinicproject.app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9755503F-7C1A-48C7-B6C6-467066603F39}|KlinicProject.App\\KlinicProject.App.csproj|c:\\users\\user\\source\\repos\\klinikproject\\klinicproject.app\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9755503F-7C1A-48C7-B6C6-467066603F39}|KlinicProject.App\\KlinicProject.App.csproj|solutionrelative:klinicproject.app\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9755503F-7C1A-48C7-B6C6-467066603F39}|KlinicProject.App\\KlinicProject.App.csproj|c:\\users\\user\\source\\repos\\klinikproject\\klinicproject.app\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9755503F-7C1A-48C7-B6C6-467066603F39}|KlinicProject.App\\KlinicProject.App.csproj|solutionrelative:klinicproject.app\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9755503F-7C1A-48C7-B6C6-467066603F39}|KlinicProject.App\\KlinicProject.App.csproj|c:\\users\\user\\source\\repos\\klinikproject\\klinicproject.app\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9755503F-7C1A-48C7-B6C6-467066603F39}|KlinicProject.App\\KlinicProject.App.csproj|solutionrelative:klinicproject.app\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.Model\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "KlinicProject.Model\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.Model\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "KlinicProject.Model\\Models\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T23:19:11.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.Model\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "KlinicProject.Model\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.Model\\Models\\Department.cs",
+              "RelativeToolTip": "KlinicProject.Model\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T23:09:01.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.Dal\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "KlinicProject.Dal\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.Dal\\Repositories\\Repository.cs",
+              "RelativeToolTip": "KlinicProject.Dal\\Repositories\\Repository.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAApwEMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T23:21:34.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.App\\Program.cs",
+              "RelativeDocumentMoniker": "KlinicProject.App\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.App\\Program.cs",
+              "RelativeToolTip": "KlinicProject.App\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAIA7wCAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T22:55:47.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.Dal\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "KlinicProject.Dal\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.Dal\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "KlinicProject.Dal\\DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T23:12:56.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DepartmentService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.BL\\Implementations\\Services\\DepartmentService.cs",
+              "RelativeDocumentMoniker": "KlinicProject.BL\\Implementations\\Services\\DepartmentService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.BL\\Implementations\\Services\\DepartmentService.cs",
+              "RelativeToolTip": "KlinicProject.BL\\Implementations\\Services\\DepartmentService.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAIA5wDkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T23:28:15.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.App\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "KlinicProject.App\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.App\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "KlinicProject.App\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAqwGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T00:00:40.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.App\\appsettings.json",
+              "RelativeDocumentMoniker": "KlinicProject.App\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.App\\appsettings.json",
+              "RelativeToolTip": "KlinicProject.App\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-18T23:16:18.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.Model\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "KlinicProject.Model\\Models\\Doctor.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.Model\\Models\\Doctor.cs",
+              "RelativeToolTip": "KlinicProject.Model\\Models\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T23:09:00.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.App\\Areas\\Admin\\Views\\Doctor\\Create.cshtml",
+              "RelativeDocumentMoniker": "KlinicProject.App\\Areas\\Admin\\Views\\Doctor\\Create.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.App\\Areas\\Admin\\Views\\Doctor\\Create.cshtml",
+              "RelativeToolTip": "KlinicProject.App\\Areas\\Admin\\Views\\Doctor\\Create.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-19T00:49:50.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.App\\Areas\\Admin\\Views\\Doctor\\Update.cshtml",
+              "RelativeDocumentMoniker": "KlinicProject.App\\Areas\\Admin\\Views\\Doctor\\Update.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.App\\Areas\\Admin\\Views\\Doctor\\Update.cshtml",
+              "RelativeToolTip": "KlinicProject.App\\Areas\\Admin\\Views\\Doctor\\Update.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-19T03:24:32.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.App\\Areas\\Admin\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "KlinicProject.App\\Areas\\Admin\\Controllers\\DoctorController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.App\\Areas\\Admin\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "KlinicProject.App\\Areas\\Admin\\Controllers\\DoctorController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAmwDkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T00:33:00.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DoctorService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.BL\\Implementations\\Services\\DoctorService.cs",
+              "RelativeDocumentMoniker": "KlinicProject.BL\\Implementations\\Services\\DoctorService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.BL\\Implementations\\Services\\DoctorService.cs",
+              "RelativeToolTip": "KlinicProject.BL\\Implementations\\Services\\DoctorService.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAtwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T23:28:28.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DoctorProfile.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.BL\\Profiles\\DoctorProfile.cs",
+              "RelativeDocumentMoniker": "KlinicProject.BL\\Profiles\\DoctorProfile.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.BL\\Profiles\\DoctorProfile.cs",
+              "RelativeToolTip": "KlinicProject.BL\\Profiles\\DoctorProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T23:37:43.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.App\\Areas\\Admin\\Views\\Doctor\\Index.cshtml",
+              "RelativeDocumentMoniker": "KlinicProject.App\\Areas\\Admin\\Views\\Doctor\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.App\\Areas\\Admin\\Views\\Doctor\\Index.cshtml",
+              "RelativeToolTip": "KlinicProject.App\\Areas\\Admin\\Views\\Doctor\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-19T00:33:39.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DoctorCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.Model\\Dtos\\DoctorDtos\\DoctorCreateDto.cs",
+              "RelativeDocumentMoniker": "KlinicProject.Model\\Dtos\\DoctorDtos\\DoctorCreateDto.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.Model\\Dtos\\DoctorDtos\\DoctorCreateDto.cs",
+              "RelativeToolTip": "KlinicProject.Model\\Dtos\\DoctorDtos\\DoctorCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T23:11:57.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DoctorGetDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.Model\\Dtos\\DoctorDtos\\DoctorGetDto.cs",
+              "RelativeDocumentMoniker": "KlinicProject.Model\\Dtos\\DoctorDtos\\DoctorGetDto.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.Model\\Dtos\\DoctorDtos\\DoctorGetDto.cs",
+              "RelativeToolTip": "KlinicProject.Model\\Dtos\\DoctorDtos\\DoctorGetDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T23:12:12.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.App\\Areas\\Admin\\Views\\Department\\Index.cshtml",
+              "RelativeDocumentMoniker": "KlinicProject.App\\Areas\\Admin\\Views\\Department\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.App\\Areas\\Admin\\Views\\Department\\Index.cshtml",
+              "RelativeToolTip": "KlinicProject.App\\Areas\\Admin\\Views\\Department\\Index.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAC4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-19T00:33:49.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IDoctorService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.BL\\Implementations\\Interfaces\\IDoctorService.cs",
+              "RelativeDocumentMoniker": "KlinicProject.BL\\Implementations\\Interfaces\\IDoctorService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.BL\\Implementations\\Interfaces\\IDoctorService.cs",
+              "RelativeToolTip": "KlinicProject.BL\\Implementations\\Interfaces\\IDoctorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T23:27:49.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.App\\Areas\\Admin\\Views\\Department\\Update.cshtml",
+              "RelativeDocumentMoniker": "KlinicProject.App\\Areas\\Admin\\Views\\Department\\Update.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.App\\Areas\\Admin\\Views\\Department\\Update.cshtml",
+              "RelativeToolTip": "KlinicProject.App\\Areas\\Admin\\Views\\Department\\Update.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-19T03:09:36.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.App\\Areas\\Admin\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "KlinicProject.App\\Areas\\Admin\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.App\\Areas\\Admin\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "KlinicProject.App\\Areas\\Admin\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwEEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T00:32:48.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DepartmentGetDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.Model\\Dtos\\DepartmentDtos\\DepartmentGetDto.cs",
+              "RelativeDocumentMoniker": "KlinicProject.Model\\Dtos\\DepartmentDtos\\DepartmentGetDto.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.Model\\Dtos\\DepartmentDtos\\DepartmentGetDto.cs",
+              "RelativeToolTip": "KlinicProject.Model\\Dtos\\DepartmentDtos\\DepartmentGetDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T23:11:46.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DepartmentProfile.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.BL\\Profiles\\DepartmentProfile.cs",
+              "RelativeDocumentMoniker": "KlinicProject.BL\\Profiles\\DepartmentProfile.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.BL\\Profiles\\DepartmentProfile.cs",
+              "RelativeToolTip": "KlinicProject.BL\\Profiles\\DepartmentProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T23:35:07.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IDepartmentService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.BL\\Implementations\\Interfaces\\IDepartmentService.cs",
+              "RelativeDocumentMoniker": "KlinicProject.BL\\Implementations\\Interfaces\\IDepartmentService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.BL\\Implementations\\Interfaces\\IDepartmentService.cs",
+              "RelativeToolTip": "KlinicProject.BL\\Implementations\\Interfaces\\IDepartmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T23:27:32.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.App\\Areas\\Admin\\Views\\Department\\Create.cshtml",
+              "RelativeDocumentMoniker": "KlinicProject.App\\Areas\\Admin\\Views\\Department\\Create.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.App\\Areas\\Admin\\Views\\Department\\Create.cshtml",
+              "RelativeToolTip": "KlinicProject.App\\Areas\\Admin\\Views\\Department\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-19T00:49:36.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "KlinicProject.BL.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.BL\\KlinicProject.BL.csproj",
+              "RelativeDocumentMoniker": "KlinicProject.BL\\KlinicProject.BL.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.BL\\KlinicProject.BL.csproj",
+              "RelativeToolTip": "KlinicProject.BL\\KlinicProject.BL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-18T23:26:23.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DepartmentCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.Model\\Dtos\\DepartmentDtos\\DepartmentCreateDto.cs",
+              "RelativeDocumentMoniker": "KlinicProject.Model\\Dtos\\DepartmentDtos\\DepartmentCreateDto.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.Model\\Dtos\\DepartmentDtos\\DepartmentCreateDto.cs",
+              "RelativeToolTip": "KlinicProject.Model\\Dtos\\DepartmentDtos\\DepartmentCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T23:11:29.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FileUploadExtension.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.BL\\CustomExtension\\FileUploadExtension.cs",
+              "RelativeDocumentMoniker": "KlinicProject.BL\\CustomExtension\\FileUploadExtension.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.BL\\CustomExtension\\FileUploadExtension.cs",
+              "RelativeToolTip": "KlinicProject.BL\\CustomExtension\\FileUploadExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T02:33:32.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.App\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "KlinicProject.App\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.App\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "KlinicProject.App\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T22:58:32.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.App\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "KlinicProject.App\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.App\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "KlinicProject.App\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAAEMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T22:59:45.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.App\\Areas\\Admin\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "KlinicProject.App\\Areas\\Admin\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.App\\Areas\\Admin\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "KlinicProject.App\\Areas\\Admin\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-19T00:07:32.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.App\\Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "KlinicProject.App\\Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.App\\Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "KlinicProject.App\\Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-19T00:13:00.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.Model\\Dtos\\AppUserDtos\\LoginDto.cs",
+              "RelativeDocumentMoniker": "KlinicProject.Model\\Dtos\\AppUserDtos\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.Model\\Dtos\\AppUserDtos\\LoginDto.cs",
+              "RelativeToolTip": "KlinicProject.Model\\Dtos\\AppUserDtos\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T23:11:13.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.App\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "KlinicProject.App\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.App\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "KlinicProject.App\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T23:00:12.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.App\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "KlinicProject.App\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.App\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "KlinicProject.App\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAGEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T22:52:38.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.App\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "KlinicProject.App\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.App\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "KlinicProject.App\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T22:52:59.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.Model\\Dtos\\AppUserDtos\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "KlinicProject.Model\\Dtos\\AppUserDtos\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.Model\\Dtos\\AppUserDtos\\RegisterDto.cs",
+              "RelativeToolTip": "KlinicProject.Model\\Dtos\\AppUserDtos\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T23:10:58.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "KlinicProject.Model.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.Model\\KlinicProject.Model.csproj",
+              "RelativeDocumentMoniker": "KlinicProject.Model\\KlinicProject.Model.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.Model\\KlinicProject.Model.csproj",
+              "RelativeToolTip": "KlinicProject.Model\\KlinicProject.Model.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-18T23:05:08.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.Dal\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "KlinicProject.Dal\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.Dal\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "KlinicProject.Dal\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T23:21:15.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20250118232004_first.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.Dal\\Migrations\\20250118232004_first.cs",
+              "RelativeDocumentMoniker": "KlinicProject.Dal\\Migrations\\20250118232004_first.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.Dal\\Migrations\\20250118232004_first.cs",
+              "RelativeToolTip": "KlinicProject.Dal\\Migrations\\20250118232004_first.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T23:20:04.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.Model\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "KlinicProject.Model\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.Model\\Models\\AppUser.cs",
+              "RelativeToolTip": "KlinicProject.Model\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T23:05:23.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "KlinicProject.Dal.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.Dal\\KlinicProject.Dal.csproj",
+              "RelativeDocumentMoniker": "KlinicProject.Dal\\KlinicProject.Dal.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.Dal\\KlinicProject.Dal.csproj",
+              "RelativeToolTip": "KlinicProject.Dal\\KlinicProject.Dal.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-18T23:12:40.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.App\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "KlinicProject.App\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.App\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "KlinicProject.App\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T23:00:01.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.App\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "KlinicProject.App\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.App\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "KlinicProject.App\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOcCAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T22:58:46.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.App\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "KlinicProject.App\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.App\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "KlinicProject.App\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-18T22:55:35.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.App\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "KlinicProject.App\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.App\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "KlinicProject.App\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T22:52:50.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.App\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "KlinicProject.App\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.App\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "KlinicProject.App\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAF8BAAAAAAAAAAAAAF8BAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T22:52:21.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.App\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "KlinicProject.App\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.App\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "KlinicProject.App\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T22:52:11.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "KlinicProject.App.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.App\\KlinicProject.App.csproj",
+              "RelativeDocumentMoniker": "KlinicProject.App\\KlinicProject.App.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\KlinikProject\\KlinicProject.App\\KlinicProject.App.csproj",
+              "RelativeToolTip": "KlinicProject.App\\KlinicProject.App.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-18T22:51:34.389Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

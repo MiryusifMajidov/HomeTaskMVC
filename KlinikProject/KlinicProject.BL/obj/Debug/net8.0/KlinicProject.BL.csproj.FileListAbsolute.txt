@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\KlinikProject\KlinicProject.BL\bin\Debug\net8.0\KlinicProject.BL.deps.json
+C:\Users\User\source\repos\KlinikProject\KlinicProject.BL\bin\Debug\net8.0\KlinicProject.BL.dll
+C:\Users\User\source\repos\KlinikProject\KlinicProject.BL\bin\Debug\net8.0\KlinicProject.BL.pdb
+C:\Users\User\source\repos\KlinikProject\KlinicProject.BL\bin\Debug\net8.0\KlinicProject.Dal.dll
+C:\Users\User\source\repos\KlinikProject\KlinicProject.BL\bin\Debug\net8.0\KlinicProject.Model.dll
+C:\Users\User\source\repos\KlinikProject\KlinicProject.BL\bin\Debug\net8.0\KlinicProject.Dal.pdb
+C:\Users\User\source\repos\KlinikProject\KlinicProject.BL\bin\Debug\net8.0\KlinicProject.Model.pdb
+C:\Users\User\source\repos\KlinikProject\KlinicProject.BL\obj\Debug\net8.0\KlinicProject.BL.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\KlinikProject\KlinicProject.BL\obj\Debug\net8.0\KlinicProject.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\KlinikProject\KlinicProject.BL\obj\Debug\net8.0\KlinicProject.BL.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\KlinikProject\KlinicProject.BL\obj\Debug\net8.0\KlinicProject.BL.AssemblyInfo.cs
+C:\Users\User\source\repos\KlinikProject\KlinicProject.BL\obj\Debug\net8.0\KlinicProject.BL.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\KlinikProject\KlinicProject.BL\obj\Debug\net8.0\KlinicPr.261FEDAA.Up2Date
+C:\Users\User\source\repos\KlinikProject\KlinicProject.BL\obj\Debug\net8.0\KlinicProject.BL.dll
+C:\Users\User\source\repos\KlinikProject\KlinicProject.BL\obj\Debug\net8.0\refint\KlinicProject.BL.dll
+C:\Users\User\source\repos\KlinikProject\KlinicProject.BL\obj\Debug\net8.0\KlinicProject.BL.pdb
+C:\Users\User\source\repos\KlinikProject\KlinicProject.BL\obj\Debug\net8.0\ref\KlinicProject.BL.dll

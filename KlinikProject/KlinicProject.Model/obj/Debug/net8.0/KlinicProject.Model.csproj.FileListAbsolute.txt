@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\KlinikProject\KlinicProject.Model\bin\Debug\net8.0\KlinicProject.Model.deps.json
+C:\Users\User\source\repos\KlinikProject\KlinicProject.Model\bin\Debug\net8.0\KlinicProject.Model.dll
+C:\Users\User\source\repos\KlinikProject\KlinicProject.Model\bin\Debug\net8.0\KlinicProject.Model.pdb
+C:\Users\User\source\repos\KlinikProject\KlinicProject.Model\obj\Debug\net8.0\KlinicProject.Model.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\KlinikProject\KlinicProject.Model\obj\Debug\net8.0\KlinicProject.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\KlinikProject\KlinicProject.Model\obj\Debug\net8.0\KlinicProject.Model.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\KlinikProject\KlinicProject.Model\obj\Debug\net8.0\KlinicProject.Model.AssemblyInfo.cs
+C:\Users\User\source\repos\KlinikProject\KlinicProject.Model\obj\Debug\net8.0\KlinicProject.Model.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\KlinikProject\KlinicProject.Model\obj\Debug\net8.0\KlinicProject.Model.dll
+C:\Users\User\source\repos\KlinikProject\KlinicProject.Model\obj\Debug\net8.0\refint\KlinicProject.Model.dll
+C:\Users\User\source\repos\KlinikProject\KlinicProject.Model\obj\Debug\net8.0\KlinicProject.Model.pdb
+C:\Users\User\source\repos\KlinikProject\KlinicProject.Model\obj\Debug\net8.0\ref\KlinicProject.Model.dll

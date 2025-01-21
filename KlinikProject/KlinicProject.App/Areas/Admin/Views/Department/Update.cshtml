@@ -1,0 +1,31 @@
+﻿@using KlinicProject.Model.Dtos.DepartmentDtos
+@model DepartmentCreateDto
+<div class="col-lg-6">
+    <div class="card-style settings-card-2 mb-30">
+        <div class="title mb-30">
+            <h6>Department</h6>
+        </div>
+        <form method="post" asp-action="Update">
+            <div class="row">
+                <div class="col-12">
+                    <div class="input-style-1">
+                        <label>Full Name</label>
+                        <input asp-for="Title" placeholder="Full Name">
+                    </div>
+                </div>
+                <div class="col-12">
+                    <div class="input-style-1">
+                        <label>Full Name</label>
+                        <input asp-for="Description" placeholder="Full Name">
+                    </div>
+                </div>
+                <div class="col-12">
+                    <button type="submit" class="main-btn primary-btn btn-hover">
+                        add department
+                    </button>
+                </div>
+            </div>
+        </form>
+    </div>
+    <!-- end card -->
+</div>

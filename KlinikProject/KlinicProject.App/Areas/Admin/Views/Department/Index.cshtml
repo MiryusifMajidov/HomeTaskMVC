@@ -1,0 +1,75 @@
+﻿@using KlinicProject.Model.Dtos.DepartmentDtos
+@model IEnumerable<DepartmentGetDto>
+
+<div class="row">
+    <div class="col-lg-12">
+        <div class="card-style mb-30">
+            <h6 class="mb-10">Data Table</h6>
+            <p class="text-sm mb-20">
+                For basic styling—light padding and only horizontal
+                dividers—use the class table.
+            </p>
+            <div class="table-wrapper table-responsive">
+                <table class="table">
+                    <thead>
+                        <tr>
+                           
+                            <th>
+                                <h6>Title</h6>
+                            </th>
+                            
+                            <th>
+                                <h6>Status</h6>
+                            </th>
+                            <th>
+                                <h6>Action</h6>
+                            </th>
+                        </tr>
+                        <!-- end table row-->
+                    </thead>
+                    <tbody>
+                        
+                            @foreach (DepartmentGetDto department in Model)
+                            {
+                                <tr>
+                                   
+                                    <td class="min-width">
+                                        <p>@department.Title</p>
+                                    </td>
+                                   
+                                    <td class="min-width">
+                                        <span class="status-btn active-btn">Active</span>
+                                    </td>
+                                    <td>
+                                        <div class="action justify-content-end">
+                                        <a asp-action="Update" asp-route-Id="@department.Id" class="edit">
+                                                <i class="lni lni-pencil"></i>
+                                            </a>
+                                            <button class="more-btn ml-10 dropdown-toggle" id="moreAction1" data-bs-toggle="dropdown" aria-expanded="false">
+                                                <i class="lni lni-more-alt"></i>
+                                            </button>
+                                            <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="moreAction1">
+                                                <li class="dropdown-item">
+                                                    <a asp-action="Delete" asp-route-Id="@department.Id" class="text-gray">Remove</a>
+                                                </li>
+                                                <li class="dropdown-item">
+                                                <a asp-action="Update" asp-route-Id="@department.Id" class="text-gray">Edit</a>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </td>
+                                </tr>
+                                <!-- end table row -->
+                            }
+                        
+                       
+                       
+                    </tbody>
+                </table>
+                <!-- end table -->
+            </div>
+        </div>
+        <!-- end card -->
+    </div>
+    <!-- end col -->
+</div>
